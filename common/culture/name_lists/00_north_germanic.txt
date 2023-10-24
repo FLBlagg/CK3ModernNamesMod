@@ -1,0 +1,787 @@
+﻿name_list_norse = {
+
+	cadet_dynasty_names = {
+		"dynn_StO_rr"
+		"dynn_Borg"
+		"dynn_KrA_ka"
+		"dynn_Mikli"
+		"dynn_SmiD_r"
+		"dynn_MO_ring"
+		"dynn_GA_rdske2"
+		"dynn_Trolli"
+		"dynn_Kven"
+		"dynn_Toki"
+		"dynn_HA_rde"
+		"dynn_Eyjing"
+		"dynn_Orming"
+		"dynn_GoD_i"
+		"dynn_AustmaD_r"
+		"dynn_HA_vi"
+		"dynn_Rakki"
+		"dynn_Skrauti"
+		"dynn_Snarfari"
+		"dynn_Strangi"
+		"dynn_Snjalli"
+		"dynn_SU_rr"
+		"dynn_SkA_ld"
+		"dynn_Viss"
+		"dynn_T_rymr"
+		"dynn_T_vari"
+		"dynn_O_lfU_ss"
+		"dynn_O_rn"
+		"dynn_HvI_ti"
+		"dynn_Sterki"
+		"dynn_AuD_gi"
+		"dynn_RauD_i"
+		"dynn_Spaki"
+		"dynn_Svarti"
+		"dynn_Rammi"
+		"dynn_MjO_vi"
+		"dynn_RI_ki"
+		"dynn_Lambi"
+		"dynn_Skarfr"
+		"dynn_SkA_l"
+		"dynn_Sleggja"
+		"dynn_SmjO_r"
+		"dynn_Stjarna"
+		"dynn_StrU_gr"
+		"dynn_SA_lendingr"
+		"dynn_SU_rr"
+		"dynn_SA_lingr"
+		"dynn_Trausti"
+		"dynn_VeD_r"
+		"dynn_VA_mU_li"
+		"dynn_VA_ni"
+		"dynn_T_istill"
+		"dynn_T_jO_fi"
+		"dynn_T_ynning"
+		{ "dynnp_of" "dynn_Bebbanburg" }
+		"dynn_Byrrnesson"
+		{ "dynnp_af" "dynn_Raumariki" }
+		{ "dynnp_af" "dynn_Raumariki" }
+		{ "dynnp_af" "dynn_Dovre" }
+		{ "dynnp_af" "dynn_Dovre" }
+		"dynn_VeO_y"
+		{ "dynnp_af" "dynn_Raumsdalr" }
+		"dynn_Eirikson"
+		"dynn_Sognsdal"
+		"dynn_Gunarrson"
+		"dynn_Firdi"
+		{ "dynnp_af" "dynn_Aarhus" }
+		{ "dynnp_af" "dynn_Aarhus" }
+		{ "dynnp_af" "dynn_Aalborg" }
+		{ "dynnp_af" "dynn_Aalborg" }
+		{ "dynnp_af" "dynn_Varde" }
+		{ "dynnp_af" "dynn_Varde" }
+		{ "dynnp_af" "dynn_Skagen" }
+		{ "dynnp_af" "dynn_Skagen" }
+	}
+
+	dynasty_names = {
+		"dynn_StO_rr"
+		"dynn_Borg"
+		"dynn_KrA_ka"
+		"dynn_Mikli"
+		"dynn_SmiD_r"
+		"dynn_MO_ring"
+		"dynn_GA_rdske2"
+		"dynn_Trolli"
+		"dynn_Kven"
+		"dynn_Toki"
+		"dynn_HA_rde"
+		"dynn_Eyjing"
+		"dynn_Orming"
+		"dynn_GoD_i"
+		"dynn_AustmaD_r"
+		"dynn_HA_vi"
+		"dynn_Rakki"
+		"dynn_Skrauti"
+		"dynn_Snarfari"
+		"dynn_Strangi"
+		"dynn_Snjalli"
+		"dynn_SU_rr"
+		"dynn_SkA_ld"
+		"dynn_Viss"
+		"dynn_T_rymr"
+		"dynn_T_vari"
+		"dynn_O_lfU_ss"
+		"dynn_O_rn"
+		"dynn_HvI_ti"
+		"dynn_Sterki"
+		"dynn_AuD_gi"
+		"dynn_RauD_i"
+		"dynn_Spaki"
+		"dynn_Svarti"
+		"dynn_Rammi"
+		"dynn_MjO_vi"
+		"dynn_RI_ki"
+		"dynn_Lambi"
+		"dynn_Skarfr"
+		"dynn_SkA_l"
+		"dynn_Sleggja"
+		"dynn_SmjO_r"
+		"dynn_Stjarna"
+		"dynn_StrU_gr"
+		"dynn_SA_lendingr"
+		"dynn_SU_rr"
+		"dynn_SA_lingr"
+		"dynn_Trausti"
+		"dynn_VeD_r"
+		"dynn_VA_mU_li"
+		"dynn_VA_ni"
+		"dynn_T_istill"
+		"dynn_T_jO_fi"
+		"dynn_T_ynning"
+		{ "dynnp_of" "dynn_Bebbanburg" }
+		"dynn_Byrrnesson"
+		{ "dynnp_af" "dynn_Raumariki" }
+		{ "dynnp_af" "dynn_Raumariki" }
+		{ "dynnp_af" "dynn_Dovre" }
+		{ "dynnp_af" "dynn_Dovre" }
+		"dynn_VeO_y"
+		{ "dynnp_af" "dynn_Raumsdalr" }
+		"dynn_Eirikson"
+		"dynn_Sognsdal"
+		"dynn_Gunarrson"
+		"dynn_Firdi"
+		{ "dynnp_af" "dynn_Aarhus" }
+		{ "dynnp_af" "dynn_Aarhus" }
+		{ "dynnp_af" "dynn_Aalborg" }
+		{ "dynnp_af" "dynn_Aalborg" }
+		{ "dynnp_af" "dynn_Varde" }
+		{ "dynnp_af" "dynn_Varde" }
+		{ "dynnp_af" "dynn_Skagen" }
+		{ "dynnp_af" "dynn_Skagen" }
+	}
+	
+	male_names = {
+		Aage Aasmund Abelone Aeric Afi Agnar Ailbe Alaric Albin Aldis Alf Alfgeir Alfie Alfvin Algot Alrek Alrik Alvis Amund Anders Andor Angantyr Anker Anlaf Anselm Ansgar Aric Arild Arinbjorn Arlo Arn Arnar Arnbjorn Arne Arni Arnleif Arnor Arnstein Arnulf Aron Asbjorn Asbrand Asfrid Asgeir Asger Asgrim Askel Askell Aslak Asmund Asny Asvald Asvard Atli Audun Aulif Axl Axel Axlman Baard Bard Balder Bjorn Bjarke Bjarni Bodil Bolli Bragi Brandr Bue Canute Carsten Cnut Dag Dagfinn Darri Dyre Eerikki Eetu Eilif Eilifur Einar Eindridi Einhard Eirik Eirikur Erlend Erling Esben Eskild Eskil Evald Eyjolf Eyolf Eyvind Finn Finnur Floki Folke Frode Gandalfr Geir Geirr Geirvardur Geirstein Gerd Gerdur Gerhard Germod Gisli Gorm Grim Gruffud Gudbrand Gudmund Gudmundur Gudrun Gulli Gunnar Gunnbjorn Gunnolf Gunnvald Guthorm Guthrum Gytha Haakon Haavard Halldor Halldor Halli Halvard Halvdan Halvor Harald Harek Havard Havarr Hedda Hedvig Heidrun Helge Helgi Helgrim Henrik Herjolf Herleif Hermod Hjalmar Hjalti Hjortur Hjorleif Hjorolf Hlif Hlodver Hofgard Holmgeir Hrafn Hrafnar Hreidar Hreinn Hreinsteinn Hrolf Hrolleif Hromundur Hrothgar Hrutger Huldar Hyltir Idunn Ing Ingemar Ingimar Inge Ingebjorn Ingemund Ingjald Ingmar Ingrid Ingrid Ingunn Ingvar Ingvi Iorundur Isak Isarn Isgaut Ivar Ivor Jarl Jarle Jarlinn Jarlmod Jarlstein Joar Jokull Jon Jonatan Jonmundur Jonvald Jor Jorgrim Jorg Jorgen Jorleif Jorodd Jorunn Jorundur Jorvik Jostein Kalf Kalle Kare Karl Karsten Ketil Kettil Kettilmund Kettilvard Knud Knut Knutr Kol Kolbeinn Kolbjorn Kolfinn Kolgrim Kolgrimir Kolgrimur Kolli Kollur Kolmar Konal Konall Konrad Kormak Kormt Kort Kristr Lage Leif Leiknir Lennart Lenni Leod Lyting Magnus Mani Modolf Modolv Mogk Munan Mundilfare Nafni Njall Njord Njordur Odin Olaf Olav Ole Olev Olof Olov Orm Orri Oskar Osvald Ottar Otto Pall Paul Paulus Peder Pelle Penti Per Peter Ragnar Ragnvald Ragnvaldr Ragnvor Rasmus Reidar Rikard Riku Roar Rognvald Rolf Rorik Rune Runolf Sigbjorn Sigge Siggurd Siggy Sigismund Sigmund Sigsten Sigurd Sigurjon Sigvaldi Sigvat Sigve Sigwald Sigwarth Skafti Skallagrim Skapti Skarde Skjald Skule Snorri Soren Sorkvir Sten Stein Steinar Steinbjorn Steinthor Stig Stigr Sturla Styrmir Surt Svein Sveinn Sven Svenske Svend Svendur Sveyn Svipdag Taiti Thor Thorald Thorbjorn Thorbrand Thorfinn Thorgeir Thorgrim Thorhall Thorir Thorleif Thorleik Thorodd Thormod Thorolf Thorri Thorrir Thorstein Thorvald Thorvardur Thrain Thrond Throstur Thyri Tjodolf Tjodolv Tjorvi Toke Toleif Tor Tord Tore Torfi Torleif Tormod Torny Torolf Torstein Torvald Trygg Tryggve Trygve Tumi Tyr Tyri Ulf Ulfr Ulvur Valdemar Valgard Vali Valr Vandrad Varg Ve Valdemar Valthjof Vegard Vegardur Vestein Vidar Vidor Vigbjorn Vigfus Viggo Vignir Vilhjalmur Vilmar Vilmundur Vilppu Ymir Yngvar Yngve Yrjar Yrjana Yrjo Yvor
+	}
+	female_names = {
+		Aasa Aase Aasta Ada Agda Agga Agne Agneta Agnete Aili Aina Aino Aksa Akselina Alba Alfhild Alfrid Alva Alvilda Alvina Amalie Anbjorg Anda Andora Andrea Anemone Anja Annbjorg Anne Annfrid Annika Anny Ardis Arna Arnfrid Arnlaug Arnljot Arna Asa Asbjorg Asborg Asdis Asfrid Asgerd Aslaug Aslog Astrid Aud Audbjorg Audhild Audur Auda Augusta Bergdis Bergljot Bergthora Berit Birgit Birgitta Birna Bjorg Bjorna Bjort Bodil Bodilla Borghild Borgny Bothild Bothilda Bothilde Brit Brita Brynhild Brynja Dagbjort Dagmar Dagney Dagrun Dagunn Dagny Dana Danfrid Dara Dea Dina Dora Dordi Dotta Dotti Drifa Edda Edla Edny Eeva Eidi Eila Eilif Eilin Eira Eir Elin Elinborg Elna Else Elva Embla Emelie Emma Emmerentia Emunda Ena Endrida Engla Erna Estrid Eva Eva Eydna Eydis Eyglo Eyja Eyleif Eyrun Eyvor Freja Freyja Frida Fridbjorg Frideborg Fridrika Frigg Frigga Fritha Frithjofa Frithun Frode Frodine Gala Gerd Gerda Gerdis Gerdur Gilla Gisla Gislinde Gitta Gjerta Gjertine Gjord Gjorid Gjorun Gjorvor Gora Gorgunna Gro Groa Gudbjorg Gudfinna Gudlaug Gudny Gudrid Gudridur Gudrun Gull Gulla Gulli Gunnbjorg Gunnborg Gunndis Gunnele Gunnfrid Gunnhild Gunnlaug Gunnleif Gunnlod Gunnrun Gunnvor Gyda Gyrid Gylfi Gylfie Gylla Gyritha Hafdis Hafthor Haldis Halla Halldis Hallfrid Hannele Hanneli Harriet Hedda Hedvig Heida Heidrun Heiðr Helga Helin Hella Helle Herborg Herdis Herfrid Herlaug Hervor Hilda Hilma Holmfrid Hrafnhild Hrafnhildur Hrefna Hroar Hrodny Hulda Huld Inga Inge Ingebjorg Ingeborg Ingegard Ingela Ingelise Ingfrid Inghild Ingibjorg Ingrid Ingrun Ingva Iona Ione Ionna Irma Irun Iruna Isa Isolde Jofrid Johanna Jora Jorid Jorun Jorunn Jorunna Kaisa Kajsa Karen Kari Karin Karita Katla Katri Kellfrid Kerstin Ketill Ketla Kjellaug Kristin Kristina Kristjana Kyla Laila Lara Lara Leif Lene Lifa Lilja Lina Linnea Linne Lise Liva Liv Livny Lotta Loviisa Lykke Magnhild Magni Maja Majken Malfrid Malin Maren Margret Maria Marit Marita Marja Marje Marta Matilda Mette Mirja Mjoll Moa Nanna Nanny Nera Njala Nore Norna Oddbjorg Oddfrid Oddlaug Oddny Oddrun Oddveig Olof Oluva Osk Ona Ormhild Osa Oslaug Ostra Ottar Ottla Ottolina Oydis Oygunn Oyvor Petra Ragna Ragnfrid Ragnheidur Ragnhild Ragnhildur Ragni Ragnvor Rannveig Reida Reidun Reidunn Rikke Rima Rinda Rinde Rosa Runa Saga Sassa Sigrun Siv Sif Sigfrid Sigga Sighvat Siglinde Signe Signy Sigrid Sigridur Sigunna Sigunn Sigvor Silja Silje Sissel Siv Sol Solbjorg Solfrid Solveig Solvej Sonja Steina Steinunn Steinvor Stina Stine Sunneva Sunniva Svana Svanhild Svanhilda Svava Svea Svenja Svenna Sverra Swanhild Synnove Thora Thorbjorg Thorborg Thordis Thore Thorgunn Thorhild Thorlaug Thorleif Thorrun Thorsa Thorveig Thyra Thyri Tindra Tjorven Tora Torbjorg Torborg Tordis Tore Torfrid Torgerd Torgun Torhild Toril Torrun Torunn Torvor Tove Turid Turidur Unn Unna Unnur Urd Urda Vala Valdis Valgerd Valgred Valrun Valtraut Vanadis Vendela Vera Vibeke Vilborg Vilhelmina Vivi Viveka Ylva Yngva Yngvild Yrja
+	}
+	
+	dynasty_of_location_prefix = "dynnp_af"
+	
+	patronym_suffix_male = "dynnpat_suf_sson"
+	patronym_suffix_female = "dynnpat_suf_sdottir"
+	always_use_patronym = yes	
+	
+	# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
+	pat_grf_name_chance = 50
+	mat_grf_name_chance = 0
+	father_name_chance = 0
+	
+	# Chance of female children being named after their paternal or maternal grandmother, or their mother. Sum must not exceed 100.
+	pat_grm_name_chance = 10
+	mat_grm_name_chance = 50
+	mother_name_chance = 0
+
+	
+}
+name_list_swedish = {
+
+	cadet_dynasty_names = {
+		{ "dynnp_af" "dynn_Palatinate_Zweibrucken" }
+		{ "dynnp_af" "dynn_Holstein_Gottorp" }
+		"dynn_GA_rdske"
+		"dynn_Grip"
+		"dynn_Svarte"
+		"dynn_Skancke"
+		"dynn_Thornberg"
+		"dynn_Ribbing"
+		"dynn_BA_A_t"
+		"dynn_Ulv"
+		"dynn_Sparre"
+		"dynn_FA_rla"
+		"dynn_Brahe"
+		{ "dynnp_af" "dynn_Rumby" }
+		{ "dynnp_af" "dynn_Brunnsholm" }
+		{ "dynnp_af" "dynn_UlvA_sa" }
+		"dynn_SjO_blad"
+		"dynn_Skarsholm"
+		"dynn_BlA_"
+		"dynn_Natt_och_Dag"
+		"dynn_Griphuvud"
+		"dynn_Lejon"
+		"dynn_Bielke"
+		"dynn_Erik"
+		"dynn_Horn"
+		"dynn_Bjering"
+		"dynn_RothE_n"
+		"dynn_LA_ma"
+		"dynn_Rumby"
+		"dynn_DjA_kn"
+		"dynn_SvA_rd"
+		"dynn_Bagge"
+		"dynn_Borg"
+		"dynn_Bese"
+		"dynn_Boberg"
+		"dynn_Bragde"
+		"dynn_Bure"
+		"dynn_Eka"
+		"dynn_Fargalt"
+		{ "dynnp_af" "dynn_FA_nO_" }
+		"dynn_Forsa"
+		"dynn_Get"
+		"dynn_Gedda"
+		{ "dynnp_af" "dynn_Hafrid" }
+		"dynn_Hatt"
+		{ "dynnp_af" "dynn_HA_lbonA_s" }
+		"dynn_HA_sthuvud"
+		"dynn_Knoppe"
+		"dynn_Kraam"
+		"dynn_Lake"
+		"dynn_Lejonansikte"
+		"dynn_Lejonbalk"
+		"dynn_Marsvin"
+		"dynn_Oxhufvud"
+		"dynn_Oxpanna"
+		"dynn_Pik"
+		"dynn_Svan"
+		"dynn_Svinhufvud"
+		"dynn_Tott"
+		"dynn_Tre_Rosor"
+		"dynn_Tre_Rutor"
+		"dynn_Trolle"
+		"dynn_Vasa"
+		"dynn_Vinstorpa"
+		"dynn_Virske"
+		"dynn_Vingad_Pil"
+		"dynn_Vingad_Lilja"
+		"dynn_HA_stesko"
+		"dynn_O_rnsparre"
+		"dynn_Snedbielke"
+		"dynn_LA_ma"
+		"dynn_Fluga"
+		"dynn_Guldtupp"
+		"dynn_Ulfsax"
+		"dynn_Tre_SjO_blad"
+		"dynn_Stjerne"
+		"dynn_Bratt"
+		"dynn_Munk"
+		"dynn_Bjelke"
+		"dynn_Bonde"
+		"dynn_Pilhufvud"
+		"dynn_Haraldsson"
+		"dynn_Gera"
+		"dynn_Soop"
+		"dynn_Gylta"
+		"dynn_KA_rling"
+		{ "dynnp_af" "dynn_Finsta" }
+		"dynn_Leijonhufvud"
+		{ "dynnp_af" "dynn_AspenA_s" }
+		{ "dynnp_af" "dynn_Hammersta" }
+		"dynn_LilliehO_O_k"
+		"dynn_A_ngel"
+		"dynn_Fleming"
+		"dynn_Bidz"
+		"dynn_Diekn"
+		"dynn_Stiernkors"
+		"dynn_VillnA_s"
+		"dynn_Fincke"
+		"dynn_Dufva"
+		"dynn_JA_gerhorn_af_Spurila"
+		"dynn_Gesterby"
+		"dynn_BA_A_t"
+		"dynn_Cronstedt"
+	}
+
+	dynasty_names = {
+		"dynn_GA_rdske"
+		"dynn_Grip"
+		"dynn_Svarte"
+		"dynn_Skancke"
+		"dynn_Thornberg"
+		"dynn_Ribbing"
+		"dynn_BA_A_t"
+		"dynn_Ulv"
+		"dynn_Sparre"
+		"dynn_FA_rla"
+		"dynn_Brahe"
+		{ "dynnp_af" "dynn_Rumby" }
+		{ "dynnp_af" "dynn_Brunnsholm" }
+		{ "dynnp_af" "dynn_UlvA_sa" }
+		"dynn_SjO_blad"
+		"dynn_Skarsholm"
+		"dynn_BlA_"
+		"dynn_Natt_och_Dag"
+		"dynn_Griphuvud"
+		"dynn_Lejon"
+		"dynn_Bielke"
+		"dynn_Erik"
+		"dynn_Horn"
+		"dynn_Bjering"
+		"dynn_RothE_n"
+		"dynn_LA_ma"
+		"dynn_Rumby"
+		"dynn_DjA_kn"
+		"dynn_SvA_rd"
+		"dynn_Bagge"
+		"dynn_Borg"
+		"dynn_Bese"
+		"dynn_Boberg"
+		"dynn_Bragde"
+		"dynn_Bure"
+		"dynn_Eka"
+		"dynn_Fargalt"
+		{ "dynnp_af" "dynn_FA_nO_" }
+		"dynn_Forsa"
+		"dynn_Get"
+		"dynn_Gedda"
+		{ "dynnp_af" "dynn_Hafrid" }
+		"dynn_Hatt"
+		{ "dynnp_af" "dynn_HA_lbonA_s" }
+		"dynn_HA_sthuvud"
+		"dynn_Knoppe"
+		"dynn_Kraam"
+		"dynn_Lake"
+		"dynn_Lejonansikte"
+		"dynn_Lejonbalk"
+		"dynn_Marsvin"
+		"dynn_Oxhufvud"
+		"dynn_Oxpanna"
+		"dynn_Pik"
+		"dynn_Svan"
+		"dynn_Svinhufvud"
+		"dynn_Tott"
+		"dynn_Tre_Rosor"
+		"dynn_Tre_Rutor"
+		"dynn_Trolle"
+		"dynn_Vasa"
+		"dynn_Vinstorpa"
+		"dynn_Virske"
+		"dynn_Vingad_Pil"
+		"dynn_Vingad_Lilja"
+		"dynn_HA_stesko"
+		"dynn_O_rnsparre"
+		"dynn_Snedbielke"
+		"dynn_LA_ma"
+		"dynn_Fluga"
+		"dynn_Guldtupp"
+		"dynn_Ulfsax"
+		"dynn_Tre_SjO_blad"
+		"dynn_Stjerne"
+		"dynn_Bratt"
+		"dynn_Munk"
+		"dynn_Bjelke"
+		"dynn_Bonde"
+		"dynn_Pilhufvud"
+		"dynn_Haraldsson"
+		"dynn_Gera"
+		"dynn_Soop"
+		"dynn_Gylta"
+		"dynn_KA_rling"
+		{ "dynnp_af" "dynn_Finsta" }
+		"dynn_Leijonhufvud"
+		{ "dynnp_af" "dynn_AspenA_s" }
+		{ "dynnp_af" "dynn_Hammersta" }
+		"dynn_LilliehO_O_k"
+		"dynn_A_ngel"
+		"dynn_Fleming"
+		"dynn_Bidz"
+		"dynn_Diekn"
+		"dynn_Stiernkors"
+		"dynn_VillnA_s"
+		"dynn_Fincke"
+		"dynn_Dufva"
+		"dynn_JA_gerhorn_af_Spurila"
+		"dynn_Gesterby"
+		"dynn_BA_A_t"
+		"dynn_Cronstedt"
+	}
+	
+	male_names = {
+		Adam Adrian Albert Alexander Alf Algot Allan Alvar Alvin Anders Andreas Anton Arne Aron Arthur Arvid Axel Benjamin Bertil Birger Björn Bo Boris Bror Carl Carl-Johan Casper Christer Christian Christopher Claes Conny Cristian Daniel David Dennis Edvard Edvin Efraim Egil Einar Einar Elias Elis Elmer Elof Emil Emmanuel Erik Erland Ernst Esbjörn Evald Fabian Felix Filip Folke Frans Fredrik Gabriel Georg Göran Gösta Gustaf Gustav Håkan Halvar Hampus Hans Harald Harry Hasse Henrik Herbert Herman Holger Hugo Ingemar Ingvar Isak Ivan Ivar Jack Jacob Jakob Jan Jörgen Jesper Jimmy Joakim Joel Johan Johannes John Jonatan Jonas Jonny Josef Karl Karl-Erik Karl-Göran Kasper Kenneth Kent Kevin Kjell Klas Krister Kristian Kristoffer Kurt Lars Lasse Leif Leo Leonard Leopold Linus Ludvig Lukas Magnus Manfred Marcus Mark Markus Martin Mats Mattias Maximilian Melker Mikael Milton Morgan Natan Nils Nisse Nore Noel Ola Olaf Olav Ole Olof Olov Oscar Osman Otto Ove Patrik Paul Per Peter Petter Pär Ragnar Ralf Rasmus Rickard Robert Roger Roland Rolf Ruben Rune Sam Samuel Sebastian Seved Sigbjörn Sigurd Simon Sixten Stefan Sten Stig Sture Sune Sven Tage Ted Teodor Theo Theodor Thomas Thor Tomas Tom Tommy Tony Tor Tord Tore Torsten Ulf Uno Urban Valdemar Valter Verner Victor Vidar Viktor Vilgot Vilhelm Ville Vincent Vinga Verner Walter Wilhelm Willy Yngve Yrjö Örjan
+	}
+	female_names = {
+		Agda Agnes Aina Alba Alexandra Alice Alida Alma Alva Amanda Andrea Angela Anita Ann Anna Anne Anneli Annette Annie Annika Anny Astrid Augusta Aurora Beatrice Beata Beatrix Bella Berit Bertina Birgit Birgitta Blenda Boel Brita Britt Britta Camilla Carin Carina Carolina Caroline Cassandra Cecilia Charlotte Clara Dagmar Daisy Dana Daniella Desiree Diana Disa Doris Ebba Edit Edith Edna Eila Eira Eivor Elin Elina Elise Ella Ellinor Elma Elsa Elsie Elvira Emelie Emilia Emma Emmy Erica Erin Erika Ester Estelle Estrid Eva Evelina Fanny Felicia Filippa Fiona Flicka Freja Frida Gabriella Gerda Gerd Greta Gun Gunborg Gunhild Gunilla Gunnel Gunvor Hanna Harriet Hedda Hedvig Helen Helena Helene Helga Helmi Hilda Hildegard Hilma Hillevi Ida Ines Inga Ingeborg Ingegerd Inger Ingmarie Ingrid Irene Iris Irma Isabella Isabelle Ivar Ivetta Jacqueline Janina Janna Jeanette Jenny Jessica Jill Johanna Josefin Josephine Julia Karin Karina Karla Karolina Katarina Kerttu Kerstin Klara Kristin Kristina Laila Lara Laura Lena Liane Lillian Lillie Lilly Linda Linnea Lisa Lisbeth Lise Liselott Lisen Livia Lizette Lotta Louise Lovisa Lucia Lucinda Ludmila Lydia Madeleine Magdalena Magdalene Maja Malin Malou Manda Maria Marianne Marie Marina Marit Marlene Martha Mathilda Matilda Meja Melinda Melanie Melina Melissa Mia Michaela Michelle Mikaela Milda Mimmi Minna Moa Monica My Natalia Nellie Nora Norah Nova Olivia Patricia Paulina Pernilla Petra Rebecca Rebecka Rita Roberta Rosa Rosita Rut Sabina Saga Sanna Sara Selma Selina Serena Sigrid Sigrun Signe Signhild Siv Siri Sofia Sonja Sophia Stina Susanne Svea Sylvia Therese Thilda Tilda Tina Tindra Tove Tyra Ulla Ulrika Uma Vendela Vera Veronika Victoria Vilhelmina Vilma Viola Virginia Viveka Vivan Ylva Yrsa Yvonne Zara Åsa Ängla Ölga
+	}
+	
+	dynasty_of_location_prefix = "dynnp_af"
+	
+	patronym_suffix_male = "dynnpat_suf_sson"
+	patronym_suffix_female = "dynnpat_suf_sdotter"
+	always_use_patronym = yes	
+	
+	# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
+	pat_grf_name_chance = 80
+	mat_grf_name_chance = 0
+	father_name_chance = 0
+	
+	# Chance of female children being named after their paternal or maternal grandmother, or their mother. Sum must not exceed 100.
+	pat_grm_name_chance = 10
+	mat_grm_name_chance = 50
+	mother_name_chance = 0
+
+	
+
+	mercenary_names = {
+		{ name = "mercenary_company_gota_band" }
+	}
+}
+name_list_norwegian = {
+	cadet_dynasty_names = {
+		{ "dynnp_of" "dynn_Viken" }
+		{ "dynnp_of" "dynn_Vestfold" }
+		{ "dynnp_of" "dynn_HardrA_de" }
+		{ "dynnp_of" "dynn_Gille" }
+		{ "dynnp_of" "dynn_Sverre" }
+		"dynn_Brusastad"
+		"dynn_Bolt"
+		"dynn_Giske"
+		"dynn_Raud"
+		"dynn_Gullbjelke"
+		"dynn_Hesby"
+		{ "dynnp_av" "dynn_Sudreim" }
+		{ "dynnp_av" "dynn_Norge" }
+		"dynn_Ulfhilde"
+		{ "dynnp_av" "dynn_Aurland" }
+		"dynn_KormA_kur"
+		"dynn_Gautur"
+		"dynn_Kvaran"
+		"dynn_EldjA_rn"
+		"dynn_MjO_ll"
+		"dynn_NO_tt"
+		"dynn_BlO_ndal"
+		"dynn_Finne"
+		"dynn_Orri"
+		"dynn_GrO_nske"
+		"dynn_Nordal"
+		"dynn_TrA_tte"
+		"dynn_KjA_rnested"
+		"dynn_BjO_rk2"
+		"dynn_Dosenrode"
+		"dynn_Haarde"
+		"dynn_A_sbrning"
+		"dynn_Oddaverjar"
+		"dynn_Ormslev"
+		"dynn_Gnarr"
+		"dynn_Holmsen"
+		"dynn_Benkestokk"
+		"dynn_Handingmann"
+		"dynn_Aspa"
+		"dynn_Aurland"
+		"dynn_BjarkO_y"
+		"dynn_Andenes"
+		"dynn_Blakar"
+		"dynn_Blindheim"
+		"dynn_Asdal"
+		"dynn_Hudfat"
+		"dynn_HA_rd"
+		"dynn_Kane"
+		"dynn_Losna"
+		"dynn_Ringnes"
+		"dynn_Semeleng"
+		"dynn_SpA_nheim"
+		"dynn_Gjesling"
+		"dynn_Sudrheim"
+		"dynn_Talgje"
+		"dynn_Teiste"
+		"dynn_O_stby"
+		"dynn_O_strA_t"
+		"dynn_Rein"
+		"dynn_Giske"
+		"dynn_Kamp"
+		"dynn_Nordhagen"
+		"dynn_Bolt"
+		"dynn_Galle"
+		"dynn_Galtung"
+		"dynn_Hjerne"
+		"dynn_Kamp"
+		"dynn_RO_mer"
+		"dynn_Skanke"
+		"dynn_SmO_r"
+		"dynn_Staur"
+		"dynn_Skjegge"
+		"dynn_Gunn"
+		"dynn_Helmehytte"
+		"dynn_Akeleye"
+		"dynn_Brockenhuus"
+		"dynn_Kamban"
+		"dynn_Somerled"
+		"dynn_MO_re"
+		"dynn_Krabbe"
+		"dynn_Lodehat"
+		"dynn_Pagh"
+		"dynn_Vedel"
+		"dynn_Rosenkrantz"
+		"dynn_Kaas"
+		"dynn_Juel"
+		"dynn_Bildt"
+		"dynn_Galte"
+		"dynn_Drotning"
+		"dynn_Kjarval"
+		"dynn_Ekeh"
+		"dynn_LO_ve"
+		"dynn_Ormstunga"
+		"dynn_GoD_i"
+		"dynn_Gautur"
+		"dynn_Eyfells"
+		"dynn_A_sgeir"
+		"dynn_Kamban"
+		"dynn_Braghde"
+		"dynn_BanE_r"
+		"dynn_Wrede"
+		"dynn_Balk"
+		"dynn_Taube"
+		"dynn_Creutz"
+		"dynn_Wrangel"
+		"dynn_Sporre"
+		"dynn_EhrensvA_rd"
+		"dynn_Aldersparre"
+		"dynn_AdelswA_rd"
+		"dynn_Hlidarendi"
+		"dynn_UI__I_mair"
+		"dynn_O_stman"
+		{ "dynnp_av" "dynn_Rogen" }
+		{ "dynnp_av" "dynn_Bergen" }
+		{ "dynnp_av" "dynn_Eidsborg" }
+		{ "dynnp_av" "dynn_Finnmark" }
+		{ "dynnp_av" "dynn_RO_st" }
+		{ "dynnp_af" "dynn_Romerike" }
+		"dynn_Dovre"
+	}
+
+	dynasty_names = {
+		"dynn_Brusastad"
+		"dynn_Bolt"
+		"dynn_Giske"
+		"dynn_Raud"
+		"dynn_Gullbjelke"
+		"dynn_Hesby"
+		{ "dynnp_av" "dynn_Sudreim" }
+		{ "dynnp_av" "dynn_Norge" }
+		"dynn_Ulfhilde"
+		{ "dynnp_av" "dynn_Aurland" }
+		"dynn_KormA_kur"
+		"dynn_Gautur"
+		"dynn_Kvaran"
+		"dynn_EldjA_rn"
+		"dynn_MjO_ll"
+		"dynn_NO_tt"
+		"dynn_BlO_ndal"
+		"dynn_Finne"
+		"dynn_Orri"
+		"dynn_GrO_nske"
+		"dynn_Nordal"
+		"dynn_TrA_tte"
+		"dynn_KjA_rnested"
+		"dynn_BjO_rk2"
+		"dynn_Dosenrode"
+		"dynn_Haarde"
+		"dynn_A_sbrning"
+		"dynn_Oddaverjar"
+		"dynn_Ormslev"
+		"dynn_Gnarr"
+		"dynn_Holmsen"
+		"dynn_Benkestokk"
+		"dynn_Handingmann"
+		"dynn_Aspa"
+		"dynn_Aurland"
+		"dynn_BjarkO_y"
+		"dynn_Andenes"
+		"dynn_Blakar"
+		"dynn_Blindheim"
+		"dynn_Asdal"
+		"dynn_Hudfat"
+		"dynn_HA_rd"
+		"dynn_Kane"
+		"dynn_Losna"
+		"dynn_Ringnes"
+		"dynn_Semeleng"
+		"dynn_SpA_nheim"
+		"dynn_Gjesling"
+		"dynn_Sudrheim"
+		"dynn_Talgje"
+		"dynn_Teiste"
+		"dynn_O_stby"
+		"dynn_O_strA_t"
+		"dynn_Rein"
+		"dynn_Giske"
+		"dynn_Kamp"
+		"dynn_Nordhagen"
+		"dynn_Bolt"
+		"dynn_Galle"
+		"dynn_Galtung"
+		"dynn_Hjerne"
+		"dynn_Kamp"
+		"dynn_RO_mer"
+		"dynn_Skanke"
+		"dynn_SmO_r"
+		"dynn_Staur"
+		"dynn_Skjegge"
+		"dynn_Gunn"
+		"dynn_Helmehytte"
+		"dynn_Akeleye"
+		"dynn_Brockenhuus"
+		"dynn_Kamban"
+		"dynn_Somerled"
+		"dynn_MO_re"
+		"dynn_Krabbe"
+		"dynn_Lodehat"
+		"dynn_Pagh"
+		"dynn_Vedel"
+		"dynn_Rosenkrantz"
+		"dynn_Kaas"
+		"dynn_Juel"
+		"dynn_Bildt"
+		"dynn_Galte"
+		"dynn_Drotning"
+		"dynn_Kjarval"
+		"dynn_Ekeh"
+		"dynn_LO_ve"
+		"dynn_Ormstunga"
+		"dynn_GoD_i"
+		"dynn_Gautur"
+		"dynn_Eyfells"
+		"dynn_A_sgeir"
+		"dynn_Kamban"
+		"dynn_Braghde"
+		"dynn_BanE_r"
+		"dynn_Wrede"
+		"dynn_Balk"
+		"dynn_Taube"
+		"dynn_Creutz"
+		"dynn_Wrangel"
+		"dynn_Sporre"
+		"dynn_EhrensvA_rd"
+		"dynn_Aldersparre"
+		"dynn_AdelswA_rd"
+		"dynn_Hlidarendi"
+		"dynn_UI__I_mair"
+		"dynn_O_stman"
+		{ "dynnp_av" "dynn_Rogen" }
+		{ "dynnp_av" "dynn_Bergen" }
+		{ "dynnp_av" "dynn_Eidsborg" }
+		{ "dynnp_av" "dynn_Finnmark" }
+		{ "dynnp_av" "dynn_RO_st" }
+		{ "dynnp_af" "dynn_Romerike" }
+		"dynn_Dovre"
+	}
+	
+	male_names = {
+		Aage Aksel Albert Aleksander Alf Alfons Alvar Amund André Andreas Anton Arild Arne Arnold Arnt Arvid Asbjørn Asgeir Atle Audun August Axel Benjamin Bernt Bjarne Bjarte Bjørn Børge Carl Christian Christoffer Christopher Dag Daniel David Edvard Edvin Egon Eilif Einar Eivind Ejnar Eldar Elias Elis Emil Emanuel Emil Endre Enok Enzo Erik Erlend Erling Eystein Even Finn Frode Gabriel Gaute Georg Geir Gisle Gunnar Gustav Haakon Halvard Hans Harald Harry Helge Henrik Herman Hjalmar Hugo Ivar Jacob Jakob Jan Janne Jarle Jarl Jeppe Jesper Joakim Johan Johannes John Jon Jonas Jørgen Jørn Jostein Karl Kenneth Kent Ketil Kevin Kim Kjetil Klaus Knut Kolbjørn Kåre Lars Lauritz Leif Leo Leonard Leon Lidvin Ludvig Magnus Marius Mark Martin Mathias Mats Mattis Max Mikael Morten Nils Odd Oddbjørn Oddmund Odin Olaf Olav Ole Oskar Osmund Ove Pål Patrick Paul Per Petter Ragnar Reidar Rolf Ronny Roald Rune Samuel Sebastian Selmer Sigbjørn Sigurd Sindre Sjur Sondre Steffen Steinar Sten Stian Stig Sture Svend Svein Sveinung Sven Syver Tage Terje Thomas Thorbjørn Tollef Tom Tommy Tor Tord Tore Torfinn Torstein Torvald Trond Trygve Ulf Ulrik Ulrik Unni Vebjørn Vegar Vegard Vidar Viktor Vilhelm William Yngve Yngvar Øivind Ørjan Ørnulf Øyvind
+	}
+	female_names = {
+		Ada Aina Alette Amalie Andrea Angela Anine Anita Anna Anne Annette Annie Anniken Ase Aslaug Astrid Audhild Audun Aurora Barbro Beate Benedikte Bergljot Berit Berte Bjarne Bjorg Borghild Brit Brita Britt Camilla Caroline Cathrine Cecilie Charlotte Christina Dagmar Dagrun Dagny Dina Dordi Dorthe Edda Edith Edna Eivor Elin Elina Elisabeth Elise Ella Ellen Ellinor Elsa Elsie Emilie Emma Ena Erika Ester Eva Evelyn Fanny Frigg Frida Frøya Gabrielle Gerd Gjertrud Gudrun Guro Gunn Gunvor Gøril Hanna Hanne Hedda Hedvig Heidi Hege Helene Helga Henriette Herborg Hilde Hildur Idunn Ida Ina Ine Inga Ingebjorg Ingeborg Ingegerd Inger Ingrid Ingvild Irene Iris Iselin Ivana Jannicke Jeanette Jelena Jenny Jessica Jorunn Josefine Julie June Karen Kari Karin Karine Karoline Kathrine Kirsten Kirsti Klara Kjersti Kristin Kristina Kristine Laila Laura Lena Lene Lillian Lilly Line Lisa Lisbeth Lise Liv Lone Louise Lovise Lucie Lydia Maja Malin Maria Marianne Marie Marit Marita Marlene Marte Martine Mathilde Matilde Mia Mina Mira Mona Monica Monika My Naomi Natalie Nora Norah Oda Olga Oline Olivia Pauline Pernilla Petra Ragna Randi Rikke Rita Ronja Rosa Ruth Sara Selma Serena Sidsel Sigrid Silje Sigrun Sissel Siv Siri Sofia Solveig Sonja Stella Stina Stine Sunniva Synnøve Synøve Thale Thea Therese Tina Tiril Tone Tora Torbjørg Tordis Tove Turid Ulla Ulrikke Unni Vebjørn Vebjørg Vibeke Victoria Vigdis Vilhelmine Vilde Wenche Ylva Yvonne Ågot Åsa Åshild
+	}
+	
+	dynasty_of_location_prefix = "dynnp_av"
+	
+	patronym_suffix_male = "dynnpat_suf_sson"
+	patronym_suffix_female = "dynnpat_suf_sdatter"
+	always_use_patronym = yes	
+
+	mercenary_names = {
+		{ name = "mercenary_company_birchers_of_place" }
+	}
+}
+name_list_danish = {
+
+	cadet_dynasty_names = {
+		{ "dynnp_af" "dynn_Glucksburg" }
+		{ "dynnp_af" "dynn_AbelslA_gten" }
+		{ "dynnp_af" "dynn_LO_venbalk" }
+		"dynn_Porse"
+		"dynn_Glysing"
+		{ "dynnp_af" "dynn_Danmark" }
+		{ "dynnp_af" "dynn_Viborg" }
+		"dynn_Sprakalegg"
+		"dynn_Sturlung"
+		"dynn_SvI_nfelling"
+		"dynn_VatnsfirD_ing"
+		"dynn_Galen"
+		"dynn_Vogelius"
+		"dynn_Brock"
+		"dynn_Banner"
+		"dynn_Thott"
+		"dynn_Botner"
+		"dynn_Darre"
+		"dynn_Egge"
+		"dynn_Kusse"
+		"dynn_Grand"
+		{ "dynnp_af" "dynn_Frondholm" }
+		"dynn_GO_ye"
+		"dynn_GrO_n"
+		"dynn_Friis"
+		"dynn_Daa"
+		"dynn_Ryning"
+		"dynn_Reventlow"
+		{ "dynnp_af" "dynn_Torestorp" }
+		"dynn_Ulfstand"
+		"dynn_Hack"
+		"dynn_Juul"
+		"dynn_Ulfeldt"
+		"dynn_Bang"
+		"dynn_Toll"
+		"dynn_Vognsen"
+		"dynn_Juel"
+	}
+
+	dynasty_names = {
+		"dynn_Porse"
+		"dynn_Glysing"
+		{ "dynnp_af" "dynn_Danmark" }
+		{ "dynnp_af" "dynn_Viborg" }
+		"dynn_Sprakalegg"
+		"dynn_Sturlung"
+		"dynn_SvI_nfelling"
+		"dynn_VatnsfirD_ing"
+		"dynn_Galen"
+		"dynn_Vogelius"
+		"dynn_Brock"
+		"dynn_Banner"
+		"dynn_Thott"
+		"dynn_Botner"
+		"dynn_Darre"
+		"dynn_Egge"
+		"dynn_Kusse"
+		"dynn_Grand"
+		{ "dynnp_af" "dynn_Frondholm" }
+		"dynn_GO_ye"
+		"dynn_GrO_n"
+		"dynn_Friis"
+		"dynn_Daa"
+		"dynn_Ryning"
+		"dynn_Reventlow"
+		{ "dynnp_af" "dynn_Torestorp" }
+		"dynn_Ulfstand"
+		"dynn_Hack"
+		"dynn_Juul"
+		"dynn_Ulfeldt"
+		"dynn_Bang"
+		"dynn_Toll"
+		"dynn_Vognsen"
+		"dynn_Juel"
+	}
+	
+	male_names = {
+		Adam Adrian Aksel Albert Alexander Alfred Allan Andreas Anton Arne Arthur Asbjørn Asger August Axel Benjamin Bent Bjarke Bjørn Bo Brian Carl Casper Christian Christoffer Claus Daniel David Dennis Emil Erik Esben Espen Egon Ferdinand Filip Finn Frederik Georg Gorm Gregers Gustav Hakon Halfdan Hans Harald Harry Helge Hemming Henrik Herman Holger Hugo Ib Ivar Jacob Jakob Jan Jesper Jim Johan Johannes John Jonas Jonatan Jørgen Jørn Jostein Karl Kasper Kenneth Klaus Kristian Kristoffer Kurt Lars Lauritz Leif Leo Linus Ludvig Lukas Mads Magnus Malthe Marcus Mark Martin Mathias Matthias Michael Mikael Mikkel Mogens Morten Nels Niall Niels Nils Noah Olaf Ole Oliver Oscar Otto Palle Patrick Paul Peder Per Peter Poul Preben Rasmus Rene Richard Robert Rolf Ronnie Roar Rune Samuel Sebastian Sigurd Simon Soren Stefan Steffen Steinar Stig Svend Sven Søren Tage Thor Thorkild Thorvald Thyge Tim Tobias Tomas Tom Tommy Tonny Torben Troels Ulf Ulrik Valdemar Vagn Valter Victor Viggo Viktor Vilhelm William Yngve Zacharias
+	}
+	female_names = {
+		Agnes Agnete Alberte Alexandra Alice Amalie Andrea Angela Anja Anker Anna Anne Annika Annmarie Anny Anneli Annette Annie Annike Annemette Astrid Augusta Aya Barbara Beate Benedikte Berit Bente Betina Bine Birgit Birgitta Birte Birthe Bodil Britta Britt Camilla Carina Caroline Cecilie Charlotte Christine Clara Dagmar Dagny Dina Doris Dorte Dorthea Ebba Edda Edith Elin Elinor Elisa Elisabeth Ella Ellen Ellinor Else Elsie Emelie Emilie Emma Erika Erna Esther Eva Evelyn Fie Filippa Fleur Fie Frederikke Freja Frida Fritze Gabriella Gerda Gitte Grethe Gry Gurli Gudrun Gunhild Gunvor Hanne Hedvig Heidi Helene Helga Helle Henriette Herdis Hilda Hilde Hilma Ida Ina Ines Inga Ingeborg Ingegerd Inger Ingri Ingrid Irene Iris Isabella Ivar Jacobine Janne Janni Jannik Jeanette Jenny Jesper Johanna Josefine Julie Jytte Kamilla Karen Karin Karina Karla Karoline Katrine Kirsten Kirstine Klara Krista Kristina Kristine Laila Laura Lena Lene Lillian Lilly Line Lisa Lisbeth Lise Liv Lone Louise Lovise Lucie Lydia Maja Malene Malou Malthe Maren Maria Marie Marianne Marina Marlene Marthe Mathilde Mette Mia Mie Mille Mona Monica Naja Nana Nanna Natalie Nicole Nina Nora Norah Oda Olga Olivia Pernille Petra Randi Rebekka Rigmor Rita Rosa Rose Ruth Sabina Sanne Sara Selma Selina Serena Sigrid Signe Signy Silje Sille Siri Sofia Solveig Sonja Stina Stine Susanne Sussi Svenja Søs Tania Thea Thelma Tilde Tine Tina Tove Trine Trude Ulla Ulrika Ursula Ulla Valborg Vibeke Victoria Vigga Vivi Viveka Wilma Ylva Yrsa Yvonne Zara Åse
+	}
+	
+	dynasty_of_location_prefix = "dynnp_af"
+	
+	patronym_suffix_male = "dynnpat_suf_sen"
+	patronym_suffix_female = "dynnpat_suf_sdatter"
+	always_use_patronym = yes	
+
+	# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
+	pat_grf_name_chance = 80
+	mat_grf_name_chance = 0
+	father_name_chance = 0
+	
+	# Chance of female children being named after their paternal or maternal grandmother, or their mother. Sum must not exceed 100.
+	pat_grm_name_chance = 10
+	mat_grm_name_chance = 50
+	mother_name_chance = 0
+	
+	
+
+	mercenary_names = {
+		{ name = "mercenary_company_border_reavers_band" }
+	}
+}

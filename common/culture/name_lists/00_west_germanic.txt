@@ -1,0 +1,530 @@
+﻿name_list_english = {
+
+	cadet_dynasty_names = {
+		{ "dynnp_de" "dynn_Bohun" }
+		{ "dynnp_de" "dynn_Vere" }
+		{ "dynnp_de" "dynn_Gand" }
+		"dynn_Myall"
+		{ "dynnp_de" "dynn_Turberville" }
+		{ "dynnp_de" "dynn_Holland" }
+		"dynn_Butler"
+		{ "dynnp_of" "dynn_Thornham" }
+		{ "dynnp_de" "dynn_Camville" }
+		"dynn_Breakspear"
+		{ "dynnp_of" "dynn_Itchington" }
+		{ "dynnp_of" "dynn_Northall" }
+		{ "dynnp_de" "dynn_Montagu" }
+		{ "dynnp_de" "dynn_Umfraville" }
+		"dynn_FitzPeter"
+		"dynn_Belles-mains"
+		{ "dynnp_of" "dynn_Warwick" }
+		"dynn_FitzAlan"
+		{ "dynnp_de" "dynn_Beauchamp" }
+		{ "dynnp_of" "dynn_Ilchester" }
+		{ "dynnp_de" "dynn_Raleigh" }
+		{ "dynnp_de" "dynn_Stratford" }
+		"dynn_Becket"
+		{ "dynnp_de" "dynn_la_Pole" }
+	}
+
+	dynasty_names = {
+		{ "dynnp_de" "dynn_Bohun" }
+		{ "dynnp_de" "dynn_Vere" }
+		{ "dynnp_de" "dynn_Gand" }
+		"dynn_Myall"
+		{ "dynnp_de" "dynn_Turberville" }
+		{ "dynnp_de" "dynn_Holland" }
+		"dynn_Butler"
+		{ "dynnp_of" "dynn_Thornham" }
+		{ "dynnp_de" "dynn_Camville" }
+		"dynn_Breakspear"
+		{ "dynnp_of" "dynn_Itchington" }
+		{ "dynnp_of" "dynn_Northall" }
+		{ "dynnp_de" "dynn_Montagu" }
+		{ "dynnp_de" "dynn_Umfraville" }
+		"dynn_FitzPeter"
+		"dynn_Belles-mains"
+		{ "dynnp_of" "dynn_Warwick" }
+		"dynn_FitzAlan"
+		{ "dynnp_de" "dynn_Beauchamp" }
+		{ "dynnp_of" "dynn_Ilchester" }
+		{ "dynnp_de" "dynn_Raleigh" }
+		{ "dynnp_de" "dynn_Stratford" }
+		"dynn_Becket"
+		{ "dynnp_de" "dynn_la_Pole" }
+	}
+	
+	# Does not exist in 1066 - is the result of cultural amalgamation between Saxon and Norman through events
+	male_names = {
+		Aaron Abel Adam Adrian Aidan Aiden Alan Albert Alec Alexander Alfred Allen Alvin Andre Andres Andrew Andy Angel Archer Arlo Arthur Asher August Augustus Austin Avery Barry Beau Beckham Benjamin Bernard Bill Bob Bradley Brandon Brendan Brett Brian Brooks Bruce Bryan Brycen Caleb Calvin Camden Cameron Carlos Carter Casey Chad Charles Charlie Chase Chris Christian Christopher Clarence Cody Cole Colin Colten Connor Corey Craig Curtis Dale Damian Daniel Darren Darryl Dave David Declan Dennis Derek Devin Dominic Dominick Donald Doug Douglas Drew Duane Dustin Dwight Dylan Earl Ed Eddie Edgar Edmund Edward Edwin Elias Eli Elliott Ellis Elmer Emerson Eric Erik Ernest Ethan Evan Felix Fernando Francisco Frankie Frank Fred Frederick Gabriel Gavin Gene Geoffrey George Gerald Glen Glenn Giovanni Gordon Grant Greg Gregory Harold Harry Harvey Hayden Henry Herb Herbert Howard Hugh Ian Isaac Jack Jackson Jacob James Jamie Jared Jason Jasper Jay Jayce Jayden Jeff Jeffrey Jeremiah Jeremy Jerry Jesse Jesus Jim Jimmy Joe Joel John Johnny Jonathan Jordan Joseph Joshua Josiah Julian Justin Kai Kaleb Kayden Keith Ken Kenneth Kent Kevin King Kyle Lamar Lance Larry Lawrence Lee Leonard Leroy Lewis Liam Logan Louie Louis Luca Lucas Luis Luke Maddox Marcus Mason Matthew Max Maximo Maximus Michael Miguel Miles Myles Nathan Nathaniel Neal Nelson Nick Nicholas Nolan Norman Oliver Omar Oscar Owen Pat Patrick Paul Percy Perry Pete Peter Phil Philip Phillip Preston Rafael Raymond Reed Reggie Richard Rick Rob Robert Rodney Roger Ron Ronald Roy Russell Ryan Sam Samuel Santiago Sawyer Sebastian Sergio Silas Solomon Stephen Steve Steven Stuart Ted Terry Thomas Tim Timothy Todd Tom Tony Travis Trevor Troy Tyler Tyrone Vance Victor Vincent Walter Wesley Will William Willie Wilson Wyatt Xander Xavier Zach Zachary Zane Zeke Zion Aatrox Aiden Alexios Alucard Altair Arthas Arthur Ashe Auron Axel Azir Baird Banjo Barret Barrett Basch Bayek Bigby Bill BJ Blazkowicz Booker Bowser Brucie Caleb Captain Falcon Carl Cayde-6 Cecil Chrom CJ Claude Clutch Cole Corvo Crash Crono Dante Darius Daxter Deckard Demitri Desmond Diaz Diddy Dimitri Doomguy Drake Duke Duncan Dunban Ezio Fenix Francis Frank Ganondorf Garrus Geralt Ghale Gladiolus Glados Gordon Graves Green Lantern Grey Warden Grunt Guybrush Hanzo Heihachi Henry HK-47 Illidan Iori Isaac Jace Jacob Jak Jakiro James Jason JD Jhin Jim Raynor Jin John Johnny Kaidan Kaim Kanji Kasumi Kazuma Ken Kenway Kerrigan King Kiryu Kratos Kreia Krieg Kyo L-Block Lee Leon Leonidas Lloyd Logan Louis Luigi Luke Lyra MacCready Mario Marston Master-Chief Max Mega-Man Michael Mike Min Minato Mordin Morgan Morrigan Nathan Neku Ness Niko Noctis Olaf Olimar Orchid Pac-Man Paarthurnax Paladin Paul Payne Peach Phoenix Pit Price Prophet Pyro Raiden Ramirez Raynor Raz Red Regis Revan Richter Rico Riku Roxas Ryu Ryuji Samus Scorpion Sephiroth Sheik Shepard Shulk Simon Sion Snake Soap Solaire Solid Sonic Sora Spider-Man Starkiller Steve Strider Hiryu Sub-Zero Tails Talion Tali Taven Tidus Tommy Toad Trevor Triss Tychus Ulfric Vaas Varric Vayne Vergil Viktor Valentine Wario Wei Shen Wesker Wheatley Wrex Yoshi Yuri Zack Zero Zeus Zidane Zoran Auron Balthier Basch Cid Cloud Edgar Firion Gabranth Galuf Garland Gilgamesh Gladiolus Irvine Kain Kimahri Kurasame Locke Noctis Orlandeau Prompto Ramza Red XIII Rufus Seifer Seymour Shadow Snow Squall Steiner Tidus Vaan Vivi Wakka Yang Zell
+		
+	}
+	female_names = {
+		Abigail Addison Adeline Adriana Aileen Aimee Alaina Alana Alejandra Alexa Alexandra Alice Alicia Alina Alison Allison Allyson Alma Alyssa Amanda Amara Amaya Amber Amelia Amy Ana Anastasia Andrea Angela Angelica Angelina Anika Anna Annabelle Anne Annie Annika Aria Ariana Ariel Ariella Ashley Ashlyn Ashton Athena Aubrey Audrey Aurora Ava Avery Bailey Barbara Beatrice Belinda Bella Bernice Beth Bethany Bianca Blair Blake Bonnie Brenda Briana Brianna Bridget Brielle Britney Brittany Brooke Brooklyn Camila Camille Candace Cara Carla Carly Carmen Carol Caroline Carolyn Carrie Casey Cassandra Cassidy Catherine Cecelia Cecilia Celeste Celia Chantal Charlene Charlotte Cheryl Chloe Christina Christine Cindy Claire Clara Clarissa Claudia Colleen Connie Courtney Crystal Cynthia Daisy Dana Danielle Daphne Darlene Dawn Deanna Deborah Debra Delia Denise Diana Diane Donna Dora Dorothy Eileen Elaine Eleanor Elena Eliana Elise Eliza Elizabeth Ella Ellen Ellie Eloise Elsa Elsie Emily Emma Erica Erin Esther Eva Evelyn Faith Faye Felicia Fiona Frances Francesca Gabriella Gabrielle Gemma Genevieve Georgia Gia Gillian Gina Giselle Gloria Grace Greta Gwendolyn Hailey Haley Hannah Harmony Harper Hayley Hazel Heather Heidi Helen Helena Hilary Holly Hope Irene Iris Isabel Isabella Isabelle Isla Ivy Jackie Jacqueline Jada Jade Jamie Jane Janelle Janet Janice Jasmine Jean Jeanette Jeanne Jenna Jennifer Jenny Jessica Jessie Jill Jillian Joan Joanna Jocelyn Jodi Jodie Jody Jordan Josephine Joy Joyce Judith Judy Julia Juliana Julianne Julie Juliet June Kaitlyn Karen Karina Kate Katelyn Katherine Kathleen Kathryn Kathy Katie Katrina Kay Kayla Kaylee Keira Kelly Kelsey Kendra Kennedy Kim Kimberly Krista Kristen Kristin Kristina Kyla Kylee Kylie Lana Laura Lauren Laurie Lea Leah Leila Lena Leslie Lila Liliana Lillian Lily Linda Lindsay Lisa Liz Lola Lorena Lorraine Louise Lucia Lucy Lydia Lyla Lynn Mackenzie Macy Madeline Madelyn Madison Mae Maggie Maisie Mandy Mara Marcia Margaret Maria Mariah Marian Mariana Marie Marilyn Marina Marion Marissa Martha Mary Maryann Maura Maureen Mavis Maxine Maya Megan Meghan Melanie Melinda Melissa Meredith Mia Michaela Michelle Mikayla Milena Mindy Miranda Molly Monica Morgan Mya Nadia Nancy Naomi Natalia Natalie Natasha Nellie Nia Nicole Nina Noelle Nora Norma Olga Olivia Paige Pamela Paris Patricia Patty Paula Peggy Penelope Penny Phoebe Piper Polly Priscilla Quinn Rachel Raquel Rebecca Reese Renee Rita Riley Ruby Sadie Samantha Sandra Sara Sarah Savannah Scarlett Selena Serena Sharon Shirley Sienna Sierra Skylar Sofia Sophia Sophie Stella Stephanie Summer Susan Sylvia Tara Taylor Tessa Theresa Tiffany Valerie Vanessa Vera Veronica Victoria Violet Virginia Vivian Wendy Whitney Willow Wren Ximena Yasmine Yolanda Yvette Zara Zoe
+		
+	}
+	dynasty_of_location_prefix = "dynnp_of"
+	bastard_dynasty_prefix = "dynnp_fitz"
+
+	patronym_suffix_male = "dynnpat_suf_s"
+	patronym_suffix_female = "dynnpat_suf_s"
+	
+	# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
+	pat_grf_name_chance = 30
+	mat_grf_name_chance = 10
+	father_name_chance = 25
+	
+	# Chance of female children being named after their paternal or maternal grandmother, or their mother. Sum must not exceed 100.
+	pat_grm_name_chance = 20
+	mat_grm_name_chance = 40
+	mother_name_chance = 5
+	
+	
+
+	mercenary_names = {
+		{ name = "mercenary_company_white_company" coat_of_arms = "mc_white_company" }
+		{ name = "mercenary_company_hawkwoods_band" }
+	}
+}
+name_list_anglo_saxon = {
+
+	cadet_dynasty_names = {
+		"dynn_Hayles"
+		{ "dynnp_of" "dynn_Norfolk" }
+		"dynn_Rose"
+		"dynn_Dodington"
+		"dynn_Stawell"
+		"dynn_Huntingdon"
+		"dynn_Lockhart"
+		"dynn_Wuffing"
+		"dynn_Henry"
+		"dynn_Hastings"
+		"dynn_Puttoc"
+		{ "dynnp_of" "dynn_Anglo-Saxony" }
+		{ "dynnp_of" "dynn_Northampton" }
+		"dynn_A_theling"
+		"dynn_Moore"
+		"dynn_Fysche"
+		"dynn_Dall"
+		"dynn_Slee"
+		"dynn_Kiil"
+		"dynn_Mel"
+		"dynn_Holter"
+		"dynn_Randolph"
+		"dynn_Percy"
+		"dynn_Despencer"
+		"dynn_Bacon"
+		"dynn_Reresby"
+		"dynn_Cornwallis"
+		"dynn_Clifford"
+		"dynn_Carew"
+		"dynn_Maddock"
+		"dynn_Fortescue"
+		{ "dynnp_de" "dynn_Ros" }
+		"dynn_Howard"
+		"dynn_Maudit"
+		"dynn_Berkeley"
+		"dynn_Barton"
+		"dynn_Colvile"
+		"dynn_Grey"
+		"dynn_Darcy"
+		{ "dynnp_de" "dynn_Garlande" }
+		"dynn_Perry"
+		"dynn_Bethell"
+		"dynn_Perry"
+		"dynn_Borthwick"
+		{ "dynnp_de" "dynn_London" }
+		{ "dynnp_of" "dynn_Hereford" }
+		{ "dynnp_of" "dynn_Gloucester" }
+		{ "dynnp_of" "dynn_Oxford" }
+		{ "dynnp_of" "dynn_Salisbury" }
+		{ "dynnp_of" "dynn_Surrey" }
+		{ "dynnp_of" "dynn_Sussex" }
+		{ "dynnp_of" "dynn_Hampshire" }
+		{ "dynnp_of" "dynn_Dorset" }
+		{ "dynnp_of" "dynn_Somerset" }
+		{ "dynnp_of" "dynn_Devon" }
+		{ "dynnp_of" "dynn_Exeter" }
+		{ "dynnp_of" "dynn_Cumberland" }
+		{ "dynnp_of" "dynn_York" }
+		{ "dynnp_of" "dynn_Lancaster" }
+		{ "dynnp_of" "dynn_Chester" }
+		{ "dynnp_of" "dynn_Lincoln" }
+		{ "dynnp_of" "dynn_Leicester" }
+		{ "dynnp_of" "dynn_Derby" }
+		{ "dynnp_of" "dynn_Shrewsbury" }
+		{ "dynnp_of" "dynn_Northampton" }
+		{ "dynnp_of" "dynn_Bedford" }
+		{ "dynnp_of" "dynn_Norfolk" }
+		{ "dynnp_of" "dynn_Suffolk" }
+		"dynn_Crawford"
+		"dynn_Tynedale"
+		"dynn_Pudsey"
+		"dynn_Marshal"
+		"dynn_Rowe"
+		{ "dynnp_de" "dynn_Criel" }
+		"dynn_Ciesla"
+		"dynn_Ross"
+		"dynn_Wuffing"
+		"dynn_Beorming"
+		"dynn_Eorling"
+		"dynn_A_bbing"
+		"dynn_A_lling"
+		"dynn_Wintaling"
+	}
+
+	dynasty_names = {
+		"dynn_Hayles"
+		{ "dynnp_of" "dynn_Norfolk" }
+		"dynn_Rose"
+		"dynn_Dodington"
+		"dynn_Stawell"
+		"dynn_Huntingdon"
+		"dynn_Lockhart"
+		"dynn_Wuffing"
+		"dynn_Henry"
+		"dynn_Hastings"
+		"dynn_Puttoc"
+		{ "dynnp_of" "dynn_Anglo-Saxony" }
+		{ "dynnp_of" "dynn_Northampton" }
+		"dynn_A_theling"
+		"dynn_Moore"
+		"dynn_Fysche"
+		"dynn_Dall"
+		"dynn_Slee"
+		"dynn_Kiil"
+		"dynn_Mel"
+		"dynn_Holter"
+		"dynn_Randolph"
+		"dynn_Percy"
+		"dynn_Despencer"
+		"dynn_Bacon"
+		"dynn_Reresby"
+		"dynn_Cornwallis"
+		"dynn_Clifford"
+		"dynn_Carew"
+		"dynn_Maddock"
+		"dynn_Fortescue"
+		{ "dynnp_de" "dynn_Ros" }
+		"dynn_Howard"
+		"dynn_Maudit"
+		"dynn_Berkeley"
+		"dynn_Barton"
+		"dynn_Colvile"
+		"dynn_Grey"
+		"dynn_Darcy"
+		{ "dynnp_de" "dynn_Garlande" }
+		"dynn_Perry"
+		"dynn_Bethell"
+		"dynn_Perry"
+		"dynn_Borthwick"
+		{ "dynnp_de" "dynn_London" }
+		{ "dynnp_of" "dynn_Hereford" }
+		{ "dynnp_of" "dynn_Gloucester" }
+		{ "dynnp_of" "dynn_Oxford" }
+		{ "dynnp_of" "dynn_Salisbury" }
+		{ "dynnp_of" "dynn_Surrey" }
+		{ "dynnp_of" "dynn_Sussex" }
+		{ "dynnp_of" "dynn_Hampshire" }
+		{ "dynnp_of" "dynn_Dorset" }
+		{ "dynnp_of" "dynn_Somerset" }
+		{ "dynnp_of" "dynn_Devon" }
+		{ "dynnp_of" "dynn_Exeter" }
+		{ "dynnp_of" "dynn_Cumberland" }
+		{ "dynnp_of" "dynn_York" }
+		{ "dynnp_of" "dynn_Lancaster" }
+		{ "dynnp_of" "dynn_Chester" }
+		{ "dynnp_of" "dynn_Lincoln" }
+		{ "dynnp_of" "dynn_Leicester" }
+		{ "dynnp_of" "dynn_Derby" }
+		{ "dynnp_of" "dynn_Shrewsbury" }
+		{ "dynnp_of" "dynn_Northampton" }
+		{ "dynnp_of" "dynn_Bedford" }
+		{ "dynnp_of" "dynn_Norfolk" }
+		{ "dynnp_of" "dynn_Suffolk" }
+		"dynn_Crawford"
+		"dynn_Tynedale"
+		"dynn_Pudsey"
+		"dynn_Marshal"
+		"dynn_Rowe"
+		{ "dynnp_de" "dynn_Criel" }
+		"dynn_Ciesla"
+		"dynn_Ross"
+		"dynn_Wuffing"
+		"dynn_Beorming"
+		"dynn_Eorling"
+		"dynn_A_bbing"
+		"dynn_A_lling"
+		"dynn_Wintaling"
+	}
+	
+	male_names = {
+		Arncytel Balthere Beorhtfrith Beorhthelm BeorhtmE_r Beorhtnoth Beorhtric Beorhtsige Beorhtwine Beorn BeornrE_d Beornwulf
+		Burgheard Byrhtnoth Cearl Cenfus CenrE_d Cenwulf Ceolwulf Cerdic Copsige
+		Cuthberht CuthrE_d Cynehelm Cynewulf Cytelbearn Eadberht Eadfrith Eadgar Eadmund EadmE_r Eadric
+		EadrE_d Eadsige Eadulf Eadweald Eadweard Eadwig Eadwine Eadwulf Ealdhun Ealdmund EaldrE_d Ealdwine
+		Ealdwulf Eanberht Eanfrith Eanhere Eardwulf Eastmund Ecgberht Ecgfrith Gamall Godwine Gospatric Guthfrith Guthmund
+		Gyrth Hacon Harold Heahberht Hereberht Hereweald Hereweard Hlothere Hrodberht InwE_r Leofheah Leofhelm
+		Leofric Leofweald Leofwine Maccus Morcar ME_rleswegn Offa Onlaf Ordgar
+		Oscytel Oshere Osmund Osric OsrE_d Osulf Osweald Oswine Oswulf Petre RE_dwulf RE_genweald Scule
+		Sigeberht Sigehelm Sigeric SigerE_d Sighere Siweard Stigand Swegn Swithelm SwithrE_d SwE_frE_d SE_bert SE_lrE_d SE_weald
+		SE_xbald SE_xrE_d ThorE_d Thurcytel Thurfrith Tostig UhtrE_d Ulf Ulfcytel Waltheof Werestan Wiglaf WihtrE_d
+		Wistan Wulf Wulfgar Wulfgeat Wulfhelm Wulfhere WulfmE_r Wulfnoth Wulfstan E_lfgar E_lfmE_r E_lfnoth E_lfric E_lfrE_d E_lfsige
+		E_lfstan E_lfwald E_lfweard E_lfwig E_lfwine E_lle E_thelbald E_thelberht E_thelfrith E_thelhere E_thelmE_r
+		E_thelric E_thelrE_d E_thelsige E_thelstan E_thelweald E_thelweard E_thelwine E_thelwold E_thelwulf
+		Eormenred Eorcenberht Eormenric Eadbald RE_dwald
+	}
+	female_names = {
+		Agatha Balthild BeorhtflE_d Beorhtgifu Beorhtgyth Beorhtwaru Beorhtwynn BeornflE_d Beorngyth BlE_ja BurgflE_d CeolflE_d Cristina
+		Cuthburg Cwenburg Cyneburg Cynegyth Cynehild Cyneswith Cynethryth Eadburg EadflE_d Eadgifu Eadgyth Eadhburh Eadhild Ealdgyth
+		EalhflE_d Ealhswith Eanswith Ecgfrida Ecgwyn Godgifu Gunhilda Gytha Helga Heregyth Hereswith Hextilda Hungifu Judith
+		LeofflE_d Leofgifu Leofrun Leofwaru Leofwynn Margaret Maud Mildrith Octreda SifflE_d Sigrid SE_thryth WulfflE_d Wulfgifu
+		Wulfgyth Wulfhild Wulfrun Wulfthryth Wulfwaru Wulfwynn WynnflE_d WE_rburg E_bba E_lfflE_d E_lfgifu E_lfgyth E_lflE_da E_lfrida
+		E_lfswith E_lfthryth E_lfwynn E_thelburg E_thelflE_d E_thelgifu E_thelhild E_thelrE_da E_thelswith E_thelthryth
+		E_thelburh Seaxburh Wihtburh
+	}
+
+	dynasty_of_location_prefix = "dynnp_of"
+
+	patronym_suffix_male = "dynnpat_suf_son"
+	patronym_suffix_female = "dynnpat_suf_sdohtor"
+	always_use_patronym = yes	
+
+	# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
+	pat_grf_name_chance = 30
+	mat_grf_name_chance = 10
+	father_name_chance = 5
+	
+	# Chance of female children being named after their paternal or maternal grandmother, or their mother. Sum must not exceed 100.
+	pat_grm_name_chance = 20
+	mat_grm_name_chance = 40
+	mother_name_chance = 5
+
+	
+
+	mercenary_names = {
+		{ name = "mercenary_company_hengist_retinue" coat_of_arms = "mc_hengist_retinue" }
+		{ name = "mercenary_company_wakes_guard" coat_of_arms = "mc_wakes_guard" }
+		{ name = "mercenary_company_horsas_band" coat_of_arms = "mc_horsas_band" }
+	}
+}
+
+name_list_old_saxon = {
+	dynasty_names = {
+		dynn_Pattensen
+		dynn_Schneider
+		dynn_Theodericing
+		dynn_Richfriding
+		dynn_Abonid
+		dynn_Smeldiging
+		dynn_Unwanid
+		dynn_Hessing
+	}
+	
+	male_names = {
+		Abo Adalbero Adalbert Adalbrand Adaldag Adalgar Adalgod Adolf Aelle Albrecht Alebrand
+		Altfrid Ansgar Arnd Arnold Asig Balduin Balthasar Banzleib Beneke Benno Bernd
+		Bernhard Bertold Bertram Boddic Brun Bruno Burchard Cissa Claus Cobbo Cord
+		Cyprian Dago Dedo Dethard Detleff Detmar Diederik Donar Eggerd Egilmar Ekbert Engelbert
+		Engelhard Erik Erp Esiko Everd Ewald Floribert Freawine Frederik Gehrke Gelder Gero Gerold Gevert
+		Ghert Giselher Giselmar Gosschalk Goswin Gunzelin GO_dke GU_nther Hans Harthgate Hartwig Heideke
+		Hengest Henneke Herberd Hermann Hinrik Hoger Hulderic Humfried Immed Isidor Jacob Jaspar Jochim
+		Johann Juries Kersten KO_pke Laurentz Lembert Leuderic Liawizo Liemar Liudger Luder-Udo
+		Luder Ludolf Ludwig Magnus Marbold Marquard Mathias Meinwerk Merten Michael
+		Norbert Odo Ordulf Peter Philipp Radke Reginbern Reinbern Reineke Reinmar Rudigar
+		Rudolf Sigbert Sigfrid Sigward Simon Steffen Thankmar Theoderic Theodoric
+		Theodwin Thimo Thomas Tobe Tymmeke Udo Unwan Viric Volkwin Volrad Walbert Waldemar Waldered Waltard
+		Warin Warinechin Wecta Wenzel Werneke Weybrecht Wichbert Wichmann Wicho Widukind Wigebert Wilbrand
+		Willichin Withgils Witikind Witta Wlencing Wolter Wulff
+	}
+	female_names = {
+		Addila Adelheid Alof Agnes Anna Athela Beatrix Bertha Bertrada Bia Bisina Bithild
+		Brigida Christina Diedke Eilika Elisabeth Enda Frederuna Geilana Gerberga Gertrud Gisela
+		Glismod Hadwig Hasala Heilwig Helene Hildegard Hrothwina Ida Imma Irmgard Irminburg
+		Jutta Katharina Kunigunde Luitgard Margarete Mathilde Mechthild Oda
+		Othelindis Radegund Reginlint Richardis Rodelinda Sophia Suanhilde Theodrada Thiedburga Wienke Wiltrud Wulfhild
+	}
+
+	dynasty_of_location_prefix = "dynnp_of"
+
+	patronym_suffix_male = "dynnpat_suf_sunu"
+	patronym_suffix_female = "dynnpat_suf_sdohtar"
+	always_use_patronym = yes	
+
+	# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
+	pat_grf_name_chance = 30
+	mat_grf_name_chance = 10
+	father_name_chance = 5
+	
+	# Chance of female children being named after their paternal or maternal grandmother, or their mother. Sum must not exceed 100.
+	pat_grm_name_chance = 20
+	mat_grm_name_chance = 40
+	mother_name_chance = 5	
+}
+
+name_list_scottish = {
+	cadet_dynasty_names = {
+		{ "dynnp_de" "dynn_Kald" }
+		{ "dynnp_de" "dynn_la_Haya" }
+		{ "dynnp_de" "dynn_Lindsay" }
+		{ "dynnp_de" "dynn_Loudoun" }
+		{ "dynnp_de" "dynn_Ramsay" }
+		{ "dynnp_of" "dynn_Angus" }
+		{ "dynnp_of" "dynn_Carrick" }
+		{ "dynnp_of" "dynn_Galloway" }
+		{ "dynnp_of" "dynn_Galloway" }
+		{ "dynnp_of" "dynn_Scotland" }
+		{ "dynnp_of" "dynn_Strathearn" }
+		{ "dynnp_of" "dynn_Tullibardine" }
+		dynn_Abernethy
+		dynn_Arbuthnot
+		dynn_Archil
+		dynn_Armstrong
+		dynn_Ballantyne
+		dynn_Bannock
+		dynn_Barclay
+		dynn_Blackadder
+		dynn_Borthwick
+		dynn_Bradnigh
+		dynn_Branain
+		dynn_Bruce
+		dynn_Buchan
+		dynn_Cameron
+		dynn_Campbell
+		dynn_Camshron
+		dynn_Carrun
+		dynn_Cockburn
+		dynn_Cosmungho
+		dynn_Craigies
+		dynn_Dean
+		dynn_Douglas
+		dynn_Errol
+		dynn_Forbes
+		dynn_Fothriff
+		dynn_Fraser
+		dynn_Friseal
+		dynn_Gillespie
+		dynn_Glenklochar
+		dynn_Gordon
+		dynn_Graham
+		dynn_Grant
+		dynn_Johnston
+		dynn_Kennoway
+		dynn_Kyle
+		dynn_Lochore
+		dynn_Lowden
+		dynn_Menteith
+		dynn_Murray
+		dynn_Olifard
+		dynn_Rannaire
+		dynn_Saint-Clair
+		dynn_Scoine
+		dynn_Strathearn
+		dynn_Turnbull
+		dynn_Wallace
+	}
+
+	dynasty_names = {
+		{ "dynnp_de" "dynn_Kald" }
+		{ "dynnp_de" "dynn_la_Haya" }
+		{ "dynnp_de" "dynn_Lindsay" }
+		{ "dynnp_de" "dynn_Loudoun" }
+		{ "dynnp_de" "dynn_Ramsay" }
+		{ "dynnp_of" "dynn_Angus" }
+		{ "dynnp_of" "dynn_Carrick" }
+		{ "dynnp_of" "dynn_Galloway" }
+		{ "dynnp_of" "dynn_Galloway" }
+		{ "dynnp_of" "dynn_Scotland" }
+		{ "dynnp_of" "dynn_Strathearn" }
+		{ "dynnp_of" "dynn_Tullibardine" }
+		dynn_Abernethy
+		dynn_Arbuthnot
+		dynn_Archil
+		dynn_Armstrong
+		dynn_Ballantyne
+		dynn_Bannock
+		dynn_Barclay
+		dynn_Blackadder
+		dynn_Borthwick
+		dynn_Bradnigh
+		dynn_Branain
+		dynn_Bruce
+		dynn_Buchan
+		dynn_Cameron
+		dynn_Campbell
+		dynn_Camshron
+		dynn_Carrun
+		dynn_Cockburn
+		dynn_Cosmungho
+		dynn_Craigies
+		dynn_Dean
+		dynn_Douglas
+		dynn_Errol
+		dynn_Forbes
+		dynn_Fothriff
+		dynn_Fraser
+		dynn_Friseal
+		dynn_Gillespie
+		dynn_Glenklochar
+		dynn_Gordon
+		dynn_Graham
+		dynn_Grant
+		dynn_Johnston
+		dynn_Kennoway
+		dynn_Kyle
+		dynn_Lochore
+		dynn_Lowden
+		dynn_Menteith
+		dynn_Murray
+		dynn_Olifard
+		dynn_Rannaire
+		dynn_Saint-Clair
+		dynn_Scoine
+		dynn_Strathearn
+		dynn_Turnbull
+		dynn_Wallace
+	}
+	
+	male_names = {
+		Adam Alpin Alan Alastair Alexander Andrew
+		Angus Archibald Arthur Arran Aulay Beathan Brian Brice Cailean Calum Carbrey Colban
+		Colin Conall Conan Constantine David Dermid Donald Douglas Duff Dugald
+		Duncan Edgar Edward Edwin Eric Evander Ewan Farquhar Fergus Fingal Findlay Frang
+		Gavin Gilbert Gilbride Gilchrist Gillespie Gilpatrick Gilroy Giric Glenn Godfrey Gregor
+		Hamish Hector Henry Hugh Iain Indulf James John Kenneth Kentigern Lachlan Laurence Lennon
+		Lulach Macbeth Magnus Malcolm Maldoven Maldred Malise Malmure Maoilios Marcas Malsnectan
+		Matad Matthew Michael Morgan Muir Mungo Murdoch Murray Neil Ninian Oscar
+		Patrick Paul Peter Philip Radulf Ranald Richard Robert Roderick Ronald Rory Ross Roy
+		Shaw Sholto Simon Somerled Stephan Sweeny Taig Talore Thomas Torquil Uhtred Uisdean Walan
+		Waldeve Walter William
+	}
+	female_names = {
+		Ada Affraic Agnes Aileen Alice Anna Annabella Aufrica Barabal Beileag Beitris Beathoc Bride
+		Catriona Cecilia Christina Deirdre Derilla Dervorgilla Donada Donella
+		Edith Edna Effie Eilionoir Eimhir Eithne Ela Eleanor Elspeth Euna Eva Fenella Fingola Flora
+		Forflissa Galiena Glenna Gormelia Gruoch Helen Innes Iona Isabel Isla Isobel Jean Julia
+		Kenna Kentigerna Kirstin Lillias Lorna Malmure Maisie Malina Margaret Mariota Marjory Mary
+		Martha Marthoc Maud Maura Mirren Mor Morag Morna Moyna Muriel
+		Murron Nuala Orabilia Peigi Rhonda Rodina Ronalda Ros Saundra Sheena Shona Slaine Sorcha Steacy Una
+	}
+	
+	dynasty_of_location_prefix = "dynnp_de"
+	
+	patronym_prefix_male = "dynnpat_pre_Mc"
+	patronym_prefix_female = "dynnpat_pre_Mc"
+	
+	
+	pat_grf_name_chance = 30
+	mat_grf_name_chance = 15
+	father_name_chance = 5
+	
+	pat_grm_name_chance = 30
+	mat_grm_name_chance = 15
+	mother_name_chance = 10
+
+	mercenary_names = {
+		{ name = mercenary_company_border_reivers }
+		{ name = mercenary_company_warband_of_the_great_hall }
+		{ name = mercenary_company_company_of_the_kings_son }
+	}
+}
