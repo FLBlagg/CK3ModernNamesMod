@@ -11,6 +11,10 @@ New English Dynasties
 
 500 Modernized Anglo-Saxon Names (1900 English Names)
 
+500 Modernized Swedish Names
+
+500 Modernized Norse Names
+
 Assorted Irish, Spanish, Italian, Greek, Latin name expansion
 
 # TO-DO
