@@ -155,10 +155,57 @@
 	}
 	
 	male_names = {
-		Aage Aasmund Abelone Aeric Afi Agnar Ailbe Alaric Albin Aldis Alf Alfgeir Alfie Alfvin Algot Alrek Alrik Alvis Amund Anders Andor Angantyr Anker Anlaf Anselm Ansgar Aric Arild Arinbjorn Arlo Arn Arnar Arnbjorn Arne Arni Arnleif Arnor Arnstein Arnulf Aron Asbjorn Asbrand Asfrid Asgeir Asger Asgrim Askel Askell Aslak Asmund Asny Asvald Asvard Atli Audun Aulif Axl Axel Axlman Baard Bard Balder Bjorn Bjarke Bjarni Bodil Bolli Bragi Brandr Bue Canute Carsten Cnut Dag Dagfinn Darri Dyre Eerikki Eetu Eilif Eilifur Einar Eindridi Einhard Eirik Eirikur Erlend Erling Esben Eskild Eskil Evald Eyjolf Eyolf Eyvind Finn Finnur Floki Folke Frode Gandalfr Geir Geirr Geirvardur Geirstein Gerd Gerdur Gerhard Germod Gisli Gorm Grim Gruffud Gudbrand Gudmund Gudmundur Gudrun Gulli Gunnar Gunnbjorn Gunnolf Gunnvald Guthorm Guthrum Gytha Haakon Haavard Halldor Halldor Halli Halvard Halvdan Halvor Harald Harek Havard Havarr Hedda Hedvig Heidrun Helge Helgi Helgrim Henrik Herjolf Herleif Hermod Hjalmar Hjalti Hjortur Hjorleif Hjorolf Hlif Hlodver Hofgard Holmgeir Hrafn Hrafnar Hreidar Hreinn Hreinsteinn Hrolf Hrolleif Hromundur Hrothgar Hrutger Huldar Hyltir Idunn Ing Ingemar Ingimar Inge Ingebjorn Ingemund Ingjald Ingmar Ingrid Ingrid Ingunn Ingvar Ingvi Iorundur Isak Isarn Isgaut Ivar Ivor Jarl Jarle Jarlinn Jarlmod Jarlstein Joar Jokull Jon Jonatan Jonmundur Jonvald Jor Jorgrim Jorg Jorgen Jorleif Jorodd Jorunn Jorundur Jorvik Jostein Kalf Kalle Kare Karl Karsten Ketil Kettil Kettilmund Kettilvard Knud Knut Knutr Kol Kolbeinn Kolbjorn Kolfinn Kolgrim Kolgrimir Kolgrimur Kolli Kollur Kolmar Konal Konall Konrad Kormak Kormt Kort Kristr Lage Leif Leiknir Lennart Lenni Leod Lyting Magnus Mani Modolf Modolv Mogk Munan Mundilfare Nafni Njall Njord Njordur Odin Olaf Olav Ole Olev Olof Olov Orm Orri Oskar Osvald Ottar Otto Pall Paul Paulus Peder Pelle Penti Per Peter Ragnar Ragnvald Ragnvaldr Ragnvor Rasmus Reidar Rikard Riku Roar Rognvald Rolf Rorik Rune Runolf Sigbjorn Sigge Siggurd Siggy Sigismund Sigmund Sigsten Sigurd Sigurjon Sigvaldi Sigvat Sigve Sigwald Sigwarth Skafti Skallagrim Skapti Skarde Skjald Skule Snorri Soren Sorkvir Sten Stein Steinar Steinbjorn Steinthor Stig Stigr Sturla Styrmir Surt Svein Sveinn Sven Svenske Svend Svendur Sveyn Svipdag Taiti Thor Thorald Thorbjorn Thorbrand Thorfinn Thorgeir Thorgrim Thorhall Thorir Thorleif Thorleik Thorodd Thormod Thorolf Thorri Thorrir Thorstein Thorvald Thorvardur Thrain Thrond Throstur Thyri Tjodolf Tjodolv Tjorvi Toke Toleif Tor Tord Tore Torfi Torleif Tormod Torny Torolf Torstein Torvald Trygg Tryggve Trygve Tumi Tyr Tyri Ulf Ulfr Ulvur Valdemar Valgard Vali Valr Vandrad Varg Ve Valdemar Valthjof Vegard Vegardur Vestein Vidar Vidor Vigbjorn Vigfus Viggo Vignir Vilhjalmur Vilmar Vilmundur Vilppu Ymir Yngvar Yngve Yrjar Yrjana Yrjo Yvor
+		Aage Aasmund Abelone Aeric Afi Agnar Ailbe Alaric Albin Aldis Alf Alfgeir Alfie Alfvin Algot Alrek Alrik Alvis Amund Anders 
+		Andor Angantyr Anker Anlaf Anselm Ansgar Aric Arild Arinbjorn Arlo Arn Arnar Arnbjorn Arne Arni Arnleif Arnor Arnstein 
+		Arnulf Aron Asbjorn Asbrand Asfrid Asgeir Asger Asgrim Askel Askell Aslak Asmund Asny Asvald Asvard Atli Audun Aulif Axl 
+		Axel Axlman Baard Bard Balder Bjorn Bjarke Bjarni Bodil Bolli Bragi Brandr Bue Canute Carsten Cnut Dag Dagfinn Darri Dyre 
+		Eerikki Eetu Eilif Eilifur Einar Eindridi Einhard Eirik Eirikur Erlend Erling Esben Eskild Eskil Evald Eyjolf Eyolf Eyvind 
+		Finn Finnur Floki Folke Frode Gandalfr Geir Geirr Geirvardur Geirstein Gerd Gerdur Gerhard Germod Gisli Gorm Grim Gruffud 
+		Gudbrand Gudmund Gudmundur Gudrun Gulli Gunnar Gunnbjorn Gunnolf Gunnvald Guthorm Guthrum Gytha Haakon Haavard Halldor 
+		Halldor Halli Halvard Halvdan Halvor Harald Harek Havard Havarr Hedda Hedvig Heidrun Helge Helgi Helgrim Henrik Herjolf 
+		Herleif Hermod Hjalmar Hjalti Hjortur Hjorleif Hjorolf Hlif Hlodver Hofgard Holmgeir Hrafn Hrafnar Hreidar Hreinn 
+		Hreinsteinn Hrolf Hrolleif Hromundur Hrothgar Hrutger Huldar Hyltir Idunn Ing Ingemar Ingimar Inge Ingebjorn Ingemund 
+		Ingjald Ingmar Ingrid Ingrid Ingunn Ingvar Ingvi Iorundur Isak Isarn Isgaut Ivar Ivor Jarl Jarle Jarlinn Jarlmod Jarlstein 
+		Joar Jokull Jon Jonatan Jonmundur Jonvald Jor Jorgrim Jorg Jorgen Jorleif Jorodd Jorunn Jorundur Jorvik Jostein Kalf Kalle 
+		Kare Karl Karsten Ketil Kettil Kettilmund Kettilvard Knud Knut Knutr Kol Kolbeinn Kolbjorn Kolfinn Kolgrim Kolgrimir 
+		Kolgrimur Kolli Kollur Kolmar Konal Konall Konrad Kormak Kormt Kort Kristr Lage Leif Leiknir Lennart Lenni Leod Lyting 
+		Magnus Mani Modolf Modolv Mogk Munan Mundilfare Nafni Njall Njord Njordur Odin Olaf Olav Ole Olev Olof Olov Orm Orri Oskar 
+		Osvald Ottar Otto Pall Paul Paulus Peder Pelle Penti Per Peter Ragnar Ragnvald Ragnvaldr Ragnvor Rasmus Reidar Rikard Riku 
+		Roar Rognvald Rolf Rorik Rune Runolf Sigbjorn Sigge Siggurd Siggy Sigismund Sigmund Sigsten Sigurd Sigurjon Sigvaldi Sigvat 
+		Sigve Sigwald Sigwarth Skafti Skallagrim Skapti Skarde Skjald Skule Snorri Soren Sorkvir Sten Stein Steinar Steinbjorn 
+		Steinthor Stig Stigr Sturla Styrmir Surt Svein Sveinn Sven Svenske Svend Svendur Sveyn Svipdag Taiti Thor Thorald Thorbjorn 
+		Thorbrand Thorfinn Thorgeir Thorgrim Thorhall Thorir Thorleif Thorleik Thorodd Thormod Thorolf Thorri Thorrir Thorstein 
+		Thorvald Thorvardur Thrain Thrond Throstur Thyri Tjodolf Tjodolv Tjorvi Toke Toleif Tor Tord Tore Torfi Torleif Tormod 
+		Torny Torolf Torstein Torvald Trygg Tryggve Trygve Tumi Tyr Tyri Ulf Ulfr Ulvur Valdemar Valgard Vali Valr Vandrad Varg Ve 
+		Valdemar Valthjof Vegard Vegardur Vestein Vidar Vidor Vigbjorn Vigfus Viggo Vignir Vilhjalmur Vilmar Vilmundur Vilppu Ymir 
+		Yngvar Yngve Yrjar Yrjana Yrjo Yvor
 	}
 	female_names = {
-		Aasa Aase Aasta Ada Agda Agga Agne Agneta Agnete Aili Aina Aino Aksa Akselina Alba Alfhild Alfrid Alva Alvilda Alvina Amalie Anbjorg Anda Andora Andrea Anemone Anja Annbjorg Anne Annfrid Annika Anny Ardis Arna Arnfrid Arnlaug Arnljot Arna Asa Asbjorg Asborg Asdis Asfrid Asgerd Aslaug Aslog Astrid Aud Audbjorg Audhild Audur Auda Augusta Bergdis Bergljot Bergthora Berit Birgit Birgitta Birna Bjorg Bjorna Bjort Bodil Bodilla Borghild Borgny Bothild Bothilda Bothilde Brit Brita Brynhild Brynja Dagbjort Dagmar Dagney Dagrun Dagunn Dagny Dana Danfrid Dara Dea Dina Dora Dordi Dotta Dotti Drifa Edda Edla Edny Eeva Eidi Eila Eilif Eilin Eira Eir Elin Elinborg Elna Else Elva Embla Emelie Emma Emmerentia Emunda Ena Endrida Engla Erna Estrid Eva Eva Eydna Eydis Eyglo Eyja Eyleif Eyrun Eyvor Freja Freyja Frida Fridbjorg Frideborg Fridrika Frigg Frigga Fritha Frithjofa Frithun Frode Frodine Gala Gerd Gerda Gerdis Gerdur Gilla Gisla Gislinde Gitta Gjerta Gjertine Gjord Gjorid Gjorun Gjorvor Gora Gorgunna Gro Groa Gudbjorg Gudfinna Gudlaug Gudny Gudrid Gudridur Gudrun Gull Gulla Gulli Gunnbjorg Gunnborg Gunndis Gunnele Gunnfrid Gunnhild Gunnlaug Gunnleif Gunnlod Gunnrun Gunnvor Gyda Gyrid Gylfi Gylfie Gylla Gyritha Hafdis Hafthor Haldis Halla Halldis Hallfrid Hannele Hanneli Harriet Hedda Hedvig Heida Heidrun Heiðr Helga Helin Hella Helle Herborg Herdis Herfrid Herlaug Hervor Hilda Hilma Holmfrid Hrafnhild Hrafnhildur Hrefna Hroar Hrodny Hulda Huld Inga Inge Ingebjorg Ingeborg Ingegard Ingela Ingelise Ingfrid Inghild Ingibjorg Ingrid Ingrun Ingva Iona Ione Ionna Irma Irun Iruna Isa Isolde Jofrid Johanna Jora Jorid Jorun Jorunn Jorunna Kaisa Kajsa Karen Kari Karin Karita Katla Katri Kellfrid Kerstin Ketill Ketla Kjellaug Kristin Kristina Kristjana Kyla Laila Lara Lara Leif Lene Lifa Lilja Lina Linnea Linne Lise Liva Liv Livny Lotta Loviisa Lykke Magnhild Magni Maja Majken Malfrid Malin Maren Margret Maria Marit Marita Marja Marje Marta Matilda Mette Mirja Mjoll Moa Nanna Nanny Nera Njala Nore Norna Oddbjorg Oddfrid Oddlaug Oddny Oddrun Oddveig Olof Oluva Osk Ona Ormhild Osa Oslaug Ostra Ottar Ottla Ottolina Oydis Oygunn Oyvor Petra Ragna Ragnfrid Ragnheidur Ragnhild Ragnhildur Ragni Ragnvor Rannveig Reida Reidun Reidunn Rikke Rima Rinda Rinde Rosa Runa Saga Sassa Sigrun Siv Sif Sigfrid Sigga Sighvat Siglinde Signe Signy Sigrid Sigridur Sigunna Sigunn Sigvor Silja Silje Sissel Siv Sol Solbjorg Solfrid Solveig Solvej Sonja Steina Steinunn Steinvor Stina Stine Sunneva Sunniva Svana Svanhild Svanhilda Svava Svea Svenja Svenna Sverra Swanhild Synnove Thora Thorbjorg Thorborg Thordis Thore Thorgunn Thorhild Thorlaug Thorleif Thorrun Thorsa Thorveig Thyra Thyri Tindra Tjorven Tora Torbjorg Torborg Tordis Tore Torfrid Torgerd Torgun Torhild Toril Torrun Torunn Torvor Tove Turid Turidur Unn Unna Unnur Urd Urda Vala Valdis Valgerd Valgred Valrun Valtraut Vanadis Vendela Vera Vibeke Vilborg Vilhelmina Vivi Viveka Ylva Yngva Yngvild Yrja
+		Aasa Aase Aasta Ada Agda Agga Agne Agneta Agnete Aili Aina Aino Aksa Akselina Alba Alfhild Alfrid Alva Alvilda Alvina 
+		Amalie Anbjorg Anda Andora Andrea Anemone Anja Annbjorg Anne Annfrid Annika Anny Ardis Arna Arnfrid Arnlaug Arnljot Arna 
+		Asa Asbjorg Asborg Asdis Asfrid Asgerd Aslaug Aslog Astrid Aud Audbjorg Audhild Audur Auda Augusta Bergdis Bergljot 
+		Bergthora Berit Birgit Birgitta Birna Bjorg Bjorna Bjort Bodil Bodilla Borghild Borgny Bothild Bothilda Bothilde Brit Brita 
+		Brynhild Brynja Dagbjort Dagmar Dagney Dagrun Dagunn Dagny Dana Danfrid Dara Dea Dina Dora Dordi Dotta Dotti Drifa Edda 
+		Edla Edny Eeva Eidi Eila Eilif Eilin Eira Eir Elin Elinborg Elna Else Elva Embla Emelie Emma Emmerentia Emunda Ena Endrida 
+		Engla Erna Estrid Eva Eva Eydna Eydis Eyglo Eyja Eyleif Eyrun Eyvor Freja Freyja Frida Fridbjorg Frideborg Fridrika Frigg 
+		Frigga Fritha Frithjofa Frithun Frode Frodine Gala Gerd Gerda Gerdis Gerdur Gilla Gisla Gislinde Gitta Gjerta Gjertine 
+		Gjord Gjorid Gjorun Gjorvor Gora Gorgunna Gro Groa Gudbjorg Gudfinna Gudlaug Gudny Gudrid Gudridur Gudrun Gull Gulla Gulli 
+		Gunnbjorg Gunnborg Gunndis Gunnele Gunnfrid Gunnhild Gunnlaug Gunnleif Gunnlod Gunnrun Gunnvor Gyda Gyrid Gylfi Gylfie 
+		Gylla Gyritha Hafdis Hafthor Haldis Halla Halldis Hallfrid Hannele Hanneli Harriet Hedda Hedvig Heida Heidrun Heiðr Helga 
+		Helin Hella Helle Herborg Herdis Herfrid Herlaug Hervor Hilda Hilma Holmfrid Hrafnhild Hrafnhildur Hrefna Hroar Hrodny 
+		Hulda Huld Inga Inge Ingebjorg Ingeborg Ingegard Ingela Ingelise Ingfrid Inghild Ingibjorg Ingrid Ingrun Ingva Iona Ione 
+		Ionna Irma Irun Iruna Isa Isolde Jofrid Johanna Jora Jorid Jorun Jorunn Jorunna Kaisa Kajsa Karen Kari Karin Karita Katla 
+		Katri Kellfrid Kerstin Ketill Ketla Kjellaug Kristin Kristina Kristjana Kyla Laila Lara Lara Leif Lene Lifa Lilja Lina 
+		Linnea Linne Lise Liva Liv Livny Lotta Loviisa Lykke Magnhild Magni Maja Majken Malfrid Malin Maren Margret Maria Marit 
+		Marita Marja Marje Marta Matilda Mette Mirja Mjoll Moa Nanna Nanny Nera Njala Nore Norna Oddbjorg Oddfrid Oddlaug Oddny 
+		Oddrun Oddveig Olof Oluva Osk Ona Ormhild Osa Oslaug Ostra Ottar Ottla Ottolina Oydis Oygunn Oyvor Petra Ragna Ragnfrid 
+		Ragnheidur Ragnhild Ragnhildur Ragni Ragnvor Rannveig Reida Reidun Reidunn Rikke Rima Rinda Rinde Rosa Runa Saga Sassa 
+		Sigrun Siv Sif Sigfrid Sigga Sighvat Siglinde Signe Signy Sigrid Sigridur Sigunna Sigunn Sigvor Silja Silje Sissel Siv Sol 
+		Solbjorg Solfrid Solveig Solvej Sonja Steina Steinunn Steinvor Stina Stine Sunneva Sunniva Svana Svanhild Svanhilda Svava 
+		Svea Svenja Svenna Sverra Swanhild Synnove Thora Thorbjorg Thorborg Thordis Thore Thorgunn Thorhild Thorlaug Thorleif 
+		Thorrun Thorsa Thorveig Thyra Thyri Tindra Tjorven Tora Torbjorg Torborg Tordis Tore Torfrid Torgerd Torgun Torhild Toril 
+		Torrun Torunn Torvor Tove Turid Turidur Unn Unna Unnur Urd Urda Vala Valdis Valgerd Valgred Valrun Valtraut Vanadis Vendela 
+		Vera Vibeke Vilborg Vilhelmina Vivi Viveka Ylva Yngva Yngvild Yrja
 	}
 	
 	dynasty_of_location_prefix = "dynnp_af"
@@ -392,10 +439,54 @@ name_list_swedish = {
 	}
 	
 	male_names = {
-		Adam Adrian Albert Alexander Alf Algot Allan Alvar Alvin Anders Andreas Anton Arne Aron Arthur Arvid Axel Benjamin Bertil Birger Björn Bo Boris Bror Carl Carl-Johan Casper Christer Christian Christopher Claes Conny Cristian Daniel David Dennis Edvard Edvin Efraim Egil Einar Einar Elias Elis Elmer Elof Emil Emmanuel Erik Erland Ernst Esbjörn Evald Fabian Felix Filip Folke Frans Fredrik Gabriel Georg Göran Gösta Gustaf Gustav Håkan Halvar Hampus Hans Harald Harry Hasse Henrik Herbert Herman Holger Hugo Ingemar Ingvar Isak Ivan Ivar Jack Jacob Jakob Jan Jörgen Jesper Jimmy Joakim Joel Johan Johannes John Jonatan Jonas Jonny Josef Karl Karl-Erik Karl-Göran Kasper Kenneth Kent Kevin Kjell Klas Krister Kristian Kristoffer Kurt Lars Lasse Leif Leo Leonard Leopold Linus Ludvig Lukas Magnus Manfred Marcus Mark Markus Martin Mats Mattias Maximilian Melker Mikael Milton Morgan Natan Nils Nisse Nore Noel Ola Olaf Olav Ole Olof Olov Oscar Osman Otto Ove Patrik Paul Per Peter Petter Pär Ragnar Ralf Rasmus Rickard Robert Roger Roland Rolf Ruben Rune Sam Samuel Sebastian Seved Sigbjörn Sigurd Simon Sixten Stefan Sten Stig Sture Sune Sven Tage Ted Teodor Theo Theodor Thomas Thor Tomas Tom Tommy Tony Tor Tord Tore Torsten Ulf Uno Urban Valdemar Valter Verner Victor Vidar Viktor Vilgot Vilhelm Ville Vincent Vinga Verner Walter Wilhelm Willy Yngve Yrjö Örjan
+		# Modern Names
+		Aaron Abbas Abdel Abdi Abdul Abdullah Abdullahi Abdulrahman Abe Abel Abraham Achmed Adam Adel Adem Adnan Adrian Ahmad Ahmed 
+		Akram Alaa Alan Albert Aldin Alejandro Aleksandar Aleksander Alen Alex Alexander Alexis Alf Alfonso Alfred Ali Amar Ammar 
+		Amos Anas Anders Andrzej Andy Angel Angelo Anwar Arash Archibald Arman Armin Arnold Arthur Artur Ashkan Assar Axel Ayman 
+		Bashar Basim Bassam Ben Benjamin Benno Bengt Berndt Billy Birger Bjarne Bob Bobby Boris Bror Börje Calle Cameron Carlos 
+		Carl Carlo Casper Charles Charlie Chris Christian Christoffer Christoph Christopher Claes Claude Claudio Colin Collin Conny 
+		Craig Curt Cyril Damian Damir Dan Daniel Dariusz David Dawid Dejan Denis Dennis Dick Diego Dino Dmitri Dominic Dorian 
+		Dragan Dylan Ebbe Eddy Edgar Edin Edmund Edvard Edward Eero Einar Elias Eliel Elmer Elton Elvis Emad Emil Emilio Emir Emin 
+		Emmanuel Emmett Enes Engelbert Enzo Erling Ernst Esa Esaias Eskil Esmail Esra Fadi Farhad Felix Fernando Finn Folke 
+		Francesco Francis Francisco Franco Frank Franz Freddy Fredric Gabriel George Georges Gerhard Gillis Giovanni Goran Gottfrid 
+		Gregory Greger Gunnar Gustaf Gustav Habib Hamed Hannes Hannu Hans Harald Haris Harry Hasan Hasse Hassan Hector Helge 
+		Henning Henrik Herbert Herman Hernan Hilding Hjalmar Håkan Ian Ibrahim Idris Igor Ilja Imad Imran Ingemar Ingmar Ismail 
+		Ismet Ivan Ivo Jack Jacob Jakob Jamal James Jani Janne Jannick Jarmo Jaroslaw Jason Jasmin Jens Jere Jerker Jerry Jesper 
+		Jim Jimmy Jiri Joachim Joacim Joakim Joar Jocke Johan Johannes John Jon Jonas Jonathan Jonny Jordan Jorge Jose Josef Joseph 
+		Joshua José Juan Juha Jukka Jules Julian Julius Jörgen Kai Kalle Kamil Karl Karim Karl Erik Karl-Gustav Kaspar Kasper Ken 
+		Kenny Kenth Kerem Kevin Khaled Kian Kim Kimmo Klas Knut Koen Kolbjørn Koray Kostas Krzysztof Kurt Kåre Lage Lars Lars Erik 
+		Lars-Göran Lars-Olof Lars-Åke Lars-Erik Lars-Gunnar Lasse Leo Leon Leonard Leopold Liam Lion Lionel Loke 
+		Lorenzo Loui Louis Lucas Ludvig Ludwig Luis Luka Lukas Lukasz Maciej Mahamed Mahdi Majd Majid Malcolm Malek Malik Manfred 
+		Manne Mansour Marco Marcos Marcus Marek Marian Mario Mark Marko Markus Martin Mats Matteo Matthias Maurice Max Medi Mehdi 
+		Mehmet Meindert Michael Michel Mick Mikael Mike Mikhail Mikko Mikołaj Milan Miles Milorad Milton Miodrag Miroslav Mohamad 
+		Mohamed Mohammad Mohammed Morgan Morteza Mostafa Muhamed Muhamed Ali Muhammad Mustafa Mårten Mårthen Nabil Nader Nadir 
+		Najib Naser Nasir Nassim Nathan Nemat Nenad Nestor Nick Nicolai Niklas Niko Nikola Nikolai Nikolaj Nikololas Nils Nima Nino 
+		Nisse Noa Noah Noel Nuno Nuri Ola Olav Oliver Olof Omar Onur Osama Oscar Oskar Ove Pablo Paolo Parviz Patrick Paul Pavel 
+		Pedro Per Perry Peter Petter Philip Phillip Pierre Piotr Poul Rachid Rafael Ragnar Raoul Rasmus Ray Rayan Raymond Reda 
+		Reidar Reijo Reza Ricardo Richard Rickard Roberto Robin Rocco Rogelio Roger Roland Rolf Romain Ronald Ronny Roy Ruben 
+		Rudolf Rune Ryan Ryszard Safwan Salah Salim Salomon Salvatore Sam Sami Samir Samuel Sandro Saul Sayed Sergei Severin Shane 
+		Shawn Sigurd Silas Simon Sinan Slobodan Sofiane Sonny Soren Staffan Stefan Steffen Steinar Sten Stig Stijn Sture Sune Sven 
+		Sverker Sylvain Sylvester Szymon Tahir Tarek Tarik Tayeb Taylor Ted Tero Terry Theo Theodor Thierry Thomas Thor Thoralf 
+		Thorbjörn Thorsten Till Tim Tobias Tom Tommy Tony Torbjörn Tore Torsten Toufik Tristan Trond Tryggve Ulf Ulrik Umar Uwe 
+		Valdemar Valentin Valter Vance Veli Victor Vidar Viggo Viktor Vincent Vincenzo Vitali Vito Vladimir Vladislav Vladlen Vlado 
+		Walid Walter William Willy Wojciech Yahya Yaser Yassin Yngve Yousef Youssef Yusuf Zakaria Zakariya Zlatan
 	}
 	female_names = {
-		Agda Agnes Aina Alba Alexandra Alice Alida Alma Alva Amanda Andrea Angela Anita Ann Anna Anne Anneli Annette Annie Annika Anny Astrid Augusta Aurora Beatrice Beata Beatrix Bella Berit Bertina Birgit Birgitta Blenda Boel Brita Britt Britta Camilla Carin Carina Carolina Caroline Cassandra Cecilia Charlotte Clara Dagmar Daisy Dana Daniella Desiree Diana Disa Doris Ebba Edit Edith Edna Eila Eira Eivor Elin Elina Elise Ella Ellinor Elma Elsa Elsie Elvira Emelie Emilia Emma Emmy Erica Erin Erika Ester Estelle Estrid Eva Evelina Fanny Felicia Filippa Fiona Flicka Freja Frida Gabriella Gerda Gerd Greta Gun Gunborg Gunhild Gunilla Gunnel Gunvor Hanna Harriet Hedda Hedvig Helen Helena Helene Helga Helmi Hilda Hildegard Hilma Hillevi Ida Ines Inga Ingeborg Ingegerd Inger Ingmarie Ingrid Irene Iris Irma Isabella Isabelle Ivar Ivetta Jacqueline Janina Janna Jeanette Jenny Jessica Jill Johanna Josefin Josephine Julia Karin Karina Karla Karolina Katarina Kerttu Kerstin Klara Kristin Kristina Laila Lara Laura Lena Liane Lillian Lillie Lilly Linda Linnea Lisa Lisbeth Lise Liselott Lisen Livia Lizette Lotta Louise Lovisa Lucia Lucinda Ludmila Lydia Madeleine Magdalena Magdalene Maja Malin Malou Manda Maria Marianne Marie Marina Marit Marlene Martha Mathilda Matilda Meja Melinda Melanie Melina Melissa Mia Michaela Michelle Mikaela Milda Mimmi Minna Moa Monica My Natalia Nellie Nora Norah Nova Olivia Patricia Paulina Pernilla Petra Rebecca Rebecka Rita Roberta Rosa Rosita Rut Sabina Saga Sanna Sara Selma Selina Serena Sigrid Sigrun Signe Signhild Siv Siri Sofia Sonja Sophia Stina Susanne Svea Sylvia Therese Thilda Tilda Tina Tindra Tove Tyra Ulla Ulrika Uma Vendela Vera Veronika Victoria Vilhelmina Vilma Viola Virginia Viveka Vivan Ylva Yrsa Yvonne Zara Åsa Ängla Ölga
+		Agda Agnes Aina Alba Alexandra Alice Alida Alma Alva Amanda Andrea Angela Anita Ann Anna Anne Anneli Annette Annie Annika 
+		Anny Astrid Augusta Aurora Beatrice Beata Beatrix Bella Berit Bertina Birgit Birgitta Blenda Boel Brita Britt Britta 
+		Camilla Carin Carina Carolina Caroline Cassandra Cecilia Charlotte Clara Dagmar Daisy Dana Daniella Desiree Diana Disa 
+		Doris Ebba Edit Edith Edna Eila Eira Eivor Elin Elina Elise Ella Ellinor Elma Elsa Elsie Elvira Emelie Emilia Emma Emmy 
+		Erica Erin Erika Ester Estelle Estrid Eva Evelina Fanny Felicia Filippa Fiona Flicka Freja Frida Gabriella Gerda Gerd Greta 
+		Gun Gunborg Gunhild Gunilla Gunnel Gunvor Hanna Harriet Hedda Hedvig Helen Helena Helene Helga Helmi Hilda Hildegard Hilma 
+		Hillevi Ida Ines Inga Ingeborg Ingegerd Inger Ingmarie Ingrid Irene Iris Irma Isabella Isabelle Ivar Ivetta Jacqueline 
+		Janina Janna Jeanette Jenny Jessica Jill Johanna Josefin Josephine Julia Karin Karina Karla Karolina Katarina Kerttu 
+		Kerstin Klara Kristin Kristina Laila Lara Laura Lena Liane Lillian Lillie Lilly Linda Linnea Lisa Lisbeth Lise Liselott 
+		Lisen Livia Lizette Lotta Louise Lovisa Lucia Lucinda Ludmila Lydia Madeleine Magdalena Magdalene Maja Malin Malou Manda 
+		Maria Marianne Marie Marina Marit Marlene Martha Mathilda Matilda Meja Melinda Melanie Melina Melissa Mia Michaela Michelle 
+		Mikaela Milda Mimmi Minna Moa Monica My Natalia Nellie Nora Norah Nova Olivia Patricia Paulina Pernilla Petra Rebecca 
+		Rebecka Rita Roberta Rosa Rosita Rut Sabina Saga Sanna Sara Selma Selina Serena Sigrid Sigrun Signe Signhild Siv Siri Sofia 
+		Sonja Sophia Stina Susanne Svea Sylvia Therese Thilda Tilda Tina Tindra Tove Tyra Ulla Ulrika Uma Vendela Vera Veronika 
+		Victoria Vilhelmina Vilma Viola Virginia Viveka Vivan Ylva Yrsa Yvonne Zara Åsa Ängla Ölga
 	}
 	
 	dynasty_of_location_prefix = "dynnp_af"
