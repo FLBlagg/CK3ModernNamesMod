@@ -15,7 +15,7 @@ A mod for Crusader Kings 3 that adds names from roughly 1900-Current year to cul
 
 500 Modernized Norse Names
 
-Assorted Spanish, Italian, Greek, Latin name expansion
+...And many more!
 
 # TO-DO
 
