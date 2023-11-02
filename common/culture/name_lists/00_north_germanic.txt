@@ -472,6 +472,7 @@ name_list_swedish = {
 		Walid Walter William Willy Wojciech Yahya Yaser Yassin Yngve Yousef Youssef Yusuf Zakaria Zakariya Zlatan
 	}
 	female_names = {
+		# Modern Names
 		Agda Agnes Aina Alba Alexandra Alice Alida Alma Alva Amanda Andrea Angela Anita Ann Anna Anne Anneli Annette Annie Annika 
 		Anny Astrid Augusta Aurora Beatrice Beata Beatrix Bella Berit Bertina Birgit Birgitta Blenda Boel Brita Britt Britta 
 		Camilla Carin Carina Carolina Caroline Cassandra Cecilia Charlotte Clara Dagmar Daisy Dana Daniella Desiree Diana Disa 
@@ -752,7 +753,17 @@ name_list_norwegian = {
 	}
 	
 	male_names = {
-		Aage Aksel Albert Aleksander Alf Alfons Alvar Amund André Andreas Anton Arild Arne Arnold Arnt Arvid Asbjørn Asgeir Atle Audun August Axel Benjamin Bernt Bjarne Bjarte Bjørn Børge Carl Christian Christoffer Christopher Dag Daniel David Edvard Edvin Egon Eilif Einar Eivind Ejnar Eldar Elias Elis Emil Emanuel Emil Endre Enok Enzo Erik Erlend Erling Eystein Even Finn Frode Gabriel Gaute Georg Geir Gisle Gunnar Gustav Haakon Halvard Hans Harald Harry Helge Henrik Herman Hjalmar Hugo Ivar Jacob Jakob Jan Janne Jarle Jarl Jeppe Jesper Joakim Johan Johannes John Jon Jonas Jørgen Jørn Jostein Karl Kenneth Kent Ketil Kevin Kim Kjetil Klaus Knut Kolbjørn Kåre Lars Lauritz Leif Leo Leonard Leon Lidvin Ludvig Magnus Marius Mark Martin Mathias Mats Mattis Max Mikael Morten Nils Odd Oddbjørn Oddmund Odin Olaf Olav Ole Oskar Osmund Ove Pål Patrick Paul Per Petter Ragnar Reidar Rolf Ronny Roald Rune Samuel Sebastian Selmer Sigbjørn Sigurd Sindre Sjur Sondre Steffen Steinar Sten Stian Stig Sture Svend Svein Sveinung Sven Syver Tage Terje Thomas Thorbjørn Tollef Tom Tommy Tor Tord Tore Torfinn Torstein Torvald Trond Trygve Ulf Ulrik Ulrik Unni Vebjørn Vegar Vegard Vidar Viktor Vilhelm William Yngve Yngvar Øivind Ørjan Ørnulf Øyvind
+		# Modern Names
+		Aegir Anders Aric Arkyn Arne Arnfinn Arnkell Arvid Asger Balder Bard or Baard Birger Bjarke Bjarne Bjørn Brandt Bragi
+		Brynjar Calder Canute Carr Colborn Colby Crosby Cuyler Dag Dagr Darby Destin Dustin Ebbe Edvard Egil Einar Eivor Elias Emil
+		Erik Espen Even Eivind Fell Fenrir Fiske Forseti Freyr Fridtjof Frode Gaute Geir Gjurd Gorm Gudbrand Gudmund Gustaf Hafdan
+		Hagen Halvar Halvor Halder Halstein Harald Hati Håvard Heimdall Herman Herleif Hjalmar Hod Höd Hoder Hodur Holger Holmes
+		Hrooar Hugin Igor Ingolf Ingmar Ingemar Ingvar Jakob Jari Jarl Jarle Jens Johan Johannes Jonas Jørgen Karl Kasper Kettil
+		Kjell Kjetil Kirk Kirkland Kirkwood Knut Kory Corey Lamont Louis Lucas Ludvig Magnus Magne Markus Marius Mathias Mikkel
+		Mohammad Morten Munin Nils Njal Ødger Odin Oliver Oskar Per Ragnar Rangvald Rasmus Reidar Roald Ronald Roscoe Rune Sigmundr
+		Sigmund Sindre Sigurd Skoll Sondre Ståle Sten Stein Steinar Stian Stig Stigr Sven Sveinn Sverre Tallak Tarben Torbjorn
+		Torben Terje Thomas Tom Tommy Thor Thorsten Thursten Torsten Thurston Thurmund Tore Torkel Torvald Tove Trond Trygve Uhtred
+		Ulf Uffe Ulrik Valdemar Vegard Viggo William Yngvar
 	}
 	female_names = {
 		Ada Aina Alette Amalie Andrea Angela Anine Anita Anna Anne Annette Annie Anniken Ase Aslaug Astrid Audhild Audun Aurora Barbro Beate Benedikte Bergljot Berit Berte Bjarne Bjorg Borghild Brit Brita Britt Camilla Caroline Cathrine Cecilie Charlotte Christina Dagmar Dagrun Dagny Dina Dordi Dorthe Edda Edith Edna Eivor Elin Elina Elisabeth Elise Ella Ellen Ellinor Elsa Elsie Emilie Emma Ena Erika Ester Eva Evelyn Fanny Frigg Frida Frøya Gabrielle Gerd Gjertrud Gudrun Guro Gunn Gunvor Gøril Hanna Hanne Hedda Hedvig Heidi Hege Helene Helga Henriette Herborg Hilde Hildur Idunn Ida Ina Ine Inga Ingebjorg Ingeborg Ingegerd Inger Ingrid Ingvild Irene Iris Iselin Ivana Jannicke Jeanette Jelena Jenny Jessica Jorunn Josefine Julie June Karen Kari Karin Karine Karoline Kathrine Kirsten Kirsti Klara Kjersti Kristin Kristina Kristine Laila Laura Lena Lene Lillian Lilly Line Lisa Lisbeth Lise Liv Lone Louise Lovise Lucie Lydia Maja Malin Maria Marianne Marie Marit Marita Marlene Marte Martine Mathilde Matilde Mia Mina Mira Mona Monica Monika My Naomi Natalie Nora Norah Oda Olga Oline Olivia Pauline Pernilla Petra Ragna Randi Rikke Rita Ronja Rosa Ruth Sara Selma Serena Sidsel Sigrid Silje Sigrun Sissel Siv Siri Sofia Solveig Sonja Stella Stina Stine Sunniva Synnøve Synøve Thale Thea Therese Tina Tiril Tone Tora Torbjørg Tordis Tove Turid Ulla Ulrikke Unni Vebjørn Vebjørg Vibeke Victoria Vigdis Vilhelmine Vilde Wenche Ylva Yvonne Ågot Åsa Åshild

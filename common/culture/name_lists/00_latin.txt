@@ -117,11 +117,49 @@
 	}
 
 	male_names = {
-		Abele Achille Adalberto Adamo Adelmo Adolfo Adriano Agostino Alarico Alberto Aldo Alessandro Alessio Alfio Alfonso Alfredo Alvise Amadeo Amato Ambrogio Amedeo Amerigo Anastasio Andrea Angelo Anselmo Antonio Armando Arnaldo Arrigo Arturo Attilio Aurelio Baldassarre Baldo Bartolomeo Basilio Beniamino Benigno Benito Bernardo Biagio Bonaventura Bruno Caio Calogero Carlo Carmelo Carmine Cesare Cipriano Cirillo Claudio Clemente Corrado Cosimo Cosmo Costanzo Cristiano Damiano Dandolo Dario Davide Decimo Diego Dino Dionigi Domenico Donato Duilio Edoardo Edmondo Egidio Egisto Elio Eliseo Elmo Emanuele Emiliano Emilio Ennio Enrico Enzo Ercole Ermanno Ernesto Ettore Eugenio Eusebio Ezio Fabiano Fabio Fabrizio Fausto Federico Felice Ferdinando Ferruccio Fidelio Filiberto Filippo Floriano Francesco Franco Fulvio Gabriele Gaetano Galdino Gaspare Gennaro Gerlando Geronimo Gervasio Giacinto Giacobbe Giacomo Giaffarino Giancarlo Gianfranco Gianluca Gianmarco Gianni Giordano Giorgio Giosue Giovanni Giuliano Giulio Giuseppe Graziano Gregorio Gualtiero Guglielmo Guido Iacopo Ignazio Ilario Immanuel Innocenzo Ippolito Isidoro Italo Ivano Jacopo Lapo Laudelino Lazzaro Leandro Leonardo Leone Leopoldo Liberatore Liborio Lidio Livio Loris Luca Luciano Lucio Ludovico Luigi Marcello Marco Margherita Marino Mario Martino Massimo Matteo Maurizio Mauro Melchiorre Michele Mino Mirco Modesto Naldo Napoleone Nazzareno Nello Nereo Niccolo Nino Noe Numa Nunzio Olindo Onofrio Orlando Osvaldo Ovidio Paolo Pasquale Patrizio Pellegrino Pericle Piero Pierpaolo Pietro Pompeo Quintino Quirino Raffaele Raimondo Raul Remo Renato Renzo Riccardo Roberto Rodolfo Rolando Romano Romolo Ruggero Ruggiero Sabatino Salvatore Samuele Sandro Santino Santo Saverio Sebastiano Secondo Sergio Settimio Severino Severo Silvano Silvestro Silvio Simone Stefano Taddeo Tancredi Tarquinio Tazio Teodoro Teodosio Terenzio Tertulliano Tiberio Tiziano Tomaso Tullio Ubaldo Uberto Ugo Ulrico Umberto Valentino Valerio Vanni Venceslao Vincenzo Vittorio Vivaldo Zeno
+		Abele Achille Adalberto Adamo Adelmo Adolfo Adriano Agostino Alarico Alberto Aldo Alessandro Alessio Alfio Alfonso Alfredo
+		Alvise Amadeo Amato Ambrogio Amedeo Amerigo Anastasio Andrea Angelo Anselmo Antonio Armando Arnaldo Arrigo Arturo Attilio
+		Aurelio Baldassarre Baldo Bartolomeo Basilio Beniamino Benigno Benito Bernardo Biagio Bonaventura Bruno Caio Calogero Carlo
+		Carmelo Carmine Cesare Cipriano Cirillo Claudio Clemente Corrado Cosimo Cosmo Costanzo Cristiano Damiano Dandolo Dario
+		Davide Decimo Diego Dino Dionigi Domenico Donato Duilio Edoardo Edmondo Egidio Egisto Elio Eliseo Elmo Emanuele Emiliano
+		Emilio Ennio Enrico Enzo Ercole Ermanno Ernesto Ettore Eugenio Eusebio Ezio Fabiano Fabio Fabrizio Fausto Federico Felice
+		Ferdinando Ferruccio Fidelio Filiberto Filippo Floriano Francesco Franco Fulvio Gabriele Gaetano Galdino Gaspare Gennaro
+		Gerlando Geronimo Gervasio Giacinto Giacobbe Giacomo Giaffarino Giancarlo Gianfranco Gianluca Gianmarco Gianni Giordano
+		Giorgio Giosue Giovanni Giuliano Giulio Giuseppe Graziano Gregorio Gualtiero Guglielmo Guido Iacopo Ignazio Ilario Immanuel
+		Innocenzo Ippolito Isidoro Italo Ivano Jacopo Lapo Laudelino Lazzaro Leandro Leonardo Leone Leopoldo Liberatore Liborio
+		Lidio Livio Loris Luca Luciano Lucio Ludovico Luigi Marcello Marco Margherita Marino Mario Martino Massimo Matteo Maurizio
+		Mauro Melchiorre Michele Mino Mirco Modesto Naldo Napoleone Nazzareno Nello Nereo Niccolo Nino Noe Numa Nunzio Olindo
+		Onofrio Orlando Osvaldo Ovidio Paolo Pasquale Patrizio Pellegrino Pericle Piero Pierpaolo Pietro Pompeo Quintino Quirino
+		Raffaele Raimondo Raul Remo Renato Renzo Riccardo Roberto Rodolfo Rolando Romano Romolo Ruggero Ruggiero Sabatino Salvatore
+		Samuele Sandro Santino Santo Saverio Sebastiano Secondo Sergio Settimio Severino Severo Silvano Silvestro Silvio Simone
+		Stefano Taddeo Tancredi Tarquinio Tazio Teodoro Teodosio Terenzio Tertulliano Tiberio Tiziano Tomaso Tullio Ubaldo Uberto
+		Ugo Ulrico Umberto Valentino Valerio Vanni Venceslao Vincenzo Vittorio Vivaldo Zeno
 	}
 
 	female_names = {
-		Ada Adalgisa Adelaide Adelina Adina Adria Adriana Agata Agnese Alba Alberta Albina Alda Alessandra Alessia Alfonsa Alfreda Alice Alma Altea Amadea Amalia Amanda Ambra Amelia Anastasia Angela Angelica Anita Anna Annabella Annalisa Antonella Antonia Arabella Arianna Armida Arnalda Artemisia Artura Assunta Astra Atena Attilia Augusta Aurora Barbara Basilia Beatrice Benedetta Benilda Benvenuta Bianca Bibiana Bruna Brunella Camilla Camilla Candida Carla Carlotta Carmela Carmelina Carmelita Carmina Carola Carolina Catarina Caterina Cecilia Celeste Celestina Celia Chiara Cinzia Clara Clarissa Clotilde Colomba Concetta Consiglia Consolata Consuelo Cora Corinna Cornelia Costanza Cristiana Cristina Dafne Daniela Daria Debora Diana Dina Dionisia Dolores Domitilla Donata Donatella Doriana Dorotea Druina Duilia Editta Edvige Elena Eleonora Elia Elide Elisabetta Elisa Elsa Elva Emilia Emma Enea Enrica Enrichetta Enza Ermelinda Ermesinda Erminia Ersilia Esmeralda Esmeralda Estella Eufemia Eugenia Eulalia Eva Fabiana Fabrizia Fausta Federica Felicia Ferdinanda Fiamma Fiammetta Filippa Filomena Fiore Fiorella Flavia Flora Floriana Fortuna Franca Francesca Gabriella Gelsomina Gemma Genesia Genoveffa Gilda Giorgia Giorgina Giovanna Giuditta Giulia Giuliana Giulietta Giuseppina Grazia Graziana Graziosa Greta Ida Ilaria Imelda Immacolata Ines Iolanda Iole Irene Irina Isabella Isidora Italia Lara Laura Lauretta Lavinia Lea Lena Leonilda Leonora Letizia Lia Liana Liboria Licia Liliana Linda Lisa Livia Lorenza Loretta Lucia Lucrezia Ludovica Luisa Luigia Maddalena Mafalda Manuela Mara Marcella Marcia Margherita Maria Marialuisa Mariana Mariangela Marianna Marilena Marina Marinella Marinetta Marion Marisa Marita Marta Martina Marzia Massimiliana Matilda Matilde Maurizia Melania Melinda Melissa Menodora Mercede Michela Micol Milena Mina Miranda Miriam Mirella Monica Nada Nadia Nella Nerea Nicla Nicoletta Nilda Nina Noemi Norma Novella Nunzia Olga Olimpia Onesta Onorata Onorina Orazia Oriana Orietta Orsola Ortensia Otavia Ottavia Paola Patrizia Paula Penelope Perla Pia Piera Pierina Pina Prisca Priscilla Quirina Rachele Raffaella Regina Renata Ricciarda Roberta Romana Romilda Romina Rosa Rosalia Rosalinda Rosamunda Rosanna Rosaria Rosella Rosina Rossana Rossella Rubina Rufina Sabina Sabrina Salome Samanta Samantha Santa Sara Saveria Selene Selvaggia Serena Serenella Sibilla Sibylla Sidonia Silvana Silvia Simona Simonetta Sofia Sonia Stella Susanna Tabita Tania Tarcisia Tatiana Tecla Teodolinda Teodora Teresa Teresina Tiziana Tommasa Tullia Uberta Ughetta Ugolina Uliva Valentina Valeria Vanda Vanna Veneranda Veneria Venusta Vera Veriana Veronica Vezia Viola Virginia Vittoria Vivianna Viviana Vivia Zaira Zelinda Zita Zoe Zoila
+		Ada Adalgisa Adelaide Adelina Adina Adria Adriana Agata Agnese Alba Alberta Albina Alda Alessandra Alessia Alfonsa Alfreda
+		Alice Alma Altea Amadea Amalia Amanda Ambra Amelia Anastasia Angela Angelica Anita Anna Annabella Annalisa Antonella
+		Antonia Arabella Arianna Armida Arnalda Artemisia Artura Assunta Astra Atena Attilia Augusta Aurora Barbara Basilia
+		Beatrice Benedetta Benilda Benvenuta Bianca Bibiana Bruna Brunella Camilla Camilla Candida Carla Carlotta Carmela Carmelina
+		Carmelita Carmina Carola Carolina Catarina Caterina Cecilia Celeste Celestina Celia Chiara Cinzia Clara Clarissa Clotilde
+		Colomba Concetta Consiglia Consolata Consuelo Cora Corinna Cornelia Costanza Cristiana Cristina Dafne Daniela Daria Debora
+		Diana Dina Dionisia Dolores Domitilla Donata Donatella Doriana Dorotea Druina Duilia Editta Edvige Elena Eleonora Elia
+		Elide Elisabetta Elisa Elsa Elva Emilia Emma Enea Enrica Enrichetta Enza Ermelinda Ermesinda Erminia Ersilia Esmeralda
+		Esmeralda Estella Eufemia Eugenia Eulalia Eva Fabiana Fabrizia Fausta Federica Felicia Ferdinanda Fiamma Fiammetta Filippa
+		Filomena Fiore Fiorella Flavia Flora Floriana Fortuna Franca Francesca Gabriella Gelsomina Gemma Genesia Genoveffa Gilda
+		Giorgia Giorgina Giovanna Giuditta Giulia Giuliana Giulietta Giuseppina Grazia Graziana Graziosa Greta Ida Ilaria Imelda
+		Immacolata Ines Iolanda Iole Irene Irina Isabella Isidora Italia Lara Laura Lauretta Lavinia Lea Lena Leonilda Leonora
+		Letizia Lia Liana Liboria Licia Liliana Linda Lisa Livia Lorenza Loretta Lucia Lucrezia Ludovica Luisa Luigia Maddalena
+		Mafalda Manuela Mara Marcella Marcia Margherita Maria Marialuisa Mariana Mariangela Marianna Marilena Marina Marinella
+		Marinetta Marion Marisa Marita Marta Martina Marzia Massimiliana Matilda Matilde Maurizia Melania Melinda Melissa Menodora
+		Mercede Michela Micol Milena Mina Miranda Miriam Mirella Monica Nada Nadia Nella Nerea Nicla Nicoletta Nilda Nina Noemi
+		Norma Novella Nunzia Olga Olimpia Onesta Onorata Onorina Orazia Oriana Orietta Orsola Ortensia Otavia Ottavia Paola
+		Patrizia Paula Penelope Perla Pia Piera Pierina Pina Prisca Priscilla Quirina Rachele Raffaella Regina Renata Ricciarda
+		Roberta Romana Romilda Romina Rosa Rosalia Rosalinda Rosamunda Rosanna Rosaria Rosella Rosina Rossana Rossella Rubina
+		Rufina Sabina Sabrina Salome Samanta Samantha Santa Sara Saveria Selene Selvaggia Serena Serenella Sibilla Sibylla Sidonia
+		Silvana Silvia Simona Simonetta Sofia Sonia Stella Susanna Tabita Tania Tarcisia Tatiana Tecla Teodolinda Teodora Teresa
+		Teresina Tiziana Tommasa Tullia Uberta Ughetta Ugolina Uliva Valentina Valeria Vanda Vanna Veneranda Veneria Venusta Vera
+		Veriana Veronica Vezia Viola Virginia Vittoria Vivianna Viviana Vivia Zaira Zelinda Zita Zoe Zoila
 	}
 
 	dynasty_of_location_prefix = "dynnp_di"
@@ -199,10 +237,45 @@ name_list_roman = {
 	}
 
 	male_names = {
-		Achaicus Aelius Aemilian Aemilius Aetius Afer Agapetos Agrippa Ahenobarbus Aper Aquilinus Arrianus Anastasius Anicius Annius Antoninus Antonius Arcadius Artorius Asinius Asper Atilius Atticus Augustinus Augustus Aurelian Aurelius Avitus Belisarius Bestia Britannicus Caecilius Caepio Caesar Callistus Camillus Candidus Canus Capito Caractacus Carbo Carinus Carus Cassianus Cassius Claudius Clementius Cocceius Commodus Constans Constantine Constantius Cornelius Coriolanus Corvinus Crassus Cyprianus Daia Dalmatius Decentius Decimus Decius Diocletian Domitian Domitius Drusillus Drusus Duilius Durus Elagabalus Ennodius Equitius Etruscus Eutropius Fabianus Fabianus Fabricius Faustinus Faustus Felix Festus Fidenas Firmus Flaccus Flamininus Flavius Flavus Florentius Florian Fronto Fulvianus Fulvius Gaius Galerius Gallienus Gallus Germanicus Germanus Gessius Geta Gordian Gratian Gratidianus Hadrian Hadrianus Herennius Herodes Herodianus Herculius Hirtius Horatius Hortensius Hostilianus Hostilius Ianuarius Joannes Jovian Julian Julius Julius Julius-Caesar Junius Justin Justinian Labienus Laenas Lampridius Leontius Lentulus Licinius Livianus Livius Lollia Lucius Lucretius Lupercus Lurco Lusius Macer Macrinus Maecenas Maecius Magnus Mallius Mamilianus Manlius Marcellinus Marcellus Marcus Marinus Marius Martinianus Martialis Martius Maximian Maximinus Maximus Memmius Messala Metellus Minucius Mucianus Mummius Naevius Nerva Nerva Nigellus Nigidius Norbanus Numerian Numerius Octavianus Octavius Ocella Orestes Papianus Papirius Paulinus Paulus Pertinax Philip Placidus Plautius Plinius Pompilius Pompeius Pompeius Pomponius Pontianus Postumus Priscus Probus Publius Pudentius Pulcher Pupienus Quintus Quinctilianus Quinctius Quirinus Regillus Regulus Remus Rubellius Rufinus Rutilius Sabinianus Sabinus Salvianus Salvius Scipio Secundus Secundinus Sempronianus Sempronius Septimius Sergius Severinus Severus Sextus Silius Silvanus Sisenna Spurinna Statius Sulla Sulpicius Sura Sylla Tacitus Tacitus Tarquinius Tatianus Terentius Tertius Tertullianus Tetricus Tettius Tiberianus Tiberius Tibullus Titius Titus Titus Traianus Trajan Trebatius Trebellius Trebonianus Trebonius Tullius Turpilianus Valens Valentinian Valentinian Valerian Valerius Venantius Vespasian Vespillo Vibius Vibullius Victor Victorinus Vindex Vinicianus Vipsanius Virginius Vitalianus Vitalis Vitellius Volumnius
+		Achaicus Aelius Aemilian Aemilius Aetius Afer Agapetos Agrippa Ahenobarbus Aper Aquilinus Arrianus Anastasius Anicius
+		Annius Antoninus Antonius Arcadius Artorius Asinius Asper Atilius Atticus Augustinus Augustus Aurelian Aurelius Avitus
+		Belisarius Bestia Britannicus Caecilius Caepio Caesar Callistus Camillus Candidus Canus Capito Caractacus Carbo Carinus
+		Carus Cassianus Cassius Claudius Clementius Cocceius Commodus Constans Constantine Constantius Cornelius Coriolanus
+		Corvinus Crassus Cyprianus Daia Dalmatius Decentius Decimus Decius Diocletian Domitian Domitius Drusillus Drusus Duilius
+		Durus Elagabalus Ennodius Equitius Etruscus Eutropius Fabianus Fabianus Fabricius Faustinus Faustus Felix Festus Fidenas
+		Firmus Flaccus Flamininus Flavius Flavus Florentius Florian Fronto Fulvianus Fulvius Gaius Galerius Gallienus Gallus
+		Germanicus Germanus Gessius Geta Gordian Gratian Gratidianus Hadrian Hadrianus Herennius Herodes Herodianus Herculius
+		Hirtius Horatius Hortensius Hostilianus Hostilius Ianuarius Joannes Jovian Julian Julius Julius Julius-Caesar Junius Justin
+		Justinian Labienus Laenas Lampridius Leontius Lentulus Licinius Livianus Livius Lollia Lucius Lucretius Lupercus Lurco
+		Lusius Macer Macrinus Maecenas Maecius Magnus Mallius Mamilianus Manlius Marcellinus Marcellus Marcus Marinus Marius
+		Martinianus Martialis Martius Maximian Maximinus Maximus Memmius Messala Metellus Minucius Mucianus Mummius Naevius Nerva
+		Nigellus Nigidius Norbanus Numerian Numerius Octavianus Octavius Ocella Orestes Papianus Papirius Paulinus Paulus Pertinax
+		Philip Placidus Plautius Plinius Pompilius Pompeius Pompeius Pomponius Pontianus Postumus Priscus Probus Publius Pudentius
+		Pulcher Pupienus Quintus Quinctilianus Quinctius Quirinus Regillus Regulus Remus Rubellius Rufinus Rutilius Sabinianus
+		Sabinus Salvianus Salvius Scipio Secundus Secundinus Sempronianus Sempronius Septimius Sergius Severinus Severus Sextus
+		Silius Silvanus Sisenna Spurinna Statius Sulla Sulpicius Sura Sylla Tacitus Tacitus Tarquinius Tatianus Terentius Tertius
+		Tertullianus Tetricus Tettius Tiberianus Tiberius Tibullus Titius Titus Titus Traianus Trajan Trebatius Trebellius
+		Trebonianus Trebonius Tullius Turpilianus Valens Valentinian Valentinian Valerian Valerius Venantius Vespasian Vespillo
+		Vibius Vibullius Victor Victorinus Vindex Vinicianus Vipsanius Virginius Vitalianus Vitalis Vitellius Volumnius
 	}
 	female_names = {
-		Aelia Aemilia Agata Agnes Aia Alba Albina Albinia Albira Alea Amelia Amica Ampelio Anicia Anita Antonia Appia Aquilia Aquilina Arria Artemia Atilia Augusta Aurelia Aventina Balbina Bassa Beatrice Bella Bibiana Blandina Caecilia Caerellia Caesonia Calpurnia Camila Candida Capitolina Carina Cassandra Cassia Cassiana Cecilia Celia Claudia Cleopatra Cornelia Crescens Cypriana Cyriaca Dacia Decima Domina Domitia Domna Drusa Drusiana Drusilla Egnatia Elpidia Emilia Fabia Fausta Faustina Felicia Flavia Floria Fortuna Fufia Fulvia Gaetulica Gaia Galla Gallia Galeria Gemina Gemma Germana Germanica Gratiana Hadriana Helena Helvia Helvidia Herminia Hilaria Honoria Hortensia Hostilia Ianthe Iberia Iberina Iberis Ibis Icla Ida Ilia Innocentia Iovita Ioviniana Iulia Iuliana Iunia Iusta Iustina Juventia Lactantia Laetina Laetitia Largiana Latona Licinia Livia Liviana Longina Lucrecia Lucrina Luculla Luscinia Lysandra Maccia Maecia Maesa Magna Mania Marcia Maria Marina Maris Marita Martia Martina Matilda Matrona Maxima Maximina Maximiniana Maura Maurella Maurencia Mauritiana Medulla Messalina Messalinea Messia Metilia Milonia Mira Myriana Naevia Neratia Nigella Nigidia Nigrina Novia Numisia Nymphaea Octavia Olympia Opimia Ovidiana Paetina Paola Pascentia Pascentilla Paula Paulina Pax Pedania Petronia Placidia Plautia Plotina Politta Pomponia Pomponilla Porcia Prima Priscilla Procilla Publia Pupiana Quarta Quinta Quintina Quintinia Quintissa Rectina Rogatiana Romana Romilda Romilia Romilla Romula Rufina Sabina Sabrina Saecinatia Salvia Sancia Sanctia Scantilla Secunda Secundina Selenia Selene Sempronia Senecia Septima Sestia Severa Severiana Sidonia Silana Silvana Silvia Simplicia Statilia Sulpicia Superba Tatiana Tertia Tertulla Tiberia Tiburcia Tibursa Torquata Trifosa Trivia Turia Tullia Tulliola Urbana Valeria Valeriana Velia Verina Vibia Vibidia Victricia Vincenza Vinicia Violantilla Vipsania Virginia Viridiana Viridis Volumnia
+		Aelia Aemilia Agata Agnes Aia Alba Albina Albinia Albira Alea Amelia Amica Ampelio Anicia Anita Antonia Appia Aquilia
+		Aquilina Arria Artemia Atilia Augusta Aurelia Aventina Balbina Bassa Beatrice Bella Bibiana Blandina Caecilia Caerellia
+		Caesonia Calpurnia Camila Candida Capitolina Carina Cassandra Cassia Cassiana Cecilia Celia Claudia Cleopatra Cornelia
+		Crescens Cypriana Cyriaca Dacia Decima Domina Domitia Domna Drusa Drusiana Drusilla Egnatia Elpidia Emilia Fabia Fausta
+		Faustina Felicia Flavia Floria Fortuna Fufia Fulvia Gaetulica Gaia Galla Gallia Galeria Gemina Gemma Germana Germanica
+		Gratiana Hadriana Helena Helvia Helvidia Herminia Hilaria Honoria Hortensia Hostilia Ianthe Iberia Iberina Iberis Ibis Icla
+		Ida Ilia Innocentia Iovita Ioviniana Iulia Iuliana Iunia Iusta Iustina Juventia Lactantia Laetina Laetitia Largiana Latona
+		Licinia Livia Liviana Longina Lucrecia Lucrina Luculla Luscinia Lysandra Maccia Maecia Maesa Magna Mania Marcia Maria
+		Marina Maris Marita Martia Martina Matilda Matrona Maxima Maximina Maximiniana Maura Maurella Maurencia Mauritiana Medulla
+		Messalina Messalinea Messia Metilia Milonia Mira Myriana Naevia Neratia Nigella Nigidia Nigrina Novia Numisia Nymphaea
+		Octavia Olympia Opimia Ovidiana Paetina Paola Pascentia Pascentilla Paula Paulina Pax Pedania Petronia Placidia Plautia
+		Plotina Politta Pomponia Pomponilla Porcia Prima Priscilla Procilla Publia Pupiana Quarta Quinta Quintina Quintinia
+		Quintissa Rectina Rogatiana Romana Romilda Romilia Romilla Romula Rufina Sabina Sabrina Saecinatia Salvia Sancia Sanctia
+		Scantilla Secunda Secundina Selenia Selene Sempronia Senecia Septima Sestia Severa Severiana Sidonia Silana Silvana Silvia
+		Simplicia Statilia Sulpicia Superba Tatiana Tertia Tertulla Tiberia Tiburcia Tibursa Torquata Trifosa Trivia Turia Tullia
+		Tulliola Urbana Valeria Valeriana Velia Verina Vibia Vibidia Victricia Vincenza Vinicia Violantilla Vipsania Virginia
+		Viridiana Viridis Volumnia
 	}
 	dynasty_of_location_prefix = "dynnp_of"
 	patronym_prefix_male = "dynnpat_pre_filius"
