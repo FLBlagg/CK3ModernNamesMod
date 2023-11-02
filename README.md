@@ -19,33 +19,9 @@ Assorted Spanish, Italian, Greek, Latin name expansion
 
 # TO-DO
 
-**Western Germanic**
-
-- Anglo-Saxon Dynasties/Cadet Branches
-
-- Old Saxon Name Expansion (Full)
-
-- Scottish Dynasties/Cadet Branches
-
 **North Germanic**
 
-- Norse Dynasties/Cadet Branches
-
-- Swedish Dynasties/Cadet Branches
-
-- Norwegian Name Expansion (Full)
-
 - Danish Name Expansion (Full)
-
-**Latin**
-
-- Italian Name Expansion (Full)
-
-- Roman Name Expansion (Full)
-
-**Goidelic**
-
-- Irish Dynasties/Cadet Branches
 
 **Byzantine**
 
