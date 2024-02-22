@@ -454,8 +454,8 @@ name_list_swedish = {
 		Ismet Ivan Ivo Jack Jacob Jakob Jamal James Jani Janne Jannick Jarmo Jaroslaw Jason Jasmin Jens Jere Jerker Jerry Jesper 
 		Jim Jimmy Jiri Joachim Joacim Joakim Joar Jocke Johan Johannes John Jon Jonas Jonathan Jonny Jordan Jorge Jose Josef Joseph 
 		Joshua José Juan Juha Jukka Jules Julian Julius Jörgen Kai Kalle Kamil Karl Karim Karl Erik Karl-Gustav Kaspar Kasper Ken 
-		Kenny Kenth Kerem Kevin Khaled Kian Kim Kimmo Klas Knut Koen Kolbjørn Koray Kostas Krzysztof Kurt Kåre Lage Lars Lars Erik 
-		Lars-Göran Lars-Olof Lars-Åke Lars-Erik Lars-Gunnar Lasse Leo Leon Leonard Leopold Liam Lion Lionel Loke 
+		Kenny Kenth Kerem Kevin Khaled Kian Kim Kimmo Klas Knut Koen Kolbjørn Koray Kostas Krzysztof Kurt Kåre Lage Lars
+		Lasse Leo Leon Leonard Leopold Liam Lion Lionel Loke 
 		Lorenzo Loui Louis Lucas Ludvig Ludwig Luis Luka Lukas Lukasz Maciej Mahamed Mahdi Majd Majid Malcolm Malek Malik Manfred 
 		Manne Mansour Marco Marcos Marcus Marek Marian Mario Mark Marko Markus Martin Mats Matteo Matthias Maurice Max Medi Mehdi 
 		Mehmet Meindert Michael Michel Mick Mikael Mike Mikhail Mikko Mikołaj Milan Miles Milorad Milton Miodrag Miroslav Mohamad 
@@ -754,7 +754,7 @@ name_list_norwegian = {
 	
 	male_names = {
 		# Modern Names
-		Aegir Anders Aric Arkyn Arne Arnfinn Arnkell Arvid Asger Balder Bard or Baard Birger Bjarke Bjarne Bjørn Brandt Bragi
+		Aegir Anders Aric Arkyn Arne Arnfinn Arnkell Arvid Asger Balder Bard Baard Birger Bjarke Bjarne Bjørn Brandt Bragi
 		Brynjar Calder Canute Carr Colborn Colby Crosby Cuyler Dag Dagr Darby Destin Dustin Ebbe Edvard Egil Einar Eivor Elias Emil
 		Erik Espen Even Eivind Fell Fenrir Fiske Forseti Freyr Fridtjof Frode Gaute Geir Gjurd Gorm Gudbrand Gudmund Gustaf Hafdan
 		Hagen Halvar Halvor Halder Halstein Harald Hati Håvard Heimdall Herman Herleif Hjalmar Hod Höd Hoder Hodur Holger Holmes
