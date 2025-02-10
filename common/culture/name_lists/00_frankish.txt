@@ -737,10 +737,26 @@ name_list_french = {
 	}
 
 	male_names = {
-		Gabriel Léo Raphaël Louis Arthur Jules Maël Noah Adam Lucas Hugo Gabin Liam Sacha Aaron Léon Isaac Paul Nathan Noé Eden Mohamed Ethan Tom Malo Naël Théo Marius Nino Marceau Mathis Victor Ayden Milo Martin Tiago Robin Axel Timéo Lyam Eliott Enzo Antoine Nolan Augustin Gaspard Valentin Amir Côme Samuel Rayan Ibrahim Imran Elio Sohan Yanis Simon Kaïs Mathéo Maxence Léandre Camille Clément Alessio Evan Soan Pablo Ismaël Owen Alexandre Baptiste Maxime Oscar Maé Mahé Naïm Noa Charly Basile Joseph Livio Lenny Ilyan Diego Thomas Kayden Ali Noam Charlie Marin Andrea Auguste Charles Aylan Ilyes Timothée Anas Roméo Milan Lucien Maylone Logan Ezio Youssef Issa Achille Malone Abel William Milann Mathys Ayoub Jean Zayn Adem Esteban Sasha Sandro Léonard Mattéo Thiago Adrien David Kassim Rafael Gianni Wassim Ulysse Younes Elias Marcel Noham Félix Lorenzo Antonin Zakaria Rafaël Jayden Kylian Amine Hamza Alexis Lino Ruben Benjamin Kenzo Nathanaël Alban Gustave Mayron
+		Louis Gabriel Leo Arthur Hugo Jules Adam Nathan Paul Lucas Raphael Sacha Tom Martin Maxime Alexandre Antoine Emile Victor Noah Mohamed Theodore Pierre 
+		Adrien Liam Clement Gaspard Marius Augustin Edouard Simon Benjamin Francois Hugo Baptiste Jean Baptiste Mathis Eric Romain Pierre-Alexandre Damien Elie 
+		Maxence Valentin Tristan Yann Louis-Alexandre Gregoire Florian Charles Leon Marcel Jacques Mathieu Theophile Olivier Baptiste-Paul Ludovic Jerome Etienne 
+		Julien Henri Alban Francois-Xavier Abel Jeremie Denis Cyrille Rene Michel Alexandre-Paul Pierre-Jean Loic Henri-Jean Laurent Guillaume Auguste Noel Jean-Pierre 
+		Maxence-Michel Samuel Etienne-Pierre Alban-Benoit Florian-Jacques Jean-Luc Alexandre-Louis Jean-Baptiste-Paul Guillaume-Luc Justin Simon-Pierre Henri-Louis Jean-Philippe
+		Valentin-Jean Daniel Leandre Nicolas Eloi Paul-Andre Pierre-Louis Charles-Henri Yves Jeremy Francis Lucas-Pierre Leonard Louis-Jean Andre-Richard Sebastien Benjamin-Louis 
+		Michel-Jean Samuel-Pierre Jean-Benoit Louis-Michel Michel-Jeremie
+		Alexis Theo Martin Julien Antoine Pierre Louis Victor Charles Maxime Etienne Samuel Hugo Simon Adrien Benjamin Damien Romain Gabriel Antoine-Clement Lucas Thomas Sebastien 
+		Arthur Mathieu Paul Adrien-Rene Lucas-Maxime Baptiste Clement-Paul Leonard Hugo-Louis Jules-Eric Axel Benjamin-Thomas Fabien Adrien-Louis Gregory Paul-Michel Bernard 
+		Pierre-Paul Alain Theodore Herve Henri-Paul Olivier-Jacques Lionel Olivier-Thibault Frederic Loic-Michel Benjamin-Jacques Jacques-Louis Baptiste-Michel Emmanuel Thomas-Louis 
+		Nicolas-Pierre Leopold Didier Maurice Yannick Martial Pierre-Alain Thierry Jean-Paul Florian-Alexandre Sebastien-Louis Maurice-Claude Olivier-Paul Thierry-Jerome Andre-Laurent Gildas 
+		Francois-Henri Didier-Alain Jean-Pierre-Louis Jerome-Etienne Pierre-Francois Louis-Henri Julien-Jerome Pierre-Olivier Martin-Louis Eric-Jeremie Herve-Louis Franck-Sebastien Olivier-Marie Patrice 
+		Leon-Pierre Yves-Richard Sebastien-Claude Gregoire-Thomas Jean-Sebastien Louis-Emmanuel Paul-Benoit David-Michel Damien-Louis Bertrand Mathieu-Joseph Gabriel-Benoit Andre-Michel Arnaud Leopold-Marie 
+		Vincent-Thierry Gabriel-Louis
+
+
 	}
 	female_names = {
-		Jade Louise Emma Ambre Alice Rose Anna Alba Romy Mia Lina Lou Chloé Julia Léna Léa Agathe Iris Nina Inaya Juliette Zoé Jeanne Léonie Charlie Eva Mila Luna Adèle Victoire Inès Olivia Lola Victoria Lucie Margaux Romane Giulia Camille Sofia Charlotte Alix Nour Lyana Margot Sarah Louna Mya Manon Lya Emy Capucine Ava Elena Alma Théa Clémence Alya Aya Clara Lyna Gabrielle Yasmine Lily Livia Apolline Ella Lana Assia Zélie Lila Albane Céleste Maëlys Roxane Lise Maria Maya Joy Mathilde Alicia Thaïs Constance Salomé Valentine Amélia Héloïse Lilou Anaïs Diane Maëlle Marie Emmy Léana Célia Elise Noémie Garance Nelya Joséphine Lisa Andréa Soline Faustine Ellie Nora Suzanne Arya Aria Jennah Elsa Hanna Valentina Aïcha Aliyah Mélina Louisa Maddy Tessa Maryam Manel Eléna Ilyana Judith Sophia Amira Élise Elya Hana Ana Sara Fatima Eloïse Camélia Lison Cataleya Maïssa Anaëlle Esmée Naya Jenna Mariam Emna Lara Elina Lilia Stella Fatoumata Océane Aliya
+		Jade Louise Emma Ambre Alice Rose Anna Alba Romy Mia Lina Lou Chloe Julia Lena Lea Agathe Iris Nina Inaya Juliette Zoe Jeanne Leonie Charlie Eva Mila Luna Adele Victoire Ines Olivia Lola Victoria Lucie Margaux Romane Giulia Camille Sofia Charlotte Alix Nour Lyana Margot Sarah Louna Mya Manon Lya Emy Capucine Ava Elena Alma Thea Clemence Alya Aya Clara Lyna Gabrielle Yasmine Lily Livia Apolline Ella Lana Assia Zelie Lila Albane Celeste Maelys Roxane Lise Maria Maya Joy Mathilde Alicia Thais Constance Salome Valentine Amelia Heloise Lilou Anais Diane Maelle Marie Emmy Leana Celia Elise Noemie Garance Nelya Josephine Lisa Andrea Soline Faustine Ellie Nora Suzanne Arya Aria Jennah Elsa Hanna Valentina Aicha Aliyah Melina Louisa Maddy Tessa Maryam Manel Elena Ilyana Judith Sophia Amira Elise Elya Hana Ana Sara Fatima Eloise Camelia Lison Cataleya Maissa Anaelle Esmee Naya Jenna Mariam Emna Lara Elina Lilia Stella Fatoumata Oceane Aliya
+
 	}
 	dynasty_of_location_prefix = "dynnp_de"
 	grammar_transform = french

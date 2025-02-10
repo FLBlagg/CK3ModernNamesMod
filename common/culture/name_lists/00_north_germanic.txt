@@ -754,19 +754,23 @@ name_list_norwegian = {
 	
 	male_names = {
 		# Modern Names
-		Aegir Anders Aric Arkyn Arne Arnfinn Arnkell Arvid Asger Balder Bard Baard Birger Bjarke Bjarne Bjørn Brandt Bragi
-		Brynjar Calder Canute Carr Colborn Colby Crosby Cuyler Dag Dagr Darby Destin Dustin Ebbe Edvard Egil Einar Eivor Elias Emil
-		Erik Espen Even Eivind Fell Fenrir Fiske Forseti Freyr Fridtjof Frode Gaute Geir Gjurd Gorm Gudbrand Gudmund Gustaf Hafdan
-		Hagen Halvar Halvor Halder Halstein Harald Hati Håvard Heimdall Herman Herleif Hjalmar Hod Höd Hoder Hodur Holger Holmes
-		Hrooar Hugin Igor Ingolf Ingmar Ingemar Ingvar Jakob Jari Jarl Jarle Jens Johan Johannes Jonas Jørgen Karl Kasper Kettil
-		Kjell Kjetil Kirk Kirkland Kirkwood Knut Kory Corey Lamont Louis Lucas Ludvig Magnus Magne Markus Marius Mathias Mikkel
-		Mohammad Morten Munin Nils Njal Ødger Odin Oliver Oskar Per Ragnar Rangvald Rasmus Reidar Roald Ronald Roscoe Rune Sigmundr
-		Sigmund Sindre Sigurd Skoll Sondre Ståle Sten Stein Steinar Stian Stig Stigr Sven Sveinn Sverre Tallak Tarben Torbjorn
-		Torben Terje Thomas Tom Tommy Thor Thorsten Thursten Torsten Thurston Thurmund Tore Torkel Torvald Tove Trond Trygve Uhtred
-		Ulf Uffe Ulrik Valdemar Vegard Viggo William Yngvar
+		Noah Oliver Elias Emil William Isak Johannes Liam Theodor Magnus Henrik Olav Lucas Matheo Adam Tobias  
+		Kasper Lukas Alfred Jakob Gustav Ulrik Ludvig Oskar Aksel Iver Even Mathias Benjamin Theo Sander Johan  
+		Filip Leon Felix Jonas Mikkel Leo Herman Odin Birk Vetle Jens Sverre Brage Luka Håkon Sebastian Kristian  
+		Edvin Daniel Gabriel Oscar Aron Sigurd Samuel Andreas Henry Erik Nils Markus Edvard Jacob Casper Muhammad  
+		Adrian Julian Ole Victor Alexander Ola Martin Storm Max Jesper Fredrik Albert David Emrik Jonathan Nikolai  
+		Ask Mio Ludvik Einar Arthur Philip August Leander Elliot Lars Viktor Silas Levi Linus Anton Georg  
+		Amund Axel Carl Thomas  
+
 	}
 	female_names = {
-		Ada Aina Alette Amalie Andrea Angela Anine Anita Anna Anne Annette Annie Anniken Ase Aslaug Astrid Audhild Audun Aurora Barbro Beate Benedikte Bergljot Berit Berte Bjarne Bjorg Borghild Brit Brita Britt Camilla Caroline Cathrine Cecilie Charlotte Christina Dagmar Dagrun Dagny Dina Dordi Dorthe Edda Edith Edna Eivor Elin Elina Elisabeth Elise Ella Ellen Ellinor Elsa Elsie Emilie Emma Ena Erika Ester Eva Evelyn Fanny Frigg Frida Frøya Gabrielle Gerd Gjertrud Gudrun Guro Gunn Gunvor Gøril Hanna Hanne Hedda Hedvig Heidi Hege Helene Helga Henriette Herborg Hilde Hildur Idunn Ida Ina Ine Inga Ingebjorg Ingeborg Ingegerd Inger Ingrid Ingvild Irene Iris Iselin Ivana Jannicke Jeanette Jelena Jenny Jessica Jorunn Josefine Julie June Karen Kari Karin Karine Karoline Kathrine Kirsten Kirsti Klara Kjersti Kristin Kristina Kristine Laila Laura Lena Lene Lillian Lilly Line Lisa Lisbeth Lise Liv Lone Louise Lovise Lucie Lydia Maja Malin Maria Marianne Marie Marit Marita Marlene Marte Martine Mathilde Matilde Mia Mina Mira Mona Monica Monika My Naomi Natalie Nora Norah Oda Olga Oline Olivia Pauline Pernilla Petra Ragna Randi Rikke Rita Ronja Rosa Ruth Sara Selma Serena Sidsel Sigrid Silje Sigrun Sissel Siv Siri Sofia Solveig Sonja Stella Stina Stine Sunniva Synnøve Synøve Thale Thea Therese Tina Tiril Tone Tora Torbjørg Tordis Tove Turid Ulla Ulrikke Unni Vebjørn Vebjørg Vibeke Victoria Vigdis Vilhelmine Vilde Wenche Ylva Yvonne Ågot Åsa Åshild
+		Emma Olivia Ella Nora Alma Ada Sofie Selma Frida Iben Astrid Ingrid Mia Hedda Aurora Ellinor Emilie Leah  
+		Amalie Anna Eva Sofia Vilde Tiril Sara Hedvig Tuva Maja Jenny Ida Hennie Amelia Linnea Ellie Amanda Thea  
+		Luna Mathilde Sigrid Solveig Live Lilly Mie Josefine Hanna Oline Saga Sonja Julie Ylva Marie Mille Hermine  
+		Eira Eline Mina Victoria Signe Agnes Johanne Maria Emily Elise Vilma Kaja Klara Liv Lea Frøya Mari Tomine  
+		Andrea Stella Oda Ronja Emilia Julia Aria Sophia Maya Pernille Alva Sanna Louise Mathea Ebba Iris Synne  
+		Helene Erle Filippa Hannah Sunniva Mila Ingeborg Lykke Anne Celine Embla Isabella Leonora Thale  
+
 	}
 	
 	dynasty_of_location_prefix = "dynnp_av"

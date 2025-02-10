@@ -1,0 +1,161 @@
+﻿#English Dynasties
+4000001 = {
+	name = "dynn_Smith"
+	culture = "english"
+}
+4000002 = {
+	name = "dynn_Johnson"
+	culture = "english"
+}
+4000003 = {
+	name = "dynn_Williams"
+	culture = "english"
+}
+4000004 = {
+	name = "dynn_Brown"
+	culture = "english"
+}
+4000005 = {
+	name = "dynn_Jones"
+	culture = "english"
+}
+4000006 = {
+	name = "dynn_Garcia"
+	culture = "english"
+}
+4000007 = {
+	name = "dynn_Miller"
+	culture = "english"
+}
+4000008 = {
+	name = "dynn_Davis"
+	culture = "english"
+}
+4000009 = {
+	name = "dynn_Rodriguez"
+	culture = "english"
+}
+4000010 = {
+	name = "dynn_Martinez"
+	culture = "english"
+}
+4000011 = {
+	name = "dynn_Hernandez"
+	culture = "english"
+}
+4000012 = {
+	name = "dynn_Lopez"
+	culture = "english"
+}
+4000013 = {
+	name = "dynn_Gonzalez"
+	culture = "english"
+}
+4000014 = {
+	name = "dynn_Wilson"
+	culture = "english"
+}
+4000015 = {
+	name = "dynn_Anderson"
+	culture = "english"
+}
+4000016 = {
+	name = "dynn_Taylor"
+	culture = "english"
+}
+4000017 = {
+	name = "dynn_Thomas"
+	culture = "english"
+}
+4000018 = {
+	name = "dynn_Moore"
+	culture = "english"
+}
+4000019 = {
+	name = "dynn_Jackson"
+	culture = "english"
+}
+4000020 = {
+	name = "dynn_Martin"
+	culture = "english"
+}
+4000021 = {
+	name = "dynn_Lee"
+	culture = "english"
+}
+4000022 = {
+	name = "dynn_Perez"
+	culture = "english"
+}
+4000023 = {
+	name = "dynn_Thompson"
+	culture = "english"
+}
+4000024 = {
+	name = "dynn_White"
+	culture = "english"
+}
+4000025 = {
+	name = "dynn_Harris"
+	culture = "english"
+}
+4000026 = {
+	name = "dynn_Sanchez"
+	culture = "english"
+}
+4000027 = {
+	name = "dynn_Clark"
+	culture = "english"
+}
+4000028 = {
+	name = "dynn_Ramirez"
+	culture = "english"
+}
+4000029 = {
+	name = "dynn_Lewis"
+	culture = "english"
+}
+4000030 = {
+	name = "dynn_Walker"
+	culture = "english"
+}
+4000031 = {
+	name = "dynn_Young"
+	culture = "english"
+}
+4000032 = {
+	name = "dynn_Allen"
+	culture = "english"
+}
+4000033 = {
+	name = "dynn_King"
+	culture = "english"
+}
+4000034 = {
+	name = "dynn_Wright"
+	culture = "english"
+}
+4000035 = {
+	name = "dynn_Scott"
+	culture = "english"
+}
+4000036 = {
+	name = "dynn_Torres"
+	culture = "english"
+}
+4000037 = {
+	name = "dynn_Nguyen"
+	culture = "english"
+}
+4000038 = {
+	name = "dynn_Hill"
+	culture = "english"
+}
+4000039 = {
+	name = "dynn_Flores"
+	culture = "english"
+}
+4000040 = {
+	name = "dynn_Green"
+	culture = "english"
+}
