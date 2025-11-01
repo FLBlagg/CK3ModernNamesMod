@@ -1,0 +1,264 @@
+﻿name_list_akan = {
+
+	cadet_dynasty_names = {
+		"dynn_Brong" #001
+		"dynn_Bono" #002
+		"dynn_Abron" #003
+		"dynn_Kulango" #004
+		"dynn_Badu"
+		"dynn_Seikwa"
+		"dynn_Nkurange"
+		"dynn_Lorhon"
+		"dynn_Ngwela"
+		"dynn_BabE_"
+		"dynn_Oyoko" #005
+		"dynn_Abohyen"
+		"dynn_Akwapim"
+		"dynn_Adisi"
+		"dynn_Ewotre"
+		"dynn_Agwa"
+		"dynn_Kompa"
+		"dynn_Sehwi"
+		"dynn_Anwhiaso"
+		"dynn_Wiawso"
+		"dynn_Assini"
+		"dynn_Abripiquem"
+		"dynn_Ankobra"
+		"dynn_Kumasi"
+		"dynn_Kokofu"
+		"dynn_Dwaben"
+		"dynn_Nsuta"
+		"dynn_Bretuo"
+		"dynn_Mampong"
+		"dynn_Afigyaase"
+	}
+
+	dynasty_names = {
+		"dynn_Brong" #001
+		"dynn_Bono" #002
+		"dynn_Abron" #003
+		"dynn_Kulango" #004
+		"dynn_Badu"
+		"dynn_Seikwa"
+		"dynn_Nkurange"
+		"dynn_Lorhon"
+		"dynn_Ngwela"
+		"dynn_BabE_"
+		"dynn_Oyoko" #005
+		"dynn_Abohyen"
+		"dynn_Akwapim"
+		"dynn_Adisi"
+		"dynn_Ewotre"
+		"dynn_Agwa"
+		"dynn_Kompa"
+		"dynn_Sehwi"
+		"dynn_Anwhiaso"
+		"dynn_Wiawso"
+		"dynn_Assini"
+		"dynn_Abripiquem"
+		"dynn_Ankobra"
+		"dynn_Kumasi"
+		"dynn_Kokofu"
+		"dynn_Dwaben"
+		"dynn_Nsuta"
+		"dynn_Bretuo"
+		"dynn_Mampong"
+		"dynn_Afigyaase"
+	}
+
+	male_names = {
+		# Ghana (modern): multi-ethnic pool; ASCII; no hyphens; ~500
+		Kofi Kwame Kwesi Kwasi Kojo Kwadwo Kwadjo Kwabena Kwaku Kweku Yaw Yao Akwasi Akwesi Kwamena Kobina Ekow Ebo
+		Ato Fiifi Yoofi Paa Nana Osei Baffour Yawson Nii Tetteh Laryea Okine Sowah Ashitey Odoi Quaye Oko Lartey Dodoo
+		Teiko Koney Bortey Mensah Selorm Elikem Edem Selase Sena Senyo Mawuli Mawuko Mawunya Kafui Eyram Etornam Komla
+		Kossi Kobla Setor Sefakor Godwin Abubakar Abdulai Abdallah Abdullahi Abdulrahman Abdulkarim Abdulrasheed
+		Abdulhameed Ahmed Ibrahim Ismail Ishaq Ishmael Issah Issahaku Iddrisu Haruna Farouk Habib Karim Rashid
+		Sulemana Sumaila Yakubu Osman Mahama Mahamudu Mahmud Mustapha Musah Umar Uthman Fatawu Awal Alhassan Alidu
+		Tahiru Shani Bashiru Basit Saeed Said Salifu Sharif Yahaya Zakaria Zakir Fuseini Inusah Emmanuel Ebenezer
+		Michael Daniel Samuel David Isaac Jacob Joseph Joshua Jonathan Benjamin Solomon Stephen Peter Paul Philip
+		Thomas Matthew Mark Luke Timothy Simon Andrew Anthony Francis Bernard Robert Richard George Patrick Felix
+		Gideon Caleb Elijah Elisha Amos Joel Jonah Jeremiah Ezekiel Nehemiah Obed Obadiah Reuben Jude Titus Silas
+		Barnabas Clement Cyrus Darius Gabriel Raphael Prosper Justice Wisdom Prince Kingsley Maxwell Nelson Richmond
+		Collins Clinton Bright Godfred Godfrey Promise Courage Kendrick Kelvin Kevin Derrick Eric Ernest Edmund Edwin
+		Eugene Frederick Frank Franklin Henry Harold Harrison Herman Ignatius Isaiah Ivan Jackson James Jeffrey Jerome
+		Jesse Johnson Jordan Julius Kenneth Kennedy Lawrence Louis Malcolm Martin Maurice Nicholas Nigel Noah Oliver
+		Oswald Percy Perry Quincy Raymond Reginald Reinhard Rodney Roland Samson Sebastian Simeon Stanley Sylvester
+		Terence Theodore Victor Vincent Warren Watson Wayne Wesley William Xavier Yuri Zachary Agyeman Yawfrimpong
+		AppiahKubi Bonsrah Djan Yawus Yawah Abraham Aaron Allan Alex Allister Ambrose Archibald Archer Ariel Augustine
+		Benedict Ben Benson Bradley Brandon Bryan Cassius Cedric Charles Christian Christopher Clarence Claude
+		Clifford Clifton Conrad Cornelius Craig Damian Damien Dennis Desmond Dominic Donald Douglas Edgar Edson Edward
+		Elias Emil Emile Enoch Ephraim Erick Everett Fergus Francisco Franciszek Franco Garrett Garry Gilbert Glen
+		Gordon Grant Gregory Harvey Hector Herbert Hezekiah Hilton Hugh Humphrey Isidore Ivor Jasper John Josephus
+		Kamau Kareem Karl Lance Leon Leonard Lionel Luther Marlon Marshall Matthias Micah Micheal Morris Moses Neville
+		Norman Omar Osborne Percival Philbert Pierce Quartey Quansah Quarm Quarcoo Quashie Richardson Ridwan Robertson
+		Rogers Roy Rudolph Sampson Santino Seth Solace Theophilus Tobias Travis Trent Uriah Virgil Vinson Wilfred
+		Winston Zane Alfred Amadu Aminu Ansel Atta Baffo Barnaby Bawa Bernardo Brighton Bristol Bryant Cassiel
+		Clemente Cletus Cornel Cosmas Cosmos Cuthbert Darlington Delali Delanyo Deladem Effah Ekem Ekowfiifi Elvis
+		Emeka Emmanuelson Enos Erasmus Evans Fidelis Fifi Foster Freeman Gamal Gamaliel Gifford Godlove Goodnews
+		Goodwill Hassan Hilary Iliasu Isham Issifu Jabari Jamal Janet Jenaro Jethro Job Johnathan Kamal Kassim Kwakuo
+		Kwesiankrah Kwesiadjei Lamptey Larbi Latif Lukman Manu Morgan Mubarak NiiOdartey NiiAyi NiiArmah NiiTetteh
+		NiiTeiko Nurudeen Obeng Ofosu Ofori Okai Okoe Opoku Oppong OseiTutu OwusuAnsah OwusuBoakye Richie Rockson
+		Saddiq Salisu Sam Seidu Selassie Senanu Seyram Shadrack Shalom Sule Tawiah Tamakloe Tei Teye Torgbor YawDarko
+		YawKusi YawPrempeh YawTwum YawOfori YawFrimpong YawAntwi YawAsare YawAdjei YawOwusu YawOpoku YawOsei
+		YawKwarteng YawGyamfi YawBoakye PrinceBoakye KojoBoateng YawMensah NanaFrimpong NanaAmpofo NanaAppiah
+		KwabenaAsare KwabenaOwusu PrinceFrimpong PrinceMensah KofiOfori YawDonkor KofiBoateng KojoOfori KwameOfori
+		KojoAsare KwabenaAmpofo KwakuFrimpong KwameOwusu KojoBoakye PrinceAmpofo KwesiOfori KwameAmpofo
+	}
+
+	female_names = {
+		# Ghana (modern): multi-ethnic pool; ASCII; no hyphens; ~500
+		Akosua Adwoa Abena Akua Afua Ama Aba Afi Afriyie Adoma Adwoba Akpene Akpena Adjeley Ayorkor Atswei Ayeley
+		Aisha Amina Beatrice Belinda Benedicta Bernice Bridget Benedictaa Barbara Bianca Blessing Beryl Barbaraa
+		Benita Briana Bintu Binta Brenda Becky Benedetta Benedicte Cecilia Charity Christiana Christina Cynthia
+		Constance Comfort Catherine Charlotte Claudia Clara Clarissa Cindy Caroline Casmira Cassie Cecile Celestine
+		Celina Dzifa Dzigbordi Dela Dede Deborah Diana Dorcas Dorothy Delali Delight Doreen Dominique Danielle Daniela
+		Delphine Dinah Doris Dora Dawn Efua Esi Ewurama Emefa Enyo Elinam Esinam Eyram Edith Eileen Eleanor Elizabeth
+		Ella Ellen Emmanuella Ernestina Esther Ethel Eunice Felicia Florence Faustina Felicity Freda Frema Fremah
+		Fafali Fafa Francesca Frances Francisca Fanny Feyisara Folake Fidelia Fiona Fola Frida Georgina Gifty Gloria
+		Grace GiftyAnn Gertrude Gina Gisela Giselle Giftyjo Gabriella Gabrielle Gwendolyn Genevieve Golda Goldie
+		Gladys Giftya Gillian Halima Hawa Hafsa Hasna Hannah Harriet Helena Hajia Habiba Hadiza Hajara Helen Helina
+		Hassana Hajaraatu Hauwa Haniya Halley Hilda Irene Imani Ivana Ivanka Ivy Idara Idaly Idella Idowu Ijeoma
+		Ifeoma Ifunanya Ishatu Isabella Isabel Ivette Ije Ifueko Ireti Jamila Janet Janice Jennifer Joana Joanna
+		Josephine Joy Joyce Judith Juliana June Justina Jemima Jemila Jewel Jocelyn Jodie Joselyn Khadija Kate Kezia
+		Kafui Kukua Kuukua Kosiwaa Korkor Koryoe Konadu Konamah Kukuaa Keren Kerenhappuch Karina Karla Keisha Kristina
+		Kylie Lamiley Latifa Leticia Linda Lilian Lily Lucy Lydia Leticiah Lovia Lamisi Lamisiatu Lois Lorretta
+		Lorraine Lorinda Lauryn Laetitia Leslie Mawusi Mansa Mariam Mariama Maryam Mabel Margaret Maria Marian Marilyn
+		Marina Matilda Maud Mavis Mercy Millicent Monica Maame MaameAfia Naa Nafisa Nabila Naomi Natalie Nelly Nora
+		Nusrat Nura Nursifatu Nadia Nadiaa Nana NanaAma Nanayaa Nellya Nerissa Noraida Nubia Oye Olivia Ophelia Ohemaa
+		Ohenewa Olamide Olive Olinda Olympia Odelia Ola Oma Ona Onye Oyin Ore Oreoluwa Orianne Oriana Pamela Patience
+		Patricia Philomena Priscilla Portia Perpetual Precious Philomina Prudence Promise Patriciaa Patiencea Pearl
+		Perlina Portiaa Phyllis Praise Peace Queen Queenie Queenstar Queenster Quinn Quinta Quintina Quiteria Quiana
+		Quinella Quina Quinette Quinby Quirina Querida Quincy Quisha Quintessa Quilla Rahama Rahina Rashida Rukaiya
+		Rebecca Regina Rhoda Rose Rosemond Rosalind Rosina Ruth Rukayat Rukaya Rukaiyatu Ramatu Rabiatu Ramatou
+		Reginah Serwaa Sena Sefakor Selasi Sefafa Safia Safiya Sadia Salima Salma Samira Sumaya Sandra Sarah Selina
+		Sharon Sophia Stella Suzanne Theresa Tracy Trudy Talata Talatu Tariatu Tina Tilly Tatiana Tamara Tabitha
+		Thressa Tima Toyin Tasha Trisha Tiana Tamar Tilda Ursula Unique Unity Unice Uliana Ulina Ulla Uma Umi Umma
+		Ummah Umme Ursina Urbana Ulyana Uriela Ute Uchenna Ugochi Veronica Victoria Violet Vida Vera Vivian Valentina
+		Vanessa Vanelle Vania Vidaa Valerie Vanessaa Vicky Vina Vittoria Viviana Violetta Vinae Wilhelmina Winifred
+		Wendy Whitney Winny Winnie Wanda Wallis Wilda Willa Wilma Winter Wisdomina Waverly Wendylyn Wenona Winta Wylda
+		Wylette Xenia Xoese Xorlali Xorla Xorse Xena Xeni Xeniaa Xara Xiomara Xylia Xylina Xandra Xanthe Xanthi
+		Xanthia Xeniarose Xerra Xyla Yaa Yvonne YaaAsantewaa YaaKonadu YaaMansa YaaSerwaa Yesutor Yesuanaa Yasmine
+		Yvette Yolanda Yola Yolisa Yohana Yovita Yolani Yuliana Yulia Yara Zainab Zahra Zuleikha Zulaiha Zuwaira
+		Zainabu Zeinab Zeinatu Zerina Zubaida Zahara Zakia Zalika Zara Zarina Zeru Zillah Zina Zinatu
+	}
+	
+	founder_named_dynasties = yes
+	house_based_map_names = yes
+}
+
+name_list_kru = {
+
+	cadet_dynasty_names = {
+		"dynn_Bakwe"
+		"dynn_Kodia"
+		"dynn_Godie"
+		"dynn_Wane"
+		"dynn_Neyo"
+		"dynn_Dida"
+		"dynn_Bete"
+		"dynn_We"
+		"dynn_Glio"
+		"dynn_Ubi"
+		"dynn_Gbii"
+		"dynn_Kuya"
+		"dynn_Kwadia"
+		"dynn_Kuwaa"
+		"dynn_Aizi"
+	}
+	dynasty_names = {
+		"dynn_Bakwe"
+		"dynn_Kodia"
+		"dynn_Godie"
+		"dynn_Wane"
+		"dynn_Neyo"
+		"dynn_Dida"
+		"dynn_Bete"
+		"dynn_We"
+		"dynn_Glio"
+		"dynn_Ubi"
+		"dynn_Gbii"
+		"dynn_Kuya"
+		"dynn_Kwadia"
+		"dynn_Kuwaa"
+		"dynn_Aizi"
+	}
+
+	male_names = {
+		Armah Borforh Boryee Cammue Didwho Dolo Dwe Flomo Forkay
+		Garnahweh Gartee Garteh Gardiah Garyupleh Garmuyu Gboto Gbwe
+		Jlakon Kollie Konmlan Konowa Kpakelah Kpangbah Kparnkpai Kparsi
+		Lami Luogon Manhtee Monon-Konmlan Nimene Nyennoh Odeleia Paye Pennon 
+		Siakoh Soe-Tehpoe Sundaygar Teh Tehpoe Togar Toimu Togba
+		Wamah Welleh Wonlay Yakpazuah Yarkpawolo Yenseloh Zaowolo Zokaya
+	}
+
+	female_names = {
+		Arway Bindu Bloh Dechontee Donyen Fahnlohnee Fortee
+		Garmenh Gblormehn Gborlormenh Gormenh Gorpue
+		Janjay Jayplo Kehper Korlu Korto Konah Kortolo Lurpu
+		Mardea Mayupleh Mehnmah Miata Monji
+		Nowa Nyamen Nyonontee Nyanpue Nyene-Dwe Nyonweh
+		Paye Pahn Poady Tardy Sorntee Suah Sundaymah
+		Tarloh Teenesee Tomah Wlejii Wloh Wlojii Yenplu Zoe
+	}
+	
+	founder_named_dynasties = yes
+	house_based_map_names = yes
+}
+
+name_list_guan = {
+
+	cadet_dynasty_names = {
+		"dynn_Ntafo"
+		"dynn_Fanti"
+		"dynn_Kyerepong"
+		"dynn_Le"
+		"dynn_Ahanta"
+		"dynn_Obutu"
+		"dynn_Kpesi"
+		"dynn_Anyi"
+		"dynn_Brosa"
+		"dynn_Twifo"
+		"dynn_Akwamu"
+		"dynn_Doma"
+		"dynn_Winneba"
+		"dynn_Kade"
+		"dynn_Nsawan"
+		"dynn_Densu" #named after a river
+	}
+	dynasty_names = {
+		"dynn_Ntafo"
+		"dynn_Fanti"
+		"dynn_Kyerepong"
+		"dynn_Le"
+		"dynn_Ahanta"
+		"dynn_Obutu"
+		"dynn_Kpesi"
+		"dynn_Anyi"
+		"dynn_Brosa"
+		"dynn_Twifo"
+		"dynn_Akwamu"
+		"dynn_Doma"
+		"dynn_Winneba"
+		"dynn_Kade"
+		"dynn_Nsawan"
+		"dynn_Densu" #named after a river
+	}
+
+	male_names = {
+		Abere_Anyo Achangso Achulo Achintri Afiso Amabangye Amankwa Amati Amo_elema Amoma Aso_wura Ataawa Awale Awaare Awalekiye Awo_n_nche Awo_n_nka_nne Awo_omoto Awoshe Awoshie Ayinsah
+		Badoh Bakoaso Boreginkpr Banemu_eye Bangben Bashaso Benyepo_eye Bi_awur_bi Bin_ka Bonyangso Booma Bore Bore_chie Bore_ena_sa Bore_enye Bore_enyi-enchi Bore_nyekpe Boresa Bore_masa_alowe Bore_walae Bore_wo Bore_wu B_sha_anye
+		Chepura Daa_mato Dambatu Dari Dariche Dokilebi Dranaya Ebanyepo Ebo_eye Edonbone Edonkufo Ekomato Ekone_oto Ekoso Ekumpo Ekunfo Elempo Esapo Esa_ewoeboto Etimpo Ewanye Ewale Ewonye Ewunio Ewuntomah Ewura Eyri_modon
+		Footou Gbeadese Gyem_che Gyema_alela Jinapor Gyeowo Kakore Kanagbong Kanamo Kananmaluwe Kasha Keche_e-basa Kenyiti Keshie_eko Keshie_wale K_fantang Kginginfra Koji Kotochi Kowuribi Kramoase Kurabaso Kurayerito
+		Lempoche Lomashie Longefiye Longesai Maaman Mankpa Mankre Mantenso Mapoche Masa-agben Masape Matuamo Mbema
+		Nefa Njo_amonche Nkpamafo Nndefeso Ntoba Obosu Okonfo Owoshie Pumaya Safo Sha_moye Samafon Sorkowule Shung_nkpa
+		Techira Titi_aka Tuntunba Yomba
+	}
+
+	female_names = {
+		Awo Demba Doye Faaduma Fatim Fatoumata Malado Maram Mbodj Ndate Ndieumbeutt Ndoung Ndoye Sall Yalla Yumeyga
+	}
+	
+	founder_named_dynasties = yes
+	house_based_map_names = yes
+}
