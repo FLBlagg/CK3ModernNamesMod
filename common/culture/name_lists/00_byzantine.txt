@@ -75,15 +75,65 @@
 	}
 
 	male_names = {
-		Abovyan Adam Aghvan Aharon Akim Alik Alishan Amanor Anahit Andranik Ani Anoush Aram Arameh Ararat Aras Ardash Ardashir Ardavazd Ardghal Areg Aregouyn Argo Aris Arman Armen Armenak Armin Arnaud Arno Arsen Artashes Arthiv Artin Artur Artzrouni Artyom Arusyak Arutyun Asbed Asdvadzadour Ashkhatank Ashod Askanaz Aslan Astghik Astvadzadour Athan Avedis Avo Avraam Avram Ayl Aytsemnik Baghdasar Bagrat Barkev Barouyr Bedros Berdj Berge Bledig Boghos Bourad Bourn David Dertad Dikran Dikranagerd Dionis Domar Donabed Dzon Dor Doros Ekmalyan Elio Eliyahu Eliezer Elisheva Eliud Elizbar Elyas Emin Emrik Erebuni Eremia Eremyan Eremyas Erevuhi Esai Esdras Eshkhan Eshkhatin Ezra Faddei Faddey Fadi Fadil Faiz Faizel Fakhr Farag Faraj Farid Faris Fasih Fatin Fattah Fayiz Faysal Fayyad Fazil Fedor Fedot Fedya Feofil Feofilakt Feofan Fevronia Fevronya Fidon Fieodor Fiodor Fiorenzo Firuz Foka Foma Fyodor Gabriel Gagik Garegin Garnik Garo Gaspar Gato Gevork Gevorg Ghazaros Ghazar Ghukas Gnel Gor Grigor Gurgen Hacob Hovhannes Hovik Hovnan Hovnatan Hrach Hrag Hrant Hrayr Hripsime Ishkhan Jirair Jora Karapet Karamanoukian Karekin Kazar Khachadour Khajag Khajak Khoren Koriun Levon Loris Manoug Mardiros Margar Mher Mikael Minas Misak Nairi Narek Nazar Nerses Nishan Norayr Norik Parsegh Paruyr Petros Razmig Rupen Sahak Sargis Sevan Serop Shant Shirak Shmavon Smbat Stepan Tavit Tigran Toros Touman Vahagn Vahakn Vahan Vahik Vahram Vahran Vahrich Vahan Vahakn Vahag Vahram Vahran Vahan Vahan Varazdat Varoujan Vartan Vartkes Vazgen Zareh Zohrab Zoravar
-		#Later Catholicoi names:
-		Aristaces Aristakes Husik Pharen Zaven Aspuraces Brkisho Melitus Kyud Babken Ghevond Dertad Joab Mashdotz Yeghishe Yeghise Ananias Khachig
+		# Armenia (modern 2020s): union of 2024/2023 top lists + contemporary Armenian staples; ASCII only
+		Davit Narek Hayk Mark Tigran Areg Monte Mikayel Robert Leo Daniel Armen Artur Aram Hovhannes Alex Gor Samvel
+		Levon Karen Edgar Eduard Arman Arno Aren Ari Artak Artashes Artavazd Argishti Ara Ararat Avetis Anania Ashot
+		Asatur Avedis Bagrat Barsegh Bedros Beniamin Christopher David Dikran Eghia Eghishe Ernest Garegin Gevorg
+		Grigor Gurgen Hakob Hamlet Hamo Harutyun Haykaz Herach Hovsep Hrach Hrachya Hrant Hrayr Isahak Iskhan Jirair
+		Kamo Karapet Karo Khoren Krikor Lev Mamikon Manuk Manvel Mger Mher Misak Mkrtich Movses Nerses Nshan Paruyr
+		Petros Poghos Rafayel Rafael Ruben Sahak Sargis Sarkis Sedrak Serge Sergey Sevak Shahen Shant Shavarsh Stepan
+		Stepanos Suren Tadevos Taron Tatev Tavit Tirayr Tovmas Vache Vahe Vahagn Vahan Vakhtang Vardan Vardanush
+		Vardges Vazgen Vigen Vitali Vladislav Vrezh Vruyr Yerem Yeghia Yeghishe Yervand Zaven Zareh Adam Albert
+		Alexandr Alexander Alek Aleksey Alen Allen Ameer Amir Andran Armin Arsen Artem Arthur Artin Arto Artyom Boris
+		Dani Danial Davitjan Denis Eduardo Edward Edwin Egor Eldar Elias Elmir Emil Emmanuel Emran Erikson Ervin Felix
+		Filip Garry George German Gideon Gio Hagop Haigo Haris Ibrahim Igor Illarion Ilia Ilya Ismael Ivan Jivan
+		Joseph Karenik Kareno Karlen Karl Kaspar Kasper Kirill Koriun Krist Kristapor Kristof Kristopher Leandro Leon
+		Leonard Levonos Levi Lucas Luka Makar Maksim Marco Marcus Marios Markos Martin Mateo Matis Matteo Max Maxim
+		Mika Mikhael Milan Mina Mihran Mikael Minas Miqayel Misha Moshe Nazar Nikita Nikolai Nikolay Oliver Omar Oshin
+		Paul Pavel Rafik Rahim Rami Rastom Reni Rikard Rolan Roman Romeo Rostom Ruslan Sahen Sako Samo Samuel Samoel
+		Sami Saro Sarope Sevan Sevo Shmavon Simon Simeon Soghomon Spartak Stanislav Stepanik Styopa Tariel Tateos
+		Tatul Tevos Tim Timur Tiran Tito Toma Tomas Vachagan Vachik Vage Vaghinak Vahag Valer Valeri Valeriy Varos
+		Varujan Varuzhan Vasile Vazgenik Vehan Vigenik Vilen Vito Vlad Vladimir Vova Yasha Yuriy Yura Zakar Zakhar
+		Zara Zarmayr Zhora Zohrab Abar Abgar Abov Abraham Aghasi Aghan Aghvan Aikaz Aksel Alikhan Alishan Arakel
+		Aramais Aramazd Aramayis Arban Ardash Ardashir Ardashes Ardasher Aregnazan Aristakes Arkad Arkadios Armis
+		Arseny Artosh Asbed Askanaz Astvatsatur Atrpet Aved Avshar Ayvaz Bagatur Bartev Berd Berj Berk Beroj Bozhan
+		Chakhal Dursun Farruh Fedor Frunze Ghazar Ghazaros Ghevond Gorun Grish Habet Haghtanak Hamazasp Hambardzum
+		Hanz Harman Harut Haykazun Hmayak Hovakim Hovanes Hratch Hrachik Hyeghine Ishkhan Israyel Jirayr Karekin
+		Khachatur Khosrov Kostand Lernag Mahdesi Manases Martiros Masis Matheos Mkhitar Nubar Orbel Orhan Panos Papken
+		Pargev Saribek Sasun Serovbe Shahbaz Shirak Smbat Tachat Takvor Tamaz Tatoul Telman Torkom Tsolak Van
+		Vyacheslav Yeranos Yesayi Yesai Zakaria Zhirayr Zoravar
 	}
 	
 	female_names = {
-		Aghavni Alitz Almasd Anahid Anna Anoush Arda Arevig Arin Baydzar Berjanoush Berjouhi Datevig Dalita Eliz Gadar Gorandoukht Hasmig Houri Hranoush Katranide
-		Hripsimeh Keghanoush Keran Khorishah Kohar Latavri Leyli Lousin Mara Margarid Maria Mariyam Meghranoush Nane Nazani Ovsanna Pounig Razmouhi Rita Satenik Seta Siran Sirvart
-		Srpouhi Shoushanig Takouhi Tamar Vartanoush Vartouhi Vosgi Yeva Zabel Zmroukhd
+		# Armenia (modern 2020s): union of 2024/2023 top lists + contemporary Armenian staples; ASCII only
+		Nare Maria Arpi Lusi Mane Mari Yeva Luse Angelina Anna Mariam Elen Elena Eline Elina Ellen Anne Ani Anahit
+		Armine Armineh Arpine Arminae Arev Arevik Arusyak Arusik Astghik Azniv Aghavni Aghunik Alina Alisa Alice Ally
+		Alvard Alvina Amalia Amalya Amaliya Amira Amelia Anabel Anabella Anastasia Angelika Angela Anzhela Anush
+		Anoush Anita Araksya Araksi Araksia Araks Araminta Armenui Armenuhi Arpy Ashkhen Asya Aida Areni Arenik
+		Arianna Arina Arineh Arini Armella Armina Arpa Arshaluis Aspram Aso Aurora Ava Gayane Karine Marine Marina
+		Maro Mareta Margarita Margo Marietta Marika Marinka Marisha Marianna Mariella Marinella Marinette Lilit Lusine
+		Lusineh Lucine Lucineh Lusik Lusanna Lusinka Lusya Lusana Luseh Narine Nareh Naira Nayiri Nairi Nvard Nvarduhy
+		Nvarduhi Nika Nina Nelli Nelly Narineh Narina Nazeli Nazik Nazeni Naz Nazo Nazoohi Nazoik Nazel Nazely Noemi
+		Nune Nuneh Nunay Nona Nonna Siran Siranush Sirvard Sirarpi Siranus Sofi Sofia Sofya Suzanna Susanna Susana
+		Satenik Satik Sona Sonya Sonia Shogher Shoghik Shushan Shushanik Sevda Sevana Sevanna Silva Silvi Silvia
+		Silvina Silvine Sima Siroun Sirun Sirush Sirane Sirahayt Sirvat Sirvah Siruni Siroon Siranet Sirahar Siranuhi
+		Sirapuhi Siraneh Sirik Svitlana Tatev Tatevik Taline Talin Tamara Tamar Tamarah Tamarik Tamarine Tereza Teresa
+		Tina Tigranuhi Tigranui Tigrana Tsovinar Tsoline Tsolin Tsolineh Tsoghik Tsoghig Tslil Tigranoush Varduhi
+		Varsenik Varsenig Vardu Varditer Vardush Vardui Vard Vahanoush Vardoush Vardanyush Vardouhi Vardeni Vart
+		Varteres Vartiter Vardgesuhi Vera Veronika Veronica Victoria Viktoria Vika Violeta Violet Violetta Vilena
+		Viana Vana Vanae Vartuhy Vartouhi Varteni Zaruhi Zabel Zabelle Zabelia Zabeline Zara Zarina Zareh Zepure Zepur
+		Zepyur Zepyour Zabelina Diana Eliza Elis Elisa Elisabeth Elizabeth Ella Elle Elya Evelina Evelin Eveline Eva
+		Emilia Emily Emma Annie Adriana Adrine Adrienne Ariana Ariane Araksine Araksena Bianca Bella Berjuhy Camilla
+		Caroline Catherine Catrine Christina Christine Clara Clarice Daria Daniela Delia Elodie Elora Elsa Ester
+		Esther Edita Edit Edda Eda Eirina Eirene Ereni Erika Erica Fiona Flora Florence Gabriela Gabriella Galina
+		Gohar Goharik Geghine Heghine Helene Helena Henrietta Hermine Hripsime Ilona Inga Inessa Ines Ingrid Irina
+		Isabella Isabel Isabelle Janna Jemma Jenna Jessica Jasmin Jasmine Karina Karolina Katarina Katerina Kristine
+		Kristina Kristi Krista Lena Liana Liliana Lilith Linda Lina Liora Lika Lucia Lucinda Luisa Luiza Madlen
+		Madlene Magda Magdalena Margarit Margaret Margareta Margaretha Meline Melissa Melanya Melina Melinda Milena
+		Mila Mina Mira Miriam Monika Monica Melineh Natalia Natalie Nikita Olga Olivia Ovsanna Oxanna Oksanna Oksana
+		Ovin Patil Patiljan Patilik Paulina Pauline Petya Rima Rita Ripsime Roksana Roxanna Roxana Roxane Ruzanna
+		Ruzan Roza Rosa Rosanna Sarine Sarineh Saten Satine Sato Seda Sirine Sirineh Ursula Valentina Valeria Varduhy
+		Varduhik Vardane Vivi Vivian Yana Yelena Yevgenia Yulia Yuliana Yurina
 	}
 	
 	dynasty_of_location_prefix = "dynnp_ve"
@@ -1166,15 +1216,211 @@ name_list_greek = {
 	}
 
 	male_names = {
-		Achilles Adonis Agapetos Agapitos Agathangelos Agathias Agathon Agenor Aiantas Aias Alastor Alcibiades Alcides Alekos Aleksandros Alexios Alkaios Alketas Ammon Anastasios Andreas Angelos Aniketos Anisodoros Antaeus Antigonos Antonios Apollodoros Apollon Apollonios Arastis Archelaos Archimedes Ares Argos Arion Aristaeus Aristarchos Aristides Aristodemos Aristophanes Aristotelis Aristoxenos Arsenios Artemios Asclepius Athanasios Athenodorus Atlas Avgustinos Avgoustis Basil Basileios Belisarius Bion Charalambos Chariton Chiron Chrisanthos Christodoulos Christos Chrysanthos Chrysostomos Cleisthenes Cleobulus Cleon Cleopas Constantinos Cosmas Cratinus Damianos Damon Danaios Darius Demetrios Demetrius Democritus Demosthenes Deucalion Diagoras Diodoros Diogenes Dion Dionysios Dioskourides Doros Dorus Draco Eftychios Efthymios Eirenaios Ektor Eleutherios Eliodoro Elisha Elpidios Emmanouil Epaminondas Epimetheus Epiphanios Eros Erwin Eugenios Eukleides Eumenes Eunapios Euphemios Euphranor Euphronios Eustathios Eustratios Evander Evdoksios Evgenios Filippos Fotios Frixos Galenos Georgios Gerasimos Geron Gerontios Gethsemane Gregorios Haima Heliodoros Hellen Heraclitus Herakleios Herakles Herodes Herodion Heron Hieron Hilarion Hipparchos Hippocrates Homer Homeros Hypatios Iakchos Iakovos Ianthinos Iason Icarus Idomeneus Ignatios Ikaros Ioannes Ioannis Iphicles Ippokratis Isidoros Isokrates Kallias Kallikrates Kallimachos Kallinikos Kallipos Kallisthenes Karpos Konstantinos Kosmas Kyriakos Kyros Laertes Laios Laurus Leander Leonidas Leontios Lysander Lysias Lysimachos Makarios Manolis Menander Menelaos Miltiades Myron Nearchos Nektarios Niketas Nikitas Nikolaos Nikomedes Oinomaos Okeanos Orestes Orpheus Osios Pankratios Pantelis Parmenides Pausanias Pericles Perseus Petros Philandros Philippos Philiskos Philon Phineas Phoebus Photios Platon Polikarpos Polybius Polydeuces Polydoros Polyeuktos Polykleitos Polykrates Polymedes Polyphemus Proclus Prokopios Prometheus Protagoras Proteus Pyrrhos Pythagoras Socrates Solon Sophokles Sophronios Spyridon Stamatios Stefanos Stelios Stentor Stesagoras Sthenelos Strymonas Symeon Thaddaios Thales Theocritus Theodoros Theodosios Theodotos Theokritos Theophanes Theophilus Theophylaktos Therapon Theron Thesander Thespios Thessalos Theseus Thespios Thucydides Timaios Timoleon Timotheos Titos Traianos Triton Trophonios Tryphon Tychon Tydeus Tyndareus Typhon Vasilios Xenagoras Xenokritos Xenophon Xerxes Zephyrus Zephyros Zetes Zopyros Zosimos
-		# Mythology Names
-		Zeus Poseidon Hades Apollo Ares Hermes Hephaestus Dionysus Hestia Demeter Athena Artemis Hera Heracles Perseus Theseus Jason Achilles Odysseus Orpheus Prometheus Kronos Uranus Helios Hyperion Iapetus Coeus Crius Oceanus Hyperion Atlas Epimetheus Menoetius Prometheus Atlas Helios Selene Eos Astraeus Pallas Perses Cronus Rhea Mnemosyne Tethys Theia Themis Iapetus Coeus Crius Phorcys Ceto Ladon Asclepius Hephaistos Pan Eros Himeros Anteros Pothos Hymenaios Ganymede Adonis Narcissus Endymion Linus Castor Pollux Argus Daedalus Icarus Oedipus Sisyphus Tantalus Bellerophon Persephone
+		# Greece (modern): ELSTAT-informed leaders + common contemporary forms; ASCII transliteration; hyphen-free
+		Giorgos Georgios Yorgos Giannis Yiannis Ioannis Yannis Dimitris Dimitrios Nikos Nikolaos Konstantinos Kostas
+		Costas Vasilis Vasileios Panagiotis Panos Christos Hristos Khristos Athanasios Thanasis Andreas Alexandros
+		Alexander Alex Antonis Antonios Theodoros Theodore Theodoris Petros Pavlos Ilias Elias Stefanos Stelios
+		Stylianos Savvas Savas Spyridon Spyros Apostolos Apostolis Marios Manolis Emmanouil Michalis Michael Evangelos
+		Vangelis Lampros Lambros Leonidas Lefteris Eleftherios Grigoris Gregorios Giorgis Gerasimos Sotirios Sotiris
+		Fotis Fotios Charalampos Haralambos Haris Charis Makis Miltiadis Miltos Markos Mark Mihalis Rafail Rafael
+		Rafailos Anastasios Tasos Tassos Nektarios Nikiforos Nikitas Nikodimos Neofytos Neofitos Panayiotis
+		Panteleimon Pantelis Paraskevas Polykarpos Prokopios Prokopis Rizos Rodos Simeon Simos Simon Stamatis Stratos
+		Stavros Takis Themistoklis Themis Theofanis Theofilos Thomas Timotheos Tim Vaggelis Vagelis Valentinos
+		Varnavas Vasilios Vassilis Viktoras Victor Vlasis Vlassis Vladimiros Xenofon Xenophon Yiorgos Yorgis Zacharias
+		Zachos Achilleas Achilles Adonis Agapios Agis Aggelos Angelos Aimilios Alekos Aleksandros Aleko Alexis Alkis
+		Anargyros Anestis Anthonios Anthimos Antonakis Aris Ariadnis Artemis Artemios Athinodoros Axilleas Babis
+		Basileios Christoforos Chronis Damianos Dimos Dionisis Dionysis Dionysios Efthimios Efstratios Efstathios
+		Eftichios Efthemios Ektoras Eliades Elpidoforos Emilios Ermis Eros Eteoklis Eugenios Evgenios Filippos
+		Fillipos Filipos Filip Fivos Foivos Fokion Gavriil Gavril Giorgakis Giorgios Giorkos Gkikas Gkosmas Glykerios
+		Glykeris Grigorios Haralampos Hektor Hristoforos Iason Iasonas Ieremias Ignatios Iliadis Ilie Iordanis
+		Isidoros Ismail Ivor Kallistos Kalistratos Kallinikos Kleon Kleomenis Kleovoulos Kleanthis Klearchos Kleitos
+		Koulis Kosmas Kyrillos Kyriakos Laertis Lazaros Leon Leontios Leontas Leontaris Leuteris Loukas Lykourgos
+		Makarios Manos Mavros Maximos Meletios Menas Mihail Michail Miltiades Minas Moses Napoleon Narcis Nasos
+		Nestoras Nestor Neoklis Neokles Nikandros Nikanor Niko Nikolao Nikola Nileas Odisseas Odysseas Omiros Orfeas
+		Orestis Panagis Panaghiotis Panikos Pashalis Paschalis Pavlidis Philippos Phillipos Photis Platon Platonas
+		Polydoros Prodromos Ptolemaios Rodolphos Rodion Sakis Sarantis Serafeim Seraphim Sergios Sokratis Spartakos
+		Stamatios Stathis Tadeos Telemachos Thales Thanasios Thanos Themistocles Theocharis Theoklitos Theonas Theon
+		Theonistos Theophanes Theophilos Theophylaktos Therapon Thrasivoulos Tiberios Titos Todoros Tryfon Tryphonos
+		Tychon Valerios Vardis Vasso Vikentios Vissarion Xanthos Xristos Zissis Zois Zorbas Zoti Zotikos Adrian
+		Christopher Daniel Darius David Edward Emmanuel Gabriel George Gregory Hector Jason John Joseph Julian Leo
+		Lucas Luke Marcus Martin Matthew Nicholas Paul Peter Philip Sebastian Stephen Timothy William Christakis
+		Neophytos Christodoulos Loizos Fytos Xenios Iacovos Iakovos
+		
+		# Greece (Classical period): 1000 ASCII transliterations; hyphen-free; A–Z coverage
+		Achilleus Aeschyandros Aeschyarchos Aeschyas Aeschydemos Aeschydoros Aeschyes Aeschygenes Aeschyias Aeschyidas
+		Aeschyides Aeschyillos Aeschyinos Aeschyion Aeschyios Aeschyippos Aeschykleitos Aeschykles Aeschykrates
+		Aeschykritos Aeschyleon Aeschymachos Aeschymenes Aeschyos Aeschyphilos Aeschyphon Aeschyphonos Aeschysthenes
+		Aeschytheon Aeschytheos Aeschython Agamemnon Agathandros Agatharchos Agathas Agathes Agathias Agathidas
+		Agathides Basilandros Basilarchos Basilas Basiles Basilias Basilidas Basilides Basilillos Basilinos Basilion
+		Basilios Basilippos Basilodemos Basilodoros Basilogenes Basilokleitos Basilokles Basilokrates Basilokritos
+		Basiloleon Basilomachos Basilomenes Basilophilos Basilophon Basilophonos Basilos Basilosthenes Basilotheon
+		Basilotheos Basilothon Bellerophon Bion Calliandros Calliarchos Callias Callidemos Callidoros Callies
+		Calligenes Calliias Calliidas Calliides Calliillos Calliinos Calliion Calliios Calliippos Callikleitos
+		Callikles Callikrates Callikritos Callileon Callimachos Callimenes Callios Calliphilos Calliphon Calliphonos
+		Callisthenes Callitheon Callitheos Callithon Charalandros Charalarchos Charalas Charales Charalias Charalidas
+		Charalides Charalillos Charalinos Damaretos Damasandros Damasarchos Damasas Damases Damasias Damasidas
+		Damasides Damasillos Damasinos Damasion Damasios Damasippos Damasodemos Damasodoros Damasogenes Damasokleitos
+		Damasokles Damasokrates Damasokritos Damasoleon Damasomachos Damasomenes Damasophilos Damasophon Damasophonos
+		Damasos Damasosthenes Damasotheon Damasotheos Damasothon Damiskos Damokratos Damokritos Damon Damonides
+		Damonon Damophon Dardanos Echekrates Echelos Eirenandros Eirenarchos Eirenas Eirenes Eirenias Eirenidas
+		Eirenides Eirenillos Eireninos Eirenion Eirenios Eirenippos Eirenodemos Eirenodoros Eirenogenes Eirenokleitos
+		Eirenokles Eirenokrates Eirenokritos Eirenoleon Eirenomachos Eirenomenes Eirenophilos Eirenophon Eirenophonos
+		Eirenos Eirenosthenes Eirenotheon Eirenotheos Eirenothon Eiron Ekphantos Eleanos Eleutherios Elpides
+		Empedokles Endios Gelon Gorgandros Gorgarchos Gorgas Gorges Gorgias Gorgidas Gorgides Gorgillos Gorginos
+		Gorgion Gorgios Gorgippos Gorgodemos Gorgodoros Gorgogenes Gorgokleitos Gorgokles Gorgokrates Gorgokritos
+		Gorgoleon Gorgomachos Gorgomenes Gorgophilos Gorgophon Gorgophonos Gorgos Gorgosthenes Gorgotheon Gorgotheos
+		Gorgothon Hagesandros Hagesippos Hagestratos Hagnon Hagnotheos Hegelochos Hegemon Hegesandros Hegesarchos
+		Hegesas Hegeses Hegesias Hegesidas Hegesides Hegesillos Hegesinos Hegesion Hegesios Hegesippos Hegesistratos
+		Hegesodemos Hegesodoros Hegesogenes Hegesokleitos Hegesokles Hegesokrates Hegesokritos Hegesoleon Hegesomachos
+		Hegesomenes Hegesophilos Hegesophon Hegesophonos Hegesos Hegesosthenes Hegesotheon Hegesotheos Hegesothon
+		Hekataios Iasoandros Iasoarchos Iasoas Iasodemos Iasodoros Iasoes Iasogenes Iasoias Iasoidas Iasoides
+		Iasoillos Iasoinos Iasoion Iasoios Iasoippos Iasokleitos Iasokles Iasokrates Iasokritos Iasoleon Iasomachos
+		Iasomenes Iason Iasonandros Iasonarchos Iasonas Iasones Iasonias Iasonidas Iasonides Iasonillos Iasoninos
+		Iasonion Iasonios Iasonippos Iasonodemos Iasonodoros Iasonogenes Iasonokleitos Kadmilos Kadmos Kalas
+		Kalliandros Kalliarchos Kallias Kallicrates Kallidemos Kallidoros Kallies Kalligenes Kalliias Kalliidas
+		Kalliides Kalliillos Kalliinos Kalliion Kalliios Kalliippos Kallikleitos Kallikles Kallikrates Kallikratides
+		Kallikritos Kallileon Kallimachos Kallimedes Kallimenes Kallinikos Kallios Kalliphilos Kalliphon Kalliphonos
+		Kallisthenes Kallistogenes Kallistratos Kalliteles Kallitheon Kallitheos Lachares Laches Laertes Laodamas
+		Laomedon Leagros Leandandros Leandarchos Leandas Leandes Leandias Leandidas Leandides Leandillos Leandinos
+		Leandion Leandios Leandippos Leandodemos Leandodoros Leandogenes Leandokleitos Leandokles Leandokrates
+		Leandokritos Leandoleon Leandomachos Leandomenes Leandophilos Leandophon Leandophonos Leandos Leandosthenes
+		Leandotheon Leandotheos Leandothon Leandros Leimakhos Leon Machaonandros Machaonarchos Machaonas Machaones
+		Machaonias Machaonidas Machaonides Machaonillos Machaoninos Machaonion Machaonios Machaonippos Machaonodemos
+		Machaonodoros Machaonogenes Machaonokleitos Machaonokles Machaonokrates Machaonokritos Machaonoleon
+		Machaonomachos Machaonomenes Machaonophilos Machaonophon Machaonophonos Machaonos Machaonosthenes
+		Machaonotheon Machaonotheos Machaonothon Magas Makarios Makartatos Makron Mantias Mantitheos Marathonios Medon
+		Megakles Narkissos Naukrates Nearchandros Nearcharchos Nearchas Nearches Nearchias Nearchidas Nearchides
+		Nearchillos Nearchinos Nearchion Nearchios Nearchippos Nearchodemos Nearchodoros Nearchogenes Nearchokleitos
+		Nearchokles Nearchokrates Nearchokritos Nearcholeon Nearchomachos Nearchomenes Nearchophilos Nearchophon
+		Nearchophonos Nearchos Nearchosthenes Nearchotheon Nearchotheos Nearchothon Neon Neoptolemos Nikandrandros
+		Nikandrarchos Nikandras Nikandres Nikandrias Odysseus Oineus Oinopides Onasimos Onesikritos Onesilos Onesimos
+		Onesiphoros Onomakritos Onomarchos Onomastos Orestes Orion Orpheus Parmenides Parmenion Pausanandros
+		Pausanarchos Pausanas Pausanes Pausanias Pausanidas Pausanides Pausanillos Pausaninos Pausanion Pausanios
+		Pausanippos Pausanodemos Pausanodoros Pausanogenes Pausanokleitos Pausanokles Pausanokrates Pausanokritos
+		Pausanoleon Pausanomachos Pausanomenes Pausanophilos Pausanophon Pausanophonos Pausanos Pausanosthenes
+		Pausanotheon Pausanotheos Pausanothon Peisandros Peisistratos Peithon Pelagon Pelasgos Peleus Pelopidas
+		Sarpedon Seleukos Seuthes Simoandros Simoarchos Simoas Simodemos Simodoros Simoes Simogenes Simoias Simoidas
+		Simoides Simoillos Simoinos Simoion Simoios Simoippos Simokleitos Simokles Simokrates Simokritos Simoleon
+		Simomachos Simomenes Simonides Simoos Simophilos Simophon Simophonos Simos Simosthenes Simotheon Simotheos
+		Simothon Sisyphos Socrandros Socrarchos Socras Telemachos Teles Telesarchos Telesikles Telesphoros Teramenes
+		Teukros Thales Theagenes Themistandros Themistarchos Themistas Themistes Themistias Themistidas Themistides
+		Themistillos Themistinos Themistion Themistios Themistippos Themistodemos Themistodoros Themistogenes
+		Themistokleitos Themistokles Themistokrates Themistokritos Themistoleon Themistomachos Themistomenes
+		Themistophilos Themistophon Themistophonos Themistos Themistosthenes Themistotheon Themistotheos Themistothon
+		Xanthandros Xantharchos Xanthas Xanthes Xanthias Xanthidas Xanthides Xanthillos Xanthinos Xanthion Xanthios
+		Xanthippos Xanthodemos Xanthodoros Xanthogenes Xanthokleitos Xanthokles Xanthokrates Xanthokritos Xantholeon
+		Xanthomachos Xanthomenes Xanthophilos Xanthophon Xanthophonos Xanthos Xanthosthenes Xanthotheon Xanthotheos
+		Xanthothon Xenagoras Xenarchos Xenoandros Xenoarchos Xenoas Xenodemos Xenodoros Xenoes Xenogenes Zagreus
+		Zenoandros Zenoarchos Zenoas Zenodandros Zenodarchos Zenodas Zenodemos Zenodes Zenodias Zenodidas Zenodides
+		Zenodillos Zenodinos Zenodion Zenodios Zenodippos Zenododemos Zenododoros Zenodogenes Zenodokleitos Zenodokles
+		Zenodokrates Zenodokritos Zenodoleon Zenodomachos Zenodomenes Zenodophilos Zenodophon Zenodophonos Zenodoros
+		Zenodos Zenodosthenes Zenodotheon Zenodotheos Zenodothon Zenodotos Zenoes Zenogenes
+		
+		# Greece (mythological): ASCII transliterations; hyphen-free; broad set with A–Z coverage
+		Zeus Poseidon Hades Apollo Ares Hermes Hephaestus Dionysus Asclepius Pan Eros Anteros Hypnos Thanatos Morpheus
+		Oneiros Phobos Deimos Kratos Erebus Aether Chaos Uranus Pontus Geras Momus Priapus Triton Nereus Proteus
+		Glaucus Phorcys Palaemon Helios Aeolus Boreas Notus Zephyrus Eurus Aion Chronos Icarus Iacchus Hymenaeus
+		Hecatoncheires Briareus Aegaeon Gyges Cottus Kronos Cronus Oceanus Hyperion Iapetus Coeus Crius Atlas
+		Prometheus Epimetheus Menoetius Perses Asterius Astraeus Pallas Alcyoneus Enceladus Porphyrion Ephialtes Mimas
+		Polybotes Agrius Rhoetus Gration Damysus Eurytus Clytius Orion Orthrus Ladon Python Typhon Geryon Chrysaor
+		NemeanLion Cerberus Achelous Alpheus Asopus Cephisus Eurotas Inachus Peneus Scamander Strymon Spercheus
+		Xanthus Ilissus Eridanus Asterion Acheloios Acheloos Achilles Agamemnon Ajax Aias Menelaus Odysseus Diomedes
+		Nestor Patroclus Antilochus Protesilaus AjaxOileus Idomeneus Tlepolemus Teucer Thersites Sarpedon Aeneas
+		Anchises Hector Paris Deiphobus Polydamas Priam Agenor Memnon Rhesus Dolops Epeius Eumelus Eurypylus Iphidamas
+		Laocoon Pandarus Pandaros Polites Asius Astyanax Antiphus Polydorus Antenor Antenorides Heracles Alcides
+		Amphitryon Iolaus Eurystheus Iphitus Neleus Periclymenus Eurysthenes Hyllus Theseus Pirithous Peirithous
+		Orestes Pylades Jason Aeson Acastus Peleus Telamon Bellerophon Perseus Acrisius Danaus Aegyptus Lynceus Abas
+		Proitos Proetus Amphiaraus Adrastos Tydeus Capaneus Polyneices Eteocles Creon Laius Oedipus Cadmus Amphion
+		Zethus Pentheus Melampus Calchas Tiresias Teiresias Idmon Halitherses Mopsus Aristaeus Triptolemus Orpheus
+		Linus Musaeus Palamedes Philoctetes Neoptolemus Phrixus Phrixos Palaimon Minos Rhadamanthys Aeacus Midas
+		Lycurgus Lykaon Erechtheus Erechthonius Kekrops Cecrops Codrus Pandion Aegeus Egeus Aigyptos Argus Argos
+		Autolycus Castor Pollux Polydeuces Akademos Academus Agon Aletes Alector Ancaeus Ancaios Ankaios Anaxagoras
+		Anaximander Anaximenes Arcesilaus Archilochus Archimedes Aristarchus Aristides Aristophanes Aristotle
+		Aristoxenus Asclepiades Bion Bias Chilon Cleobulus Pittacus Solon Euphemus Euryalus Eurylochus Eurydamas
+		Eurymedon Idas Atalantos Admetus Amphidamas Butes Calais Laertes Leodecus Meleager Nauplius Oileus Phalerus
+		Phlias Phoenix Phocus Poeas Talaus Tiphys Zetes Chiron Nessus Pholus Asbolus Eurytion Amphictyon Minyas
+		Eumolpus Erichthonius Ilus Assaracus Dardanus Tros Laomedon Sisyphus Alcinous Aeetes Aietes Amathus Broteas
+		Busiris Catreus Epopeus Erysichthon Eryx Euanthes Euchenor Eunomus Eunostos Euphorbus Abaris Chrysippus
+		AgathosDaimon Phthonos Gelos Himeros Icelus Momos Ponos Geron Iynx Nomos Peithon Peithonides Aethon Aethlius
+		Aigaios Aigimios Agriopas Aineias Akragas Alastor Alcathous Alexanor Alexidamus Alexicles Alkimachos Alkimos
+		Aloeus Almarcus Amarynthus Amphiaraos Amphilochus Amphinomus Anax Anaxander Anaxilas Anaximandros Ancus
+		Androgeos Andromachus Antaeus Antimachus Antinous Antiphates Antiphon Aphareus Archemorus Areithous Argeios
+		Argynnus Aristomachus Aristodemus Aristaios Aristokles Aristomenes Aristomachos Arrhon Asbolos Asklepios
+		Astyages Atreus Automedon Axylus Belus Brontes Borys Caeneus Caicus Calypsus Cephalus Cepheus Chabrias Charon
+		Chersidamas Chremes Chromius Chthonius Cineas Cinyps Cithaeron Cleon Cleombrotus Cleobis Clonius Clymenus
+		Coeranus Copreus Coronus Corythus Cresphontes Ctesippus Cychreus Cycnus Cyzicus Daedalus Damasen Damastor
+		Damasichthon Damon Deucalion Dexamenus Diocles Diores Dolon Dryas Echemus Echemmon Echepolus Echetus Eetion
+		Eioneus Electryon Elephenor Elpenor Endymion Epaphus Epigonus Epochos Erginus Ethon Euaemon Euathlos Eubalus
+		Eubulus Eudoros Euenos Euenus Eugenios Eugeneios Euneus Eupalamus Euphron Eupolemus Euryalos Eurymachus
+		Eurymedus Euxenus Gelon Ganymedes Ganymede Gorgythion Gortys Guneus Haemon Halius Harpagus Hegesippus Hesiod
+		Hippasus Hippalcimus Hipparchus Hippocoon Hippodamas Hippodromeus Hippolytus Hippomedon Hippomenes Hylas
+		Hymenaios Hypsenor Ialmenus Iamid Iasus Icarius Idaeus Ion Iphicles Iphicrates Iphigenes Iphitos Iphthime
+		Isander Ismarus Ismenus Isocrates Ixion Jasus Jasius Jove Kadmos Kaineus Kepheus Kerameikos Keryx Kleon
+		Kleobis Kleomenes Kleomachos Kleitos Klymenos Klyton Koios Koronos Kreon Kresphontes Kratero Kyknos Kypros
+		Kyzikos Lamedon Lampus Lampos Lapithes Lelex Leodes Leonidas Leonteus Leukippos Linos Lycaon Lykos Lycomedes
+		Lysander Lysanias Lysimachus Lysippus Maia Machaon Machaereus Medeius Medon Megareus Meges Menestheus Meriones
+		Misenus Mnesus Molion Molossos Mygdon Myron Myrtilus Myscelus Mythras Narkissos Narcissus Nastes Nepheleus
+		Nireus Nisos Nycteus Nykteus Oeneus Oenomaus Orthopolis Othryoneus Otus Oxyntes Pausanias Pelias Pelops
+		Pergamos Periander Pericles Phaethon Phineus Phlegyas Phorkys Phoroneus Pindar Plato Podalirius Podarces
+		Polybus Polynices Polyphemus Procrustes Ptolemaeus Rhexenor Scamandrius Selinus Sinon Sinopeus Sosigenes
+		Stentor Stesichorus Sterope Steropes Sthenelus Styxios Talos Tantalus Telemachus Telegonus Tereus Teuthranes
+		Thestor Thyrsus Tithonus Tyndareus Tyndareos Ulysses Valens Voreas Wanax Xenocrates Xenophon Xuthus Xouthos
+		Yakinthos Ypnos Zagreus Zalmoxis Zelos Zopyrus Quirinus Faethon Frixos Foinix
 	}
 	
 	female_names = {
-		Acantha Adara Adelpha Adonia Aegle Aella Agalia Agape Agathi Agave Aglaia Agnes Agoritsa Agrippina Aikaterine Alcestis Aleka Aletheia Alkmena Althaea Amalthea Ambrosia Amphitrite Anaitis Anargyros Anastasia Anatole Andriana Andromache Andromeda Angela Angelliki Antheia Anthousa Antigone Antiope Antoinette Anytus Apollonia Arcadia Aretha Arethusa Areti Ariadne Aristea Aspasia Astero Athanasia Athena Athenais Athina Callia Calliope Callista Calypso Cari Catarina Chara Charis Charissa Charlene Charlene Chrisa Chrisoula Christina Clio Clymene Clytie Cora Dafni Damara Danae Daphne Deianira Delia Delphine Demetra Demi Despina Despo Diamanda Diana Dido Dione Dionysia Dora Dorcas Dorothea Dorthea Eftihia Efterpi Electra Elena Elene Eleni Elissa Elpida Eudocia Eudora Eudoxia Eufemia Eulalia Eunice Euphemia Euphrosyne Eurydice Evadne Evanthe Evdokia Evmorfia Faidra Fotini Galatea Georgia Glykeria Harmonia Haroula Hecuba Helen Helena Helene Hera Hermione Hero Hesperia Hestia Ianthe Ifigenia Io Iolanthe Ione Irene Irini Isadora Isidora Ismene Kalliope Kallista Kallisto Kalyca Kassandra Katerina Kiriaki Kleio Kleoniki Konstantina Korinna Krinio Kyriaki Kyveli Lamia Leda Lefki Lena Leokadia Leta Lila Lina Litsa Loukia Lyra Lysandra Magda Margarita Marianna Melaina Melanthe Melina Melita Melitta Melpomene Metis Mnemosyne Myra Myrrhine Myrto Nafsika Nausicaa Nefeli Nektaria Niki Nike Niki Nikoleta Nikolina Niovi Oinone Olympia Olympias Orestia Orithyia Ourania Pallas Panagiota Pandora Paraskevi Paris Patricia Penelope Persephone Perseus Petra Phaedra Phaidra Phoebe Phyllis Polyxeni Psyche Pyrrah Rhea Rhodanthe Roxane Roxani Sappho Selene Selina Smaragda Sofia Sophia Sophronia Stamatia Stavroula Stella Syntyche Tasia Thalia Thalía Thalassa Thea Theano Thekla Theodora Theodosia Theofania Theone Theophania Thetis Thraso Urania Varvara Vasiliki Venus Xanthe Xenia Zephyra Zoe
-		# Mythology Names
-		Aphrodite Athena Artemis Hera Demeter Hestia Persephone Hebe Eris Iris Nike Selene Dione Rhea Themis Mnemosyne Metis Tyche Nemesis Amphitrite Ananke Gaia Thetis Phoebe Leto Asteria Harmonia Theia Eurynome Alcyone Maia Electra Calypso Leda Cybele Semele Io Pasiphaë Europa Thalia Melpomene Clio Urania Calliope Erato Polyhymnia Euterpe Alectrona Hemera Nyx Eos Circe Hygieia Eileithyia Enyo Arethusa Echo Psyche Thetis Galatea Pandora
+		# Greece (modern): ASCII transliterations; hyphen-free; balanced A–Z coverage (~364)
+		Agapi Aglaia Aikaterini Aimilia Aikaterina Aliki Alina Amalia Anastasia Andriana Angeliki Anthoula Antigoni
+		Areti Barbara Berenike Bettina Bianca Bella Biljana Bonnie Brigitta Basilia Basiliki Bernadeta Benedetta Bia
+		Briseis Calliope Calypso Candia Cassandra Caterina Catharina Celina Charikleia Charis Chara Chloe Christina
+		Chrysanthe Chrisoula Danai Daphne Daria Despina Despoina Diamanto Dimitra Dionysia Domna Dorothea Dora Dioni
+		Dione Dimitria Eftychia Eirini Ekaterini Eleni Eleonora Elisavet Elisa Elpida Emilia Eugenia Eulalia
+		Euphrosyne Evdokia Evridiki Fani Fay Fereniki Filippa Flora Foivi Fotini Foteini Foteinoula Francesca
+		Frangitsa Froso Frosyni Fryni Gaia Galini Garifalia Georgia Georgina Gigi Gianna Giannoula Gina Giorgina
+		Glykeria Gregoria Gorgo Galatea Helena Helene Heli Hermina Hermione Hera Hedda Hedvig Hilda Hilaria Hortensia
+		Honi Heraia Heliki Ifigeneia Iliana Ilektra Iliada Ilida Ilianna Ilona Ioulia Ira Irida Irini Isidora Ismini
+		Iro Jana Jelena Jenni Jessica Joanna Jocasta Jolanda Julia Juliana Julieta Justina Jasmin Jasmine Joy Kalliopi
+		Kalomira Kalypsa Kallirroi Karolina Kassandra Katerina Katia Kleio Kleopatra Konstantina Koralia Kyriaki Kyra
+		Lamprini Laskarina Leda Lefki Lenia Leto Lida Lia Liana Lila Lina Litsa Loukia Louiza Magda Magdalini Makrina
+		Mara Maria Marianna Marilena Marina Martha Matina Melina Melpomeni Michaela Myrto Nafsika Nancy Nandia Nefeli
+		Nikoleta Niki Nikoletta Nina Niovi Nota Nadia Natalia Natasa Noemi Olga Olivia Olympia Orestina Ourania Oriana
+		Ornella Ophelia Odessa Oksana Olia Olenka OuraniaRania OuraniaVania Pagona Panagiota Pavlina Pelagia Penelope
+		Persefoni Persa Phaedra Philippa Photini Polyxeni Popi Paraskevi Panorea Quenna Quiana Quinn Quinta Quirina
+		Querida Quintina Quincy Quilla Quintessa Queena Quinella Quina Quinby Rafaela Rallou Rea Regina Renata Rhea
+		Ria Ritsa Roksana Romina Roxani Rozalia Roxanne Rania Sappho Sara Savina Sevasti Smaragda Sofia Sotiria
+		Spiridoula Stamatia Stavroula Stella Styliani Sylvia Syriani Tatiana Tasia Tasoula Thaleia Thalia Thekla
+		Theano Theodora Theofania Thomais Tina Tonia Triantafyllia Tryphaina Uliana Ulyana Urania Ursula Ulla Umberta
+		Uma Undine Unity Urbana Uriela Uta Utopia Uvelina Vana Varvara Vasilia Vasiliki Venetia Venera Vera Veronica
+		Vicky Victorina Violeta Violetta Virginia Vivi Wanda Wendy Whitney Wilhelmina Winona Wioletta Willa Wilda
+		Winnie Winifred Winter Wallis Waverly Wylda Xanthe Xanthi Xanthippe Xenia Xenobia Xristina Xristiana Xrysa
+		Xrysoula Xristoula Xeni Xanthoula Xena Xara Yanna Yasemi Yasmina Yelena Yesenia Yianna Yliana Yolanda Yota
+		Yvonne Yvoni Yvone Yola Yolaine Zafeiria Zafira Zaira Zanetta Zara Zeta Zina Zinovia Zita Zoe Zoi Zografia
+		Zoeanna Zafiro
+		
+		# Greece (mythological): ASCII transliterations; hyphen-free; balanced A–Z where feasible (~324)
+		Aphrodite Athena Artemis Atalanta Ariadne Alcmene Alcestis Amphitrite Ananke Asteria Arethusa Antigone Antiope
+		Aello Bia Beroe Baucis Briseis Benthesikyme Bolbe Britomartis Brizo Byblis Batea Boebe Brimo Bistonis Bromia
+		Calliope Calypso Cassandra Circe Clio Chione Chloris Clytemnestra Clymene Cyrene Callirrhoe Callisto Campe
+		Ceto Demeter Dione Doris Daphne Danae Despoina Dictynna Delphyne Deianeira Dirce Dryope Dike Diomede Dynamene
+		Eileithyia Electra Eris Eos Enyo Echo Eurynome Euryale Euphrosyne Elpis Eunomia Erato Eudora Euterpe Faidra
+		Filomela Filyra Filotis Fryne Fainarete Faine Finoe Fanope Fryxiane Foino Frygana Gaia Galatea Glauce Glauke
+		Gorgo Gorgophone Graea Graeae Glausia Glanthis Gorgytha Glauconome Hera Hestia Hebe Hecate Hemera Harmonia
+		Hygieia Hypsipyle Hippolyta Hippodamia Hesperia Hero Helene Hermione Io Iole Iphigenia Ianthe Ione Idothea Ino
+		Ismene Iphianassa Iphinoe Iphimedeia Idyia Ianassa Irene Jocasta Juno Juturna Julia Junia Justina Jasione
+		Jaeira Kore Kalliope Kallisto Kallirrhoe Kassandra Kirke Khloris Klymene Klytaimnestra Kyrene Kharis Kreousa
+		Kallianeira Kymothoe Leto Leda Lampetia Lampedo Leucothea Leucippe Lyssa Lysidice Laodamia Laodice Leucophryne
+		Lampetusa Leuke Liriope Maia Mnemosyne Metis Medea Medusa Melinoe Melia Melpomene Merope Myrina Myrto Mycale
+		Maera Megara Macaria Nemesis Nike Nyx Nausicaa Nysa Neda Neso Nais Nerine Nerissa Nikomache Nikothoe Nikaia
+		Neaira Oenone Oreads Oenopia Orias Othryone Oinoe Oinone Ophelia Opis Ourea Orseis Orthosia Ocyrrhoe Ocyphoe
+		Persephone Penelope Psyche Phaedra Phoebe Peitho Polyhymnia Parthenope Peisinoe Pisidice Pallas Pheme Pleione
+		Pasithea Pandora Quione Quirina Quiritis Rhea Rhodope Rhode Rhadine Rhoio Rhoebe Ranthis Rhodopis Roxane
+		Rhesina Rheia Rhesoessa Rhodanthe Selene Semele Sibyl Stheno Scylla Satyra Sinope Sophrosyne Soteria Syrinx
+		Sterope Styx Stesichore Sthenebeia Sappho Salacia Thetis Thalia Terpsichore Taygete Tisiphone Tisiphony Thoon
+		Thraso Thalassa Throne Themisto Theano Tyche Tyro Thespia Urania Urea Ulyssa Ulyssea Uranis Ureaea Ustia Udeis
+		Uloessa Udora Uranisca Uchareia Ustine Uraia Venus Vesta Viduana Veneranda Veneris Veritas Vitaria Violetta
+		Viragia Vindemia Vinestra Vibilia Wanassa Wanda Wrene Weria Xanthe Xantho Xenodice Xenodike Xanthippe Xenia
+		Xenobia Xenais Xylona Xenagora Ypsipyle Ylissa Yone Yole Ydora Ylena Ydome Yliane Zoe Zosteria Zelia Zelophe
+		Zelosyne Zerynthia Zonobia Zorka Zopyra Zopyris Zagrethe Zabeta Zabina
 	}
 
 	dynasty_of_location_prefix = "dynnp_of"
