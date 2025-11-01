@@ -90,123 +90,16 @@
 	# Does not exist in 1066 - is the result of cultural amalgamation between Saxon and Norman through events
 	male_names = {
 		# Modern Names
-		Aarav Aaron Abdiel Abdullah Abel Abraham Abram Ace Adam Adan Aden Adler Adonis Adrian Adriel Agustin Ahmad Ahmed Ahmir
-		Aidan Aiden Alan Alaric Albert Alberto Alden Aldo Alec Alejandro Alessandro Alex Alexander Alexis Alfonso Alfred Alfredo
-		Ali Alijah Alistair Allan Allen Alonso Alonzo Alvaro Alvin Amari Ambrose Ameer Amias Amir Amiri Amos Anakin Ander Anders
-		Anderson Andre Andres Andrew Andy Angel Angelo Anthony Antonio Apollo Archer Archie Ares Ari Arian Ariel Aries Arjun Arlo
-		Armando Armani Aron Arthur Arturo Aryan Asa Asaiah Asher Ashton Atharv Atlas Atreus Atticus August Augustine Augustus
-		Aurelio Austin Avery Avi Avyaan Axel Axl Axton Ayaan Ayan Ayden Azael Azariah Aziel Azrael Azriel Baker Banks Barrett
-		Baylor Bear Beau Beckett Beckham Bellamy Ben Benedict Benicio Benjamin Bennett Benson Bentley Bjorn Blake Blaze Bo Bode
-		Boden Bodhi Bodie Boone Boston Bowen Braden Bradley Brady Brandon Brantley Braxton Brayan Brayden Braylen Braylon Brecken
-		Brendan Brennan Brian Briar Bridger Briggs Brixton Brock Brodie Brody Bronson Brooks Bruce Bruno Bryan Bryant Bryce Brycen
-		Bryson Byron Cade Caden Caiden Cain Cairo Cal Caleb Callahan Callan Callen Callum Calum Calvin Camden Cameron Camilo Canaan
-		Cannon Carlos Carmelo Carson Carter Cartier Case Casen Casey Cash Cason Caspian Cassian Cassius Castiel Cayden Cayson
-		Cedric Cesar Chaim Chance Chandler Charles Charlie Chase Chosen Chris Christian Christopher Cillian Clark Clay Clayton
-		Clyde Cody Cohen Colby Cole Coleson Colin Collin Colson Colt Colten Colter Colton Conner Connor Conor Conrad Cooper Corbin
-		Corey Creed Crew Cristian Crue Cruz Cullen Curtis Cyrus Dakari Dakota Dallas Dalton Damari Damian Damien Damir Damon Dane
-		Dangelo Daniel Danny Dante Darian Dariel Dario Darius Darren Darwin Dash Davian David Davis Dawson Dax Daxton Deacon Dean
-		Declan Demetrius Dennis Denver Derek Derrick Desmond Devin Devon Dexter Diego Dilan Dillon Dion Dior Dominic Dominick
-		Donald Donovan Dorian Douglas Drake Drew Duke Duncan Dustin Dutton Dylan Easton Eddie Eden Edgar Edison Eduardo Edward
-		Edwin Eithan Eli Eliam Elian Elias Eliel Elijah Elio Eliseo Elisha Elliot Elliott Ellis Emanuel Emerson Emery Emiliano
-		Emilio Emir Emmanuel Emmett Emmitt Emory Enoch Enrique Enzo Eren Eric Erick Erik Ermias Ernesto Esteban Ethan Eugene Evan
-		Evander Everest Everett Ezekiel Ezequiel Ezra Ezrah Fabian Felipe Felix Fernando Finley Finn Finnegan Finnley Fisher
-		Fletcher Flynn Ford Forest Forrest Francis Francisco Franco Frank Franklin Frederick Gabriel Gael Gage Garrett Gary Gatlin
-		Gavin George Gerardo Gian Gianni Gideon Giovanni Gordon Grady Graham Grant Grayson Gregory Grey Greyson Griffin Guillermo
-		Gunnar Gunner Gustavo Hamza Hank Harlan Harlem Harley Harold Harrison Harry Harvey Hassan Hayden Hayes Heath Hector Hendrix
-		Henrik Henry Hezekiah Holden Houston Hudson Hugh Hugo Hunter Huxley Ian Ibrahim Idris Ignacio Iker Imran Ira Isaac Isaiah
-		Isaias Ishaan Ismael Israel Issac Ivaan Ivan Izaiah Jace Jack Jackson Jacob Jaden Jadiel Jagger Jaiden Jaime Jairo Jakai
-		Jakari Jake Jakob Jalen Jamari James Jameson Jamie Jamir Jamison Jared Jase Jasiah Jason Jasper Javier Jax Jaxon Jaxson
-		Jaxton Jaxx Jaxxon Jay Jayce Jayceon Jayden Jaylen Jayson Jaziel Jedidiah Jefferson Jeffrey Jensen Jeremiah Jeremias Jeremy
-		Jericho Jerry Jesse Jesus Jett Jimmy Jiraiya Joaquin Joe Joel Joey Johan John Johnathan Johnny Jon Jonah Jonas Jonathan
-		Jones Jordan Jorge Jose Joseph Joshua Josiah Josue Jovanni Joziah Jrue Juan Judah Jude Judson Julian Julien Julio Julius
-		Junior Justice Justin Kabir Kade Kaden Kai Kaiden Kairo Kaisen Kaiser Kaison Kaizen Kaleb Kalel Kamari Kamden Kameron
-		Kamryn Kanan Kane Kannon Kareem Karim Karson Karter Kartier Kase Kasen Kash Kashton Kason Kayce Kayden Kaysen Kayson Keanu
-		Keaton Keegan Keith Kellan Kellen Kelvin Kendrick Kenji Kenneth Kenzo Kevin Khai Khalid Khalil Khari Khaza Kiaan Kian
-		Kieran Killian King Kingsley Kingston Knox Koa Kobe Koda Koen Kohen Kolson Kolton Kooper Korbin Krew Kristian Kye Kylan
-		Kyle Kylen Kyler Kylian Kylo Kyree Kyrie Kyro Kyson Lachlan Lance Landen Landon Landyn Lane Langston Larry Lawrence Lawson
-		Layne Layton Leandro Ledger Lee Legacy Legend Leif Leighton Leland Lennon Lennox Leo Leon Leonard Leonardo Leonel Leonidas
-		Leroy Levi Lewis Liam Lian Lincoln Lionel Lochlan Logan London Lorenzo Louie Louis Loyal Luca Lucas Lucca Lucian Luciano
-		Luis Luka Lukas Luke Lux Mac Mack Madden Maddox Magnus Major Makai Malachi Malakai Malcolm Malik Manuel Marcel Marcellus
-		Marcelo Marco Marcos Marcus Mario Mark Marlon Marshall Martin Marvin Mason Mateo Mathew Mathias Matias Matteo Matthew
-		Matthias Mauricio Maverick Max Maximilian Maximiliano Maximo Maximus Maxton Maxwell Mccoy Meir Mekhi Melvin Memphis Messiah
-		Micah Michael Miguel Milan Miles Miller Milo Misael Mitchell Mohamed Mohammad Mohammed Moises Morgan Moses Moshe Muhammad
-		Murphy Musa Mustafa Myles Mylo Nash Nasir Nathan Nathanael Nathaniel Nehemiah Neil Nelson Neo Nicholas Nico Nicolas Niklaus
-		Niko Nikolai Nikolask Nixon Noah Noe Noel Nolan Nova Oakley Ocean Odin Oliver Omar Omari Onyx Orion Orlando Oscar Osiris
-		Osman Otis Otto Owen Ozzy Pablo Parker Patrick Paul Paxton Pedro Peter Peyton Philip Phillip Phoenix Pierce Porter Preston
-		Prince Princeton Quentin Quincy Quinn Quinton Rafael Raiden Ramon Randy Raphael Raul Ray Rayan Rayden Raylan Raymond Reece
-		Reed Reese Reid Reign Remi Remington Remy Rene Reuben Rex Rey Rhett Rhodes Rhys Ricardo Richard Ricky Ridge Riggs Riley Rio
-		River Robert Roberto Robin Rocco Rocky Rodney Rodrigo Roger Rohan Roland Roman Rome Romeo Ronald Ronan Ronin Rory Rowan
-		Rowen Roy Royal Royce Ruben Rudy Russell Ryan Ryatt Ryder Ryker Rylan Ryland Sage Saint Salem Salvador Salvatore Sam Samir
-		Samson Samuel Santana Santiago Santino Santos Saul Sawyer Scott Sean Sebastian Sergio Seth Seven Sevyn Shane Shawn Shepard
-		Shepherd Shiloh Shmuel Silas Simon Sincere Skyler Solomon Sonny Soren Spencer Stanley Stefan Stephen Sterling Stetson
-		Steven Stone Sullivan Sutton Sylas Tadeo Talon Tanner Tate Tatum Taylor Teo Terry Thaddeus Thatcher Theo Theodore Thiago
-		Thomas Timothy Titan Titus Tobias Tomas Tommy Tony Trace Travis Trenton Trevor Trey Tripp Tristan Troy Tru Truett Tucker Ty
-		Tyler Tyson Uriah Uriel Valentin Valentino Van Vance Vicente Victor Vihaan Vincent Vincenzo Wade Walker Wallace Walter
-		Warren Watson Waylen Waylon Wayne Wells Wes Wesley Wesson Westin Westley Weston Westyn Wilder William Wilson Winston Wyatt
-		Wylder Xander Xavier Yael Yahir Yahya Yehuda Yisroel Yosef Yousef Yusuf Zachariah Zachary Zahir Zaid Zaiden Zain Zaire
-		Zakai Zamir Zander Zane Zavier Zayd Zayden Zayn Zayne Zechariah Zeke Zen Zev Zion Zyair Zyaire Zyon
+		Liam Noah Oliver Theodore James Henry Mateo Elijah Lucas William Benjamin Levi Ezra Sebastian Jack Daniel Samuel Michael Ethan Asher John Hudson Luca Leo Elias Owen Alexander Dylan Santiago Julian David Joseph Matthew Luke Jackson Maverick Miles Wyatt Thomas Isaac Jacob Mason Gabriel Anthony Carter Logan Aiden Grayson Caleb Cooper Charles Roman Josiah Ezekiel Thiago Isaiah Joshua Wesley Jayden Bennett Christopher Nathan Angel Nolan Waylon Cameron Brooks Andrew Beau Weston Rowan Adrian Lincoln Enzo Ian Kai Christian Axel Aaron Theo Silas Walker Jonathan Leonardo Everett Micah Ryan August Gael Robert Jose Eli Jeremiah Luka Amir Jaxon Parker Colton Myles Adam Atlas Xavier Easton Jordan Arthur Landon Austin Dominic Adriel Damian Vincent River Emiliano Jace Archer Lorenzo Jameson Nicholas Emmett Milo Harrison Giovanni Carson George Kayden Jonah Greyson Hunter Graham Luis Declan Sawyer Jasper Ryder Carlos Connor Juan Matteo Dawson Calvin Leon Dean Evan Nathaniel Diego Arlo Bryson Jason Malachi Elliot Zion Emilio Ivan Hayden Stetson Jude Legend Matias Callum Hayes Jett Cole Elliott Jesus Ace Beckett Alan Beckham Jayce Braxton Jaxson Amari Chase Rhett Max Charlie Felix Kingston Judah Antonio Emmanuel Maxwell Ryker Alejandro Nicolas Barrett Jesse Ashton Miguel Brayden Tyler Peter Camden Zachary Tatum Kevin Andres Finn Justin Tucker Bentley Zayden Messiah Abraham Alex Adonis Kaiden Timothy Knox Tate Caden Ayden Nico Victor Maddox Xander Oscar Colter Joel Abel Patrick Rafael Griffin Brody Jaziel Rory Eithan Edward Riley Brandon Milan Richard Malakai Ismael Kyrie Louis Elian Kairo Cohen Nash Grant Callan Dallas Harvey Muhammad Mark Javier Karter Zayn Crew Eric Simon Aziel Cyrus Gavin Marcus Ronan Derek Avery Omar Lane Warren Lennox Paul Blake Jeremy Tristan Lukas Steven Emerson Walter Cade Ellis Otto Phoenix Colt Atticus Kaleb Israel Tobias Holden Saint Romeo Kenneth Jorge Angelo Remington Paxton Cody Finley Kayson Koa Kash Josue Ares Hendrix Bryce Maximiliano Zyaire Reid Brian Bodhi Cruz Kaden Bryan Zane Francisco Martin Brady Casey Shepherd Aidan Baker Malcolm Jax Cash Clayton Kohen Leonel Cristian Bowen Dante Ali Jaylen Orion Briggs Jensen Dakota Preston Maximus Gideon Erick Archie Colin Sonny Shiloh Mathias Ezequiel Sullivan Joaquin Wade King Niko Damien Kade Bodie Dariel Luciano Cayden Andre Manuel Fernando Colson Rhys Cairo Anderson Kyler Onyx Ibrahim Cesar Travis Santino Callahan Bradley Baylor Banks Russell Desmond Killian Grady Rylan Sterling Kylo Eduardo Ricardo Wells Stephen Zander Raymond Hector Eliam Edwin Titus Iker Franklin Kamari Marco Spencer Julius Khalil Marshall Wilder Jared Jaden Kashton Jay Karson Mario Ari Remy Pedro Sergio Hugo Prince Winston Pablo Forrest Augustus Kobe Oakley Daxton Tadeo Sage Apollo Lawson Kian Solomon Chance Kayce Raphael Reed Jake Frederick Armani Hank Nehemiah Royal Kameron Malik Alijah Kane Dalton Lewis Noel Benson Sean Clark Miller Kyle Kieran Sutton Fabian Tanner Marcelo Rowen Isaias Zayne Nasir Raiden Francis Bo Valentino Rome Damon Reece Esteban Edgar Johnny Kylian Tyson Uriel Royce Cillian Koda Kyson Eden Jalen Frank Conrad Jasiah Matthias Zaire Corbin Asa Yusuf Erik Callen Kendrick Odin Brantley Rodrigo Marcos Gianni Alexis Lucian Denver Sylas Andy Collin Hezekiah Moshe Finnegan Ronin Atreus Adan Emanuel Quinn Mack Leandro Rocco Ruben Ledger Azariah Donovan Moses Kaizen Elio Leonidas Lawrence Tripp Ariel Alonzo Kaison Lian Devin Rio Johnathan Ayaan Gunner Jeffrey Philip Samson Moises Lucca Musa Camilo Hamza Ridge Kolton Morgan Troy Kylan Amiri Boone Makai Johan Bruce Dorian Gregory Pierce Roy Drew Clay Caiden Enrique Jamir Leland Mohamed Alessandro Deacon Augustine Dominick Roberto Kasen Zain Jonas Emir Seth Saul Jamari Lionel Garrett Jaiden Fletcher Scott Armando Cassius Kason Zachariah Ford Soren Zaiden Allen Louie Ronald Alden Arturo Caspian Rayan Major Arjun Colby Eliel Krew Ander Kenzo Maximilian Memphis Nikolai Samir Ocean Anakin Gerardo Keegan Maximo Mohammed Kaysen Julio Mohammad Gunnar Shane Ozzy Zakai Sincere Jaime Albert Azriel Izaiah Jaxton Raul Yosef Creed Rhodes Princeton Porter Cassian Omari Tru Chosen Reese Jayceon Jayson Jamie Reign Trevor Phillip Boston Kamden Crue Eliseo Colsen Keanu Mauricio Salem Dario Dax Jase Shawn Vicente Gustavo Danny Mylo Kyro Wilson Davis Jakari Jakai Truett Hassan Chris Sam Brixton Kyaire Uriah Azael Westley Rocky Peyton Sevyn Dilan Drake Zaid Roland Dereck Braylen Harlan Taylor Riggs Ahmad Cal Marvin Donald Leonard Nathanael Aarav Abdiel Kareem Corey Emmitt Wylder Koen Junior Zyair Zayd Dustin Wayne Ahmed Madden Quincy Bellamy Lachlan Layton Amias Chaim Layne Mac Amos Briar Carmelo Aries Bruno Houston Julien Trace Brock Yahya Conor Dennis Duke Abram Jefferson Vincenzo Izan Lee Finnley Brayan Raylan Enoch Avyaan Dexter Salvador Case Misael Forest Nikolas Westin Braylon Clyde Ryland Otis Tommy Zeke Yehuda Tomas Azrael Dutton Flynn Chandler Idris Zamir Ambrose Franco Huxley Wes Chozen Darius Valentin Alberto Magnus Roger Benicio Brycen Marcel Ryatt Zahir Keith Rayden Jamison Teo Skyler Blaze Cayson Hugh Yahir Cannon Yousef Bjorn Noe Alonso Alvaro Evander Kenai Aurelio Jahmir Lochlan Aron Harry Nelson Ray Alfredo Abdullah Aryan Conner Lennon Bridger Westyn Jasiel Quentin Trey Yael Alvin Casen Dakari Rex Damir Waylen Izael Jeremias Kaiser Kolson Ben Kyree Tony Bode Jesiah Eiden Jaxxon Jedidiah Remi Robin Santana Kyren Landen Ezrah Murphy Castiel Boden Derrick Karim Mustafa Rey Rudy Emery Ignacio Jettson Bear Edison Ricky Ramon Anders Gage Guillermo Santos Kolter Quinton Axton Abner Alfred Darwin Rohan Lance Avi Keaton Orlando Everest Jagger Elisha Heath Jones Thaddeus Allan Cason Douglas Issac Kenji Matheo Ty Asaiah Jimmy Arian Ozias Leroy Neil Watson Agustin Bryer Jerry Dillon Eren Eugene Ayan Melvin Nixon Reuben Stanley Grey Loyal Alec Casper Dane Azaiah Byron Joe Emory Zaylen Massimo Trenton Gatlin Joey Benny Jon Jrue Gian Seven Colten Ernesto Fisher Teddy Kaisen Zechariah Darian Salvatore Jericho Mitchell Alistair Calum Van Zev Langston Mccoy Ulises Lucien Benedict Carlo Coleson Meir Henrik Jiraiya Kellan Alfonso Azai Campbell Kylen Felipe Leif Rowdy Curtis Ameer Kiaan Maurice Krue Shimon Zyon Damari Jairo Khalid Kabir Jireh Mathew Shepard Eddie Isael Arden Cedric Nazir Alessio Khai Marcellus Wesson Yisroel Zymir Landyn Darren Legacy Devon Judson Vihaan Yitzchok Zen Dangelo Adler Aspen Brodie Kase Khaza Mordechai Dash Makari Neo Zavier Evren Imran Laith Cain Ira Osiris Shlomo Yaakov Ephraim Shmuel Wallace Yeshua Kannon Kingsley Noa True Ermias Harold Joziah Rene Truce Aldo Dimitri Halo Ronnie Vance Aden Ishaan Kace Stefan
+}
+
 		
 	}
 	female_names = {
 		# Modern Names
-		Aadhya Aaliyah Abby Abigail Ada Adalee Adaline Adalyn Adalynn Addilyn Addilynn Addison Adelaide Adele Adelina Adeline
-		Adelyn Adelynn Adley Adriana Adrianna Aila Ailani Aileen Ainhoa Ainsley Aisha Aitana Alaia Alaina Alaiya Alana Alani Alanna
-		Alaya Alayah Alayna Aleah Aleena Alejandra Alena Alessandra Alessia Alexa Alexandra Alexandria Alexia Alexis Alia Aliana
-		Alianna Alice Alicia Alina Alison Alisson Alivia Aliya Aliyah Aliza Allie Allison Allyson Alma Alondra Alora Alyssa Amaia
-		Amalia Amanda Amani Amara Amari Amaris Amaya Amayah Amber Amelia Amelie Amina Amira Amirah Amiri Amiyah Amora Amoura Amy
-		Ana Anahi Anais Analia Anastasia Anaya Andi Andrea Angel Angela Angelica Angelina Angelique Angie Anika Aniyah Anna
-		Annabelle Annalise Anne Annie Annika Antonella Anya April Arabella Araceli Araya Ari Aria Ariah Ariana Arianna Ariel
-		Ariella Arielle Ariya Ariyah Arlet Arleth Arlette Armani Artemis Arya Ashley Ashlyn Ashlynn Aspen Aspyn Astrid Athena
-		Aubree Aubrey Aubrie Aubriella Aubrielle Audrey August Aurelia Aurora Autumn Ava Avah Avalynn Avayah Averi Averie Avery
-		Aviana Avianna Aya Ayla Ayleen Aylin Azalea Azaria Azariah Bailee Bailey Barbara Baylee Baylor Beatrice Belen Bella Bellamy
-		Belle Berkley Bethany Bexley Bianca Billie Birdie Blair Blaire Blake Blakely Bonnie Braelyn Braelynn Bria Briana Brianna
-		Briar Bridget Briella Brielle Brinley Bristol Brittany Brooke Brooklyn Brooklynn Brylee Brynlee Brynleigh Brynn Cadence
-		Cali Callie Calliope Cameron Camila Camilla Camille Camryn Capri Carla Carly Carmen Carolina Caroline Carter Casey
-		Cassandra Cassidy Cataleya Catalina Catherine Cecelia Cecilia Celeste Celia Celine Chana Chandler Chanel Charlee Charleigh
-		Charley Charli Charlie Charlotte Chaya Chelsea Cheyenne Chloe Christina Cielo Claire Clara Clementine Cleo Clover Colette
-		Collins Cora Coraline Cynthia Dahlia Daisy Dakota Daleyza Dalia Dallas Dani Daniela Daniella Danielle Danna Daphne Davina
-		Dayana Deborah Delaney Delilah Della Demi Denver Destiny Diana Dior Dorothy Dream Drew Dulce Dylan Eden Edith Egypt Eileen
-		Elaina Elaine Eleanor Elena Elia Eliana Elianna Elina Elisa Elisabeth Elise Eliza Elizabeth Ella Elle Elliana Ellianna
-		Ellie Elliot Elliott Ellis Elodie Eloise Elora Elowyn Elsa Elsie Elyse Ember Emberly Emberlynn Emelia Emely Emerald Emerie
-		Emerson Emersyn Emery Emilia Emiliana Emily Emma Emmalyn Emmeline Emmie Emmy Emory Ensley Erin Esme Esmeralda Estella
-		Estelle Esther Estrella Eva Evangeline Eve Evelyn Evelynn Everlee Everleigh Everly Evie Ezra Faith Fallon Fatima Faye
-		Felicity Fernanda Finley Fiona Flora Florence Frances Francesca Frankie Freya Freyja Gabriela Gabriella Gabrielle Galilea
-		Gemma Genesis Genevieve Georgia Georgina Gia Giana Gianna Giovanna Giselle Giuliana Gloria Goldie Grace Gracelyn Gracelynn
-		Gracie Greta Guinevere Gwen Gwendolyn Hadassah Hadlee Hadleigh Hadley Hailey Haisley Haley Halle Hallie Halo Hana Hanna
-		Hannah Harlee Harley Harlow Harmoni Harmony Harper Hattie Haven Hayden Hayley Hazel Heaven Heidi Helen Helena Henley
-		Holland Holly Hope Hunter Ila Iliana Imani Inaya India Indie Indigo Irene Iris Isabel Isabela Isabella Isabelle Isla
-		Itzayana Itzel Ivanna Ivory Ivy Iyla Izabella Jacqueline Jada Jade Jaliyah Jamie Jane Janelle Janiyah Jasmine Jayda Jayla
-		Jaylah Jaylani Jayleen Jazlyn Jazmin Jazmine Jemma Jenesis Jenna Jennifer Jessica Jessie Jianna Jimena Joanna Jocelyn
-		Joelle Johanna Jolene Jolie Jordan Jordyn Josephine Josie Journee Journey Journi Jovie Joy Joyce Jream Judith Julia Juliana
-		Julianna Julie Juliet Julieta Juliette Julissa June Juniper Justice Kahlani Kai Kaia Kailani Kairi Kaitlyn Kaiya Kalani
-		Kali Kaliyah Kallie Kamari Kamila Kamilah Kamiyah Kamryn Kara Karina Karla Karsyn Karter Kassidy Kataleya Katalina Kate
-		Katelyn Katherine Kathryn Katie Kaydence Kayla Kaylani Kaylee Kayleigh Kehlani Keilani Keily Keira Kelly Kelsey Kendall
-		Kendra Kenia Kenna Kennedi Kennedy Kensley Kenzie Keyla Khalani Khaleesi Khloe Kiana Kiara Kimber Kimberly Kinley Kinslee
-		Kinsley Kira Kora Kori Kyla Kylee Kylie Kyra Lacey Laila Lainey Lakelyn Lakelynn Lana Laney Lara Laura Laurel Lauren Lauryn
-		Layla Laylah Laylani Layne Lea Leah Leanna Legacy Leia Leighton Leila Leilani Leilany Lena Lennon Lennox Lenora Leona
-		Leslie Lexi Lexie Leyla Lia Liana Liberty Lila Lilah Lilian Liliana Lilianna Lilith Lillian Lilliana Lillie Lilly Lily
-		Lilyana Lina Linda Lisa Liv Livia Logan Lola London Londyn Lorelai Lorelei Loretta Lottie Louisa Louise Love Lucia Luciana
-		Lucille Lucy Luella Luisa Luna Luz Lydia Lyla Lylah Lyra Lyric Mabel Maci Macie Mackenzie Macy Madalyn Maddie Maddison
-		Madeleine Madeline Madelyn Madelynn Madilyn Madilynn Madison Madisyn Mae Maeve Magdalena Maggie Magnolia Maia Maisie Maisy
-		Makayla Makenna Makenzie Malani Malaya Malayah Malaysia Maleah Malia Maliyah Mallory Mara Marceline Maren Margaret Margo
-		Margot Maria Mariah Mariam Mariana Marianna Marie Marigold Marilyn Marina Marisol Marlee Marleigh Marley Marlowe Martha
-		Mary Maryam Matilda Mavis Maxine Maya Mckenna Mckenzie Mckinley Meadow Megan Meilani Melanie Melany Melina Melissa Melody
-		Mercy Meredith Mia Michaela Michelle Mikaela Mikayla Mila Milan Milana Milani Milena Miley Millie Mina Mira Miracle Miranda
-		Miriam Molly Monica Monroe Morgan Murphy Mya Myla Mylah Myra Nadia Nala Nalani Nancy Naomi Natalia Natalie Natasha Nathalia
-		Navy Naya Nayeli Nellie Neriah Nevaeh Nia Nicole Nina Noa Noah Noelle Noemi Nola Noor Nora Norah Nori Nova Novah Novalee
-		Nyla Nylah Nyomi Nyra Oaklee Oakleigh Oakley Oaklyn Oaklynn Ocean Octavia Olive Olivia Opal Ophelia Paige Paislee Paisley
-		Palma Paloma Paola Paris Parker Paula Paulina Payton Pearl Penelope Penny Persephone Peyton Phoebe Phoenix Piper Poppy
-		Presley Princess Priscilla Promise Quinn Rachel Raegan Raelyn Raelynn Raina Ramona Raven Raya Rayna Rayne Reagan Rebecca
-		Reese Regina Reign Reina Remi Remington Remy Renata Reyna Rhea Riley River Rivka Robin Romina Rory Rosa Rosalee Rosalia
-		Rosalie Rosalina Rosalyn Rose Roselyn Rosemary Rosie Rowan Rowyn Royal Royalty Ruby Ruth Ryan Ryann Rylan Rylee Ryleigh
-		Rylie Saanvi Sabrina Sadie Sage Saige Salem Salma Samantha Samara Samira Saoirse Sapphire Sara Sarah Sarahi Sarai Sariah
-		Sariyah Sasha Savanna Savannah Sawyer Saylor Scarlet Scarlett Scarlette Scottie Scout Selah Selena Selene Serena Serenity
-		Sevyn Shay Shelby Shiloh Siena Sienna Sierra Simone Sky Skye Skyla Skylar Skyler Sloan Sloane Sofia Sol Soleil Sophia
-		Sophie Stella Stephanie Stevie Stormi Summer Sunny Sutton Sydney Sylvia Sylvie Talia Tatum Taylor Taytum Teagan Teresa
-		Tessa Thalia Thea Theodora Tiana Tiffany Tinsley Treasure Trinity Tru Vada Valentina Valeria Valerie Valery Vanessa Veda
-		Vera Veronica Victoria Vida Vienna Violet Violeta Virginia Vivian Viviana Vivienne Waverly Whitley Willa Willow Winnie
-		Winona Winter Wren Wrenlee Wrenley Wynter Ximena Xiomara Xyla Yamileth Yara Yareli Yaretzi Yasmin Zahra Zainab Zaniyah Zara
-		Zaria Zariah Zariyah Zayla Zaylee Zelda Zendaya Zhuri Zoe Zoey Zora Zoya Zuri
+		Olivia Emma Amelia Charlotte Mia Sophia Isabella Evelyn Ava Sofia Camila Harper Luna Eleanor Violet Aurora Elizabeth Eliana Hazel Chloe Ellie Nora Gianna Lily Emily Aria Scarlett Penelope Zoe Ella Avery Abigail Mila Lucy Isla Ivy Layla Lainey Nova Grace Willow Riley Emilia Naomi Elena Madison Valentina Victoria Stella Delilah Maya Hannah Leah Lillian Genesis Josephine Sadie Adeline Zoey Sophie Paisley Alice Ruby Eloise Madelyn Leilani Claire Addison Ayla Emery Iris Eden Natalie Maria Maeve Daisy Vivian Clara Autumn Liliana Everly Audrey Lyla Jade Kinsley Millie Madeline Josie Kennedy Athena Melody Caroline Aaliyah Anna Sarah Quinn Lydia Lucia Allison Hailey Ailany Cora Ariana Parker Natalia Gabriella Savannah Brooklyn Bella Georgia Juniper Alaia Raelynn Hadley Rose Julia Serenity Eliza Margaret Eva Amara Melanie Cecilia Ashley Rylee Margot Samantha Catalina Juliette Aubrey Esther Mary Nevaeh Skylar Alina Amira Ember Magnolia Sienna Charlie Elliana Summer Alana Brielle Remi Sage Valerie Hallie Wrenley Kehlani Emerson June Sloane Emersyn Elsie Oaklynn Oakley Blakely Freya Piper Valeria Arya Adalynn Everleigh Genevieve Anastasia Isabel Peyton Amaya Isabelle Olive Ruth Ximena Evangeline Katherine Callie Rosalie Alani Lilah Kaia Brianna Bailey Phoebe Vivienne Andrea Myla Lia Sara Kylie Reese Annie Daphne Ada Adaline Arianna Ariella Sutton Celeste Jasmine Mackenzie Haven Scottie Gemma Ana Tatum Arabella Lila Molly Stevie Blake Aitana Alaina Wren River Noelle Delaney Journee Blair Adalyn Kaylee Alexandra Mabel Norah Presley Alora Vera Celine Amy Brynlee Nyla Saylor Khloe Antonella Zara Aliyah Cataleya Lennon Kiara Camille Dahlia Kaylani Mariana Diana Reagan Selena Kimberly Rachel Gracie Faith Juliana Miriam Elise Noa Elaina Maisie Lilith Collins Palmer Lilly Shiloh Ophelia Elianna Lena Harmony Aspen Rowan Gia Leila Jane Talia Adelaide Dakota Lola Lucille Kailani Morgan Zuri Milani Daniela Selah Alessia Angela Juliet Evie Amora Rory Marley Sydney Alanna Leia Luciana Kamila Harlow Kali Octavia Amari Sawyer Gabriela Ariel Maggie Rosemary Ryleigh Tessa Evelynn Londyn Danna Amina Brooke Samara Kendall Rosie Alayna Angelina Francesca Adelyn Fatima Hope Nicole Nayeli Catherine Nina Journey Adriana Camilla Ailani Malia Meadow Jordyn Joanna Emory Malani Serena Teagan Aurelia Vanessa Kayla Navy Poppy Kalani Regina Adelina Rebecca Ariyah Esme Heidi Aisha Julieta Thea Annabelle Esmeralda Lauren Julianna Taylor Wrenlee London Giselle Sabrina Azalea Laura Sylvie Sylvia Alaya Raya Elora Finley Mya Dream Viviana Elaine Elodie Laila Sunny Briella Lana Paige Itzel Mckenna Melissa Frances Mira Payton Hattie Astrid Brynn Winter Aylin Miley Raven Jocelyn Maryam Logan Veronica Gwendolyn Anya Leighton Alivia Harley Charlee Alyssa Colette Hayden Lorelai Jayla Ivory Anaya Fiona Trinity Aubree Michelle Matilda Lilliana Mallory Mariah Helena Wynter Carmen Alayah Liana Holly Madilyn Phoenix Raelyn Willa Helen Emely Alessandra Gracelynn Carolina Arleth Salem Dorothy Xiomara Elisa Reign Florence Alicia Madeleine Melany Katalina Zariah Bonnie Joy Kaliyah Haisley Sarai Blaire Elowyn Saige Adelynn Opal Demi Nylah Emmy Camryn Kira Lorelei Daleyza Raegan Maia Bianca Aniyah Annalise Alexandria Amirah Alison Anahi Gracelyn Brooklynn Miracle Everlee Adhara Alma Macie Murphy Romina Cassidy Clementine Heaven Elle Skye Destiny Lyra Rylie Paris Cameron Felicity Maddison Leona Scarlet Kora Mariam Meredith Mckenzie Dayana Cali Amanda Arielle Angel Calliope Fernanda Estella April Izabella Hanna Marceline Alexis Carter Daniella Marlee Virginia Kataleya Halo Nadia Amiyah Madelynn Emerie Renata Oaklee Remington Maxine Nellie Briar Danielle Charli Makenna Imani Armani Edith Nalani Mae Vienna Hadassah Stephanie Ari Kate Jimena Briana Faye Jordan Louise Amber Makayla Zahra Lylah Margo Amoura Jennifer Kyla Mylah Winnie Alisson Amalia Reina Avianna Allie Ivanna Ariya Lilian Alia Aylani Noah Reyna Lexi Brinley Iyla Mavis Lina Cecelia Eve Maren Monroe Capri Emelia Jessica Halle Alejandra Gabrielle Yara Beatrice Della Kamryn Katie Ariah Arlette Noemi Alondra Maliyah Mara Jacqueline Jazlyn Frankie Angie Eileen Lyric Aliana Sierra Rosalia Oaklyn Chaya Amaia Leyla Holland Cleo Jream Leslie Sevyn Jolene Mina Keira Legacy Tiana Elliott Cassandra Jaylani Priscilla Rhea Kinley Clover Estrella Zariyah Journi Miranda Angelica Marlowe Jovie Abby Sariyah Kenzie Oakleigh Aya Siena Emberly Melina Amani Bristol Estelle Galilea Irene Marie Marina Makenzie Sasha Paislee Isabela Goldie Myra Davina Flora Anne Azariah Indie Kaitlyn Jazmin Gloria Georgina Shelby Dallas Thalia Aliza Averie Skyler Macy Rosa Dulce Khaleesi Marilyn Martha Adley Belen Ellianna Kelsey Nia Chana Lakelynn Selene Lottie Loretta Aleena Ila Dani Remy Whitley Jenna Lillie Kennedi Violeta Kendra Lennox Laney Aviana Solana Veda Marigold Billie Drew Dylan Ellis Gwen Amayah Milan Leilany Ryan Bridget Christina Ezra Ainsley Emerald Hana Noor Rivka Amelie Jenesis Royalty Lenora Taytum Jamie Kathryn Aileen Arlet Coraline Kiana Kyra Araceli Azaria Kenna Monica Bethany Laurel Charley Karla Kayleigh Rayna Louisa Celia Emmie Fallon Persephone Winona Marisol Lara Kensley Mckinley Michaela Novalee Elyse Lacey Penny Zelda Alena Luz Keilani Nala Paula Birdie Karsyn Lakelyn Miller Jemma Aleah Inaya Megan Sloan Charleigh Rosalina Andi Nola Julie Adrianna Kaeli Addilyn Freyja Ramona Samira Karina Denver Janelle Mikayla Seraphina Haley Indy Paulina Rowyn Milana Chelsea Elina Milena Valery Ivey Maci Stormi Brittany Madilynn Aila Yareli Yaretzi Zaylee Erin Adele Robin Jaliyah Maisy Pearl Adalee Brynleigh Keyla Alexa Baylor Jessie Cielo Braelynn Alianna Theodora Malaya Meilani Tallulah Analia Nyomi Promise Sol Xyla Kylee Marjorie Treasure Soleil Zaria Cynthia Luella Sky Ayleen Neriah Iliana Judith Ocean Lea Linda Livia Maddie Magdalena Elia Kahlani Micah Tiffany Wrenleigh Zaniyah Kallie Love Andie Johanna Mercy Skyla Aliya Deborah Zainab Anais Greta Kaiya Malaysia Marianna Amaris Barbara Bellamy Dalia Anika Giana Keziah Nataly Cheyenne Kelly Luisa Salma Teresa Aura Carly Liv Azari Dafne Rebekah Amiri Berkley Emberlynn Hunter Jaycee Alexia Reya Ruthie Eleanora Janiyah Rosalyn Giuliana Emiliana Novah Tru Kori Aspyn Chandler Kailany Lilyana Elowen Khalani Naya Zyla Jolie Leanna Yamileth Cattleya Elisabeth Ensley Ashlyn Allyson August Kimber Marleigh Soraya Anaiah Analeia Waverly Yasmin Zora Joelle Lilia Nancy Icelynn Indigo Arely Laylani Romy Scout Ayra Giovanna Siya Katelyn Madalyn Natasha Alaiya Honey Lettie Sarahi Elsa Emmeline Hadlee Lilianna Zendaya Ainhoa Elliot Jazmine Aadhya Guinevere Rayne Clare Saanvi Campbell Salome Tilly Yusra Akira Henley Lyanna Quincy Rosalee Vada Ainara Annika Ayah Violette Aleia Kaya Mazie Amyra Celina Mikaela Paloma Elouise Etta Julietta Kamiyah Zoya Jayleen Kassidy Keily Harlee Kiera Liberty Darcy Dior Lisa Malka Arisbeth Kara Bailee Elani Harmoni Mariella Zayla Emi Jianna Maelynn Avani Lavender Karter Raina
+}
+
 		
 	}
 	dynasty_of_location_prefix = "dynnp_of"
@@ -405,33 +298,49 @@ name_list_anglo_saxon = {
 	}
 	
 	male_names = {
-		# Names From The Early 1900's
-		Abraham Adam Albert Alfred Allen Alonzo Alvin Andrew Anthony Anton Arnold Arthur August Ben Benjamin Bernard Bert Bill Bob
-		Burt Caleb Calvin Carl Carter Cecil Charles Chester Christopher Clarence Claude Clayton Clement Clifford Clifton Clinton
-		Clyde Cornelius Curtis Cyrus Dale Daniel Dave David Dominic Donald Douglas Dwight Earl Earnest Ed Eddie Edgar Edmond Edmund
-		Edward Edwin Eli Elijah Ellis Elmer Elton Elwood Emil Emmett Eric Ernest Ervin Eugene Ezra Felix Fletcher Floyd Forrest
-		Francis Frank Frankie Franklin Fred Frederick Fredrick Gabriel Garrett Gene George Gerald Gilbert Glenn Gordon Gus Guy
-		Harold Harrison Harry Harvey Henry Herbert Herman Homer Horace Howard Hubert Hugh Irving Isaac Isaiah Jack Jacob James
-		Jeremiah Jesse Jessie Jim Joe Joel John Johnnie Jonathan Jordan Joseph Julian Julius Karl Kenneth Lawrence Leo Leon Leonard
-		Leroy Leslie Lester Levi Lewis Lon Lonnie Louis Luther Lyle Mack Malcolm Manuel Marcus Marion Mark Marshall Martin Mason
-		Matthew Maurice Max Melvin Merrill Michael Mike Miles Milton Monroe Morris Moses Murray Nathan Nathaniel Ned Neil Nelson
-		Nicholas Nick Norman Oliver Ollie Orville Oscar Otis Otto Owen Patrick Paul Percy Perry Pete Peter Philip Ralph Randolph
-		Raymond Reuben Rex Richard Robert Roger Roland Roy Rudolph Rufus Russell Samuel Seth Sidney Simon Solomon Stanley Stephen
-		Steve Stewart Sylvester Theodore Thomas Timothy Tom Troy Tyler Vernon Victor Vincent Virgil Wallace Walter Ward Warner
-		Warren Wilbert Wilbur Wilfred Will Willard William Willie Willis Wilson Winston Woodrow
+		#UK Names - 1900 to 1994
+		William John George Thomas Arthur James Charles Frederick Albert Ernest Alfred Edward Joseph Harold Robert Frank Henry
+		Harry Walter Reginald Herbert Leonard Stanley Leslie Richard Cyril Sidney Francis Percy David Wilfred Samuel Norman
+		Cecil Eric Sydney Horace Fred Jack Edwin Ronald Alexander Clifford Patrick Bernard Michael Victor Philip Edgar Maurice
+		Donald Kenneth Benjamin Douglas Hugh Lawrence Daniel Geoffrey Peter Archibald Christopher Alan Tom Gilbert Hubert
+		Ralph Stephen Gerald Bertie Lewis Andrew Percival Raymond Bertram Arnold Edmund Clarence Louis Ivor Roland Mark Gordon
+		Claude Matthew Martin Lionel Dennis Evan Hector Alec Anthony Allan Oliver Owen Howard Colin Morris Denis Laurence
+		Jesse Brian Keith Trevor Roger Graham Derek Clive Stuart Barry Neil Gary Terry Ian Bruce Roy Rodney Russell Malcolm
+		Adrian Robin Desmond Noel Neville Gavin Alistair Roderick Glenn Leon Sean Shaun Shane Justin Stewart Phillip Carl Karl
+		Nigel Gerard Allister Iain Eddie Geoff Giles Glynn Harvey Miles Vernon Warren Wayne Darren Dean Cliff Colm Conrad
+		Curtis Derrick Don Garry Grant Guy Jeffrey Kelvin Lloyd Mervyn Quentin Rhys Ross Shawn Simon Spencer Terence Timothy
+		Tony Tristan Vincent Wesley Paul Steven Kevin Jonathan Nicholas Adam Joshua Ryan Luke Liam Jamie Callum Kieran Nathan
+		Jordan Aaron Ashley Lee Tyler Toby Dominic Bradley Brandon Reece Aidan Connor Jason Scott Craig Elliot Elliott Cameron
+		Ben Chris Christian Antony Damian Damon Declan Dylan Ethan Gareth Glen Gregory Harrison Jake Joel Josh Julian Ken Kyle
+		Luca Lucian Marc Marcus Mason Max Ricky Riley Sam Sebastian Travis Algernon Ambrose Archie Augustus Basil Cedric
+		Clement Cuthbert Digby Dudley Egbert Felix Fergus Florian Godfrey Humphrey Jasper Montague Mortimer Oswald Radcliffe
+		Rupert Theodore Wilfrid Wilhelm Wilkinson Winston Wycliffe Wright
 	}
 	female_names = {
-		# Names From The Early 1900's
-		Ada Agnes Alice Alma Amelia Amy Ann Anna Anne Annie Audrey Barbara Beatrice Belle Bertha Beryl Bessie Beth Blanche Bonnie
-		Caroline Carrie Catherine Cecelia Cecilia Charlotte Clara Claudia Constance Cora Cynthia Daisy Della Dolores Dora Dorothy
-		Edith Edna Effie Eleanor Eliza Elizabeth Ella Ellen Eloise Elsie Emily Emma Enid Estelle Esther Ethel Eula Eunice Eva
-		Evelyn Faye Fern Flora Florence Frances Gail Georgia Gertrude Gladys Grace Hannah Harriet Hazel Helen Ida Irene Isabel
-		Isabella Isabelle Ivy Jane Janet Janice Jean Jeanne Jennie Jennifer Jessie Jill Joan Josephine Joy Joyce Judith Julia Julie
-		June Karen Katherine Kathleen Kathryn Kay Kaye Lena Leona Lillian Lillie Linda Lois Lola Loretta Lorraine Lou Louisa Louise
-		Lucille Lucy Lydia Mabel Madeline Mae Mamie Margaret Maria Marian Marie Marilyn Marion Marjorie Martha Mary Maud Maude
-		Mavis Maxine Mildred Millie Minnie Muriel Myra Myrtle Nancy Nell Nellie Nina Nora Norma Olga Olive Opal Patricia Patsy
-		Pauline Pearl Peggy Phyllis Priscilla Rachel Rebecca Rita Roberta Rose Rosemary Ruby Ruth Sally Sarah Shirley Sophia Sophie
-		Stella Susan Sylvia Thelma Theresa Vera Verna Victoria Viola Violet Virginia Vivian Wanda Wilma Winifred Yvonne Zelda Zoe
+		#UK Names - 1900 to 1994
+		Mary Florence Doris Edith Elizabeth Winifred Gladys Elsie Alice Margaret Dorothy Hilda Ethel Annie Ivy Lily Violet
+		Rose Beatrice Mabel May Nellie Grace Emily Ada Jessie Kathleen Emma Olive Agnes Bertha Martha Marion Blanche Bessie
+		Gertrude Constance Eileen Norah Phyllis Maud Maude Minnie Sarah Louisa Ellen Kate Lucy Lottie Lydia Esther Nancy Ann
+		Anne Ruth Eva Maryann Harriet Hannah Charlotte Caroline Frances Georgina Agatha Sylvia Vera Irene Joan Joyce Nora
+		Evelyn Edna Helena Nell Queenie Amy Catherine Cecilia Clara Beryl Brenda Barbara Valerie June Maureen Pauline Jean
+		Patricia Audrey Gloria Doreen Pamela Hazel Marjorie Peggy Betty Sheila Yvonne Wendy Shirley Rita Mavis Iris Thelma
+		Susan Linda Christine Janet Jennifer Julie Judith Diane Jane Helen Carol Kathryn Gillian Gail Lynne Alison Elaine
+		Jacqueline Beverley Beverly Jeanette Rosemary Marilyn Heather Bridget Lynda Kay Maggie Lorna Lorraine Christina Marina
+		Geraldine Renee Michelle Nicola Lisa Tracey Donna Sharon Deborah Angela Claire Clare Rebecca Samantha Victoria Rachel
+		Katherine Louise Natalie Joanne Kerry Kelly Paula Amanda Mandy Carolyn Denise Andrea Melanie Teresa Theresa Tina
+		Suzanne Kirsty Fiona Vanessa Katrina Katy Kara Joanna Belinda Lynn Justine Lesley Leigh Lindsey Lindsay Nichola
+		Rachael Roxanne Sally Sandra Sonya Sonia Stephanie Yvette Zoe Zoey Carla Candice Candace Carmel Carmelita Laura Katie
+		Danielle Gemma Jodie Hayley Stacey Kirsten Bethany Chloe Sophie Megan Abigail Anna Carly Debbie Eleanor Francesca
+		Isobel Isabel Jasmine Kayleigh Kimberley Kimberly Kirstin Leanne Melissa Miranda Natasha Nadine Naomi Nikki Nina
+		Olivia Phoebe Rhiannon Sara Sian Siobhan Tara Tegan Vicky Vicki Yasmin Adele Alicia Amber Angharad Anita Annabel
+		Antonia Becky Bernadette Beth Bethan Billie Briony Brooke Cara Carina Cassie Catrin Cerys Charmaine Chelsea Cherie
+		Cherise Cheryl Christy Cindi Cindy Claudia Colette Courtney Danika Deanna Demi Donna-Marie Eden Eleri Elisa Eliza Ella
+		Ellie Erin Esme Eve Faith Felicity Fern Freya Gabrielle Hollie Holly Imogen India Jade Jenna Jess Jessica Jo Josie
+		Julia Kacey Kaitlin Karen Kayla Keira Kelly-Ann Kelsey Kerry-Ann Kim Kirstie Kylie Lara Laura-Jane Laurel Leah Lena
+		Leonie Letitia Libby Lilly Lola Loretta Lucia Lucinda Lynnette Maddison Madeleine Madeline Maisie Marcia Maria Marissa
+		Matilda Mia Michaela Mollie Molly Monica Nadia Natalia Nerissa Niamh Paige Penny Polly Poppy Rosie Ruby Sabrina Sadie
+		Sally-Ann Sallyanne Sasha Selina Serena Shannon Sheree Shona Sinead Skye Summer Tamara Tanya Tessa Tiffany Toni Tonia
+		Tracy Whitney Zara
 	}
 
 	dynasty_of_location_prefix = "dynnp_of"
@@ -636,135 +545,48 @@ name_list_scottish = {
 	}
 	
 	male_names = {
-		# Modern Names
-		Aadam Aahil Aarav Aariz Aaron Aarush Aayan Abbas Abdul Abdullah Abel Abraham Ace Adam Adie Adnan Adonis Adrian Adriel Aedan
-		Aeden Ahmad Ahmed Aidan Aiden Aj Ajay Alaa Alan Alasdair Alastair Alba Alban Albert Albi Albie Alby Alec Alejandro
-		Aleksander Alessio Alex Alexander Alexandre Alexandros Alexandru Alfie Alfred Ali Alistair Alister Aliyar Allan Ally Alvey
-		Alvi Alvie Amaan Ameer Amir Ammar Amos Anant Anas Andreas Andrei Andrew Andrew-James Andrzej Andy Aneurin Angus Anthony
-		Anton Antoni Antonio Antony Aodhan Aonghus Apollo Aqib Aran Aras Archer Archibald Archie Archimedes Argyle Arham Arhum Ari
-		Arian Arie Aris Arish Arjun Arlen Arlie Arlo Arman Arne Arno Aro Aron Arran Arron Artem Arthur Artur Aryaan Aryan Asa Ash
-		Ashar Asher Ashton Aston Atholl Atlas Atticus Aubrey August Augustas Augustus Aulay Auley Aurelio Austen Austin Avery Avi
-		Avyaan Awab Axel Axl Ayaan Ayan Aydan Ayden Aydin Ayoub Azaan Bailey Baker Balfour Barclay Barnaby Barney Barrie Barron
-		Baxter Bear Beau Beauden Beinn Ben Benedict Benjamin Benji Bennett Benny Bentley Bertie Bhavin Billy Bjorn Blain Blaine
-		Blair Blake Blane Blayke Blayn Bobby Bodhi Boston Bowie Boyd Bradley Brady Brae Brandan Brandon Brax Braxton Brayden
-		Braydon Braylon Brendan Brennan Brian Brock Broden Brodi Brodie Brody Brogan Brooklyn Brooks Bruce Bruno Bryan Bryce Buddy
-		Cade Caden Caelan Caelen Cai Caiden Cailan Cailean Cain Caine Cairn Cairo Cal Calan Calder Caleb Caley Callahan Callan
-		Callen Callum Calum Calvin Cameron Campbell Caolan Carlo Carlos Carrick Carson Carter Carter-James Casey Cash Caspar Casper
-		Cass Cayde Cayden Caysen Cedric Charles Charlie Chase Che Chester Chinedu Christian Christopher Christos Cian Ciaran Cieran
-		Cillian Clark Clarke Clay Clayton Clyde Coben Cobhan Cobi Cobie Coby Codi Cody Coen Cohen Coire Colbi Colbie Colby Cole
-		Coleson Colin Coll Colson Colt Colton Conal Conall Conan Conlan Conley Conn Connagh Connal Connell Conner Connor Conor
-		Cooper Corey Corin Cormac Corran Cory Craig Crawford Cree Cruz Cruze Culann Curtis Cyrus Dalton Damian Damien Damir Damon
-		Daniel Danilo Daniyal Danny Dara Darach Darian Dario Darius Dariusz Darragh Darren Daryl David David-James David-Jnr Davie
-		Davis Dawid Dawson Dax Deacon Dean Declan Declyn Derek Derry Dev Devin Devlin Devon Dexter Diego Dillan Dillon Dimitri
-		Dominic Dominik Donald Donnie Donny Dorian Dougal Dougie Douglas Drew Duke Duncan Dylan Eamon Easton Eben Edan Eddie Eden
-		Edoardo Eduard Edward Edwin Eesa Ehsan Eisa Eldon Eli Elia Elias Elijah Eliot Elis Elliot Elliott Ellis Elvis Elyas Emil
-		Emilio Emir Emmanuel Emmett Emrys Enzo Eoghan Eoin Eric Erik Erland Ernest Ervin Esa Essa Esson Ethan Euan Eugene Evan Ewan
-		Ewen Ezekiel Ezra Fabian Faizan Farrell Farris Felix Fergus Filip Findlay Finlay Finley Finn Finnian Finnlay Finnley Fintan
-		Fionn Fletcher Flynn Forbes Ford Forest Forrest Fox Foxx Francesco Francis Francisco Franciszek Franco Frank Frankie Fraser
-		Frazer Fred Freddie Freddy Frederick Fyfe Fynn Gabriel Gabrielius Gael Gary Gavin Gene Geordie George Georgie Georgios
-		Gerard Giovanni Glen Glenn Gordon Graeme Grant Gray Grayson Greg Gregor Gregory Greyson Gunnar Gunner Gus Guy Hadi Haider
-		Hal Hamish Hamza Haris Harlan Harley Harlow Harlyn Haroon Harper Harris Harrison Harry Harvey Hashim Hashir Hasnain Hassan
-		Hayden Haydn Heath Hector Hendrix Henry Henryk Hew Hubert Hudson Hugh Hughie Hugo Humza Hung Hunter Iain Ian Ibraheem
-		Ibrahim Idris Ifeanyichukwu Ignacy Igor Innes Innis Irving Isa Isaac Isaiah Ishaan Ishaq Ismael Ismail Israel Issa Issac
-		Ivaan Ivan Ivar Iver Ivo Ivor Izaan Izaiah Jace Jack Jackie Jackson Jacob Jad Jaden Jaiden Jaime Jake Jakob Jakub James
-		Jameson Jamie Jan Jared Jase Jason Jasper Jax Jaxen Jaxon Jaxon-James Jaxson Jaxx Jaxxon Jay Jay-Jay Jay-Junior Jayce
-		Jaycob Jayden Jayden-Lee Jaylen Jayson Jeff Jensen Jenson Jeremy Jesse Jett Jimi Jimmy Jock Joe Joel Joey John John-James
-		Johnathan Johnny Johnpaul Jokubas Jonah Jonas Jonathan Jonny Jordan Jordie Jordyn Jos Joseph Josh Joshua Josiah Joud Jozef
-		Judah Jude Jules Julian Julien Julius Junior Justin Kabir Kacper Kade Kaden Kaeden Kaelan Kai Kaiden Kailen Kailo Kaine
-		Kairo Kaiser Kaison Kal Kaladin Kaleb Kalen Kallen Kalvin Kamil Kane Kareem Karol Karson Karsyn Karter Kase Kash Kason
-		Kasper Kayden Kayden-James Kayleb Kaylen Kaysen Kayson Keagan Keanu Keaton Keegan Keenan Keir Keith Kelvin Kenneth Kenny
-		Kenzie Kenzo Keon Kerr Kevin Khai Khal Khalid Kiaan Kian Kieran Kilian Killian Kingsley Kingston Kit Kitt Kiyan Klay
-		Klayton Knox Koa Koah Kobe Kobi Kobie Koby Kodi Kody Koen Kohen Kol Kolby Kole Kolton Konan Konstantinos Korey Kornel Kory
-		Krishav Kristian Kristiyan Krzysztof Kuba Kurtis Kye Kylan Kyle Kylen Kyler Kylian Kylo Kyran Kyren Kyrie Kyro Kyron Kyson
-		Lachlan Lachlann Laith Lake Lance Lando Larson Larsson Lauchlan Laurence Laurie Lawrence Lawrie Lawson Layke Layth Layton
-		Lee Leif Leighton Leland Lennie Lennon Lennox Lenny Leo Leon Leonard Leonardo Leonidas Levi Lewie Lewis Lex Leyland Leyton
-		Liam Lincoln Lio Liviu Lloyd Lochie Lochlan Lochlann Lochlin Locki Lockie Logan Logan-James Loki Lomond Lonnie Lorcan
-		Lorenzo Lorne Loui Louie Louis Lowen Lowrie Luca Lucas Lucca Lucian Lucien Lucio Luis Luka Lukas Luke Lyall Lyle Lyndon
-		Maaz Mac Macaulay Mack Mackenzie Macsen Maddox Magnus Mahdi Maison Maksymilian Malachi Malachy Malakai Malcolm Malik Marc
-		Marcel Marcello Marco Marcus Mario Marios Mark Markus Marley Marlon Marshall Martin Marty Marvin Mason Massimo Mate Matei
-		Mateo Mateusz Mathias Matias Matteo Matthew Matyas Maverick Max Maximilian Maximus Maxwell Mayson Mckenzie Mehdi Mekhi
-		Memphis Micah Michael Michal Miguel Mihail Mikael Mikail Mikey Mikolaj Milan Miles Millar Miller Milo Miran Miroslav
-		Mitchell Mohamad Mohamed Mohammad Mohammed Mohsin Momin Monroe Montgomery Morgan Moss Muhammad Muhammed Mungo Munro Murdo
-		Murdoch Murphy Murray Musa Mustafa Myles Mylo Nairn Naren Natan Nate Nathan Nathaniel Neil Neo Niall Nicholas Nick Nicky 
-		Nico Nicolas Nicolo Nihal Nikita Niko Nikodem Nikolas Noa Noah Noel Nolan Norrie Oakley Oban Odhran Odin Oisin Olaf Oli
-		Olin Oliver Oliver-James Olivier Oliwier Ollie Olly Omar Omer Oran Oren Orin Orion Orran Orrin Orson Oscar Oskar Ossian
-		Otis Otto Ovie Owen Ozzy Pablo Padraig Panagiotis Parker Parth Patrick Paul Paxton Pearse Percy Perry Peter Petru Philip
-		Phoenix Piotr Presley Preston Quaid Quinn Rae Raegan Rafael Rafe Rafferty Ragnar Rahim Raiden Raife Raith Ralph Ralphie
-		Ralphy Rami Ramsay Ranald Ranulph Raphael Ray Rayan Rayen Raymond Rayyan Reagan Reece Reed Regan Reggie Reginald Rehan Reid
-		Reign Reilly Remi Remo Remy Ren Rennie Renz Reon Reuben Rex Rhu Rhuari Rhudi Rhuri Rhys Riaan Rian Richard Richie Riley
-		Riley-James Rio Ritchie River Roan Robbie Robert Roberto Robin Rocco Rocky Roddy Roderick Rodrigo Rogan Rohaan Rohail Rohan
-		Roj Roman Rome Romeo Ronald Ronan Ronin Ronnie Rory Ross Rossi Rowan Roy Ruadh Ruairi Ruairidh Ruan Ruaraidh Ruari Ruaridh
-		Ruben Rudi Rudra Rudy Rueben Rufus Rumaan Rupert Ruraidh Ruri Russell Ryan Ryder Ryker Rylee Ryley Rylie Ryver Sacha Safwan
-		Saif Saim Saint Sam Sami Samir Samson Samuel Sandy Santi Santiago Santino Sasha Saul Sawyer Scott Seamus Sean Seb Sebastian
-		Sehajdeep Seonaidh Seoras Serge Seth Seumas Shae Shahan Shane Shaun Shaw Shay Shea Sidney Silas Simeon Simon Simone Skyler
-		Sloan Sol Solomon Sonnie Sonny Soren Sorley Sorren Spencer Stanislaw Stanley Stefan Stephen Sterling Steven Stewart Struan
-		Stuart Sufian Sufyaan Sulaiman Sullivan Syed Sylvester Szymon Tadhg Taha Taim Tait Taran Tate Taylor Ted Teddie Teddy Teo
-		Teodor Terry Theo Theodor Theodore Thiago Thom Thomas Thomas-James Thorfinn Tiago Tiernan Tierney Tim Timothy Tj Tjay
-		Tobias Tobiasz Toby Tom Tomas Tommi Tommie Tommy Tommy-Scott Tony Toren Torin Torran Torrin Travis Tristan Troy Tucker
-		Tyler Tymon Tymoteusz Tyrese Tyson Umar Valentino Victor Vihaan Viktor Vincent Vinnie Vinny Vivan Wade Walker Wallace
-		Walter Warren Wesley Weston Wilbur Wilfred Will William Witold Wolfgang Woody Wren Wyatt Xander Xavier Yahya Yakub Yanis
-		Yaqub Yaseen Yazan Yohan Younes Yousef Yousif Youssef Yousuf Yunus Yusuf Yuvan Yuvansh Zac Zach Zachary Zack Zackary Zaid
-		Zain Zak Zakaria Zakariya Zakariyya Zakary Zander Zane Zaviyar Zayaan Zayan Zayd Zayden Zayn Zayne Zayyan Zeeshan Zeke
-		Ziggy Zion Zohaan Zohan Zoraver Zyaire
+		# Modern Names (Scotland; NRS Top-100 2020–2024 union + Scottish staples)
+		Noah Muhammad Rory Theo Leo Luca Jack Oliver Harris Archie Finlay Jude Alexander James Alfie Brodie Finn Arlo
+		Charlie Tommy Thomas Oscar Lucas Arthur Freddie Mason Jacob Lewis Max Logan Harry Albie Cameron Ollie Myles
+		Callan Theodore Angus Reuben Harrison Blake Caleb Adam Sonny Louie Roman Liam George Isaac Luke Arran Daniel
+		Hunter Ethan Hudson Ruairidh Kai Leon Blair Lochlan Joshua Callum Grayson Nathan Rowan William Cole Michael
+		Samuel Hamish David Carter Jaxon Matthew Ronan Elijah Teddy John Benjamin Robert Joseph Cillian Austin Ruaridh
+		Riley Jamie Lachlan Connor Murray Reggie Ezra Jax Carson Owen Henry Jayden Louis Frankie Robbie Aaron Andrew
+		Ellis Joey Fraser Cooper Innes Struan Oakley Brody Cody Finley Jackson Parker Fergus Alistair Alastair
+		Alasdair Calum Euan Ewan Ewen Gregor Iain Allan Allister Gavin Grant Graham Graeme Stuart Stewart Scott Ross
+		Gordon Duncan Bruce Callen Keir Kerr Aidan Aiden Rhys Reece Harvey Tyler Ryan Kian Kieran Declan Hayden
+		Leonard Marcus Martin Edward Patrick Peter Paul Anthony Nicholas Timothy Simon Stephen Steven Richard Albert
+		Alfred Allen Damian Damon Elliot Elliott Harley Jasper Jensen Jules Justin Keegan Kelvin Kellan Kenneth
+		Malcolm Mark Miles Miller Niall Nolan Nico Noel Oran Oisin Oli Oskar Osian Philip Phillip Rafe Raife Reid
+		Reuban Rhuairidh Ruari Ruairi Rudy Sam Sean Shay Shane Shea Soren Spencer Tomas Tristan Troy Walter Warren
+		Wesley Xander Zac Zach Zachary Alec Asher Barnaby Baxter Beau Bobby Bradley Brandon Brayden Callistus Campbell
+		Casey Ciaran Clark Clarke Colin Coll Conall Conor Cormac Craig Cruz Cullen Dallas Darragh Dean Derek Dexter
+		Dominic Donovan Douglas Dylan Eddie Edison Eli Ellison Emmett Evan Felix Finnian Flynn Ford Gabe Gabriel
+		Gideon Hayes Heath Hector Hugh Hugo Ian Isaiah Ivan Jace Jake Jakub Kayden Kendrick Kevin Kyran Lachlann
+		Leighton Lennox Levi
 	}
 	female_names = {
-		# Modern Names
-		Aalayah Aaliya Aaliyah Aarya Aayat Abbi Abbie Abby Abi Abigail Ada Adaline Adalyn Adalynn Addie Addilyn Addison Adelaide
-		Adele Adeline Adley Afton Agatha Agnes Aida Aila Ailey Ailidh Ailie Ailish Ailsa Aimee Aine Airlie Aisha Aiyla Aizah Alaa
-		Alaia Alaina Alaiya Alana Alanna Alannah Alara Alaya Alayah Alayna Alba Aleah Aleena Aleeza Aleigha Alessia Alex Alexandra
-		Alexis Alia Alice Alicia Alicja Alina Alisa Alisha Alison Alivia Alix Aliya Aliyah Aliza Allie Ally Alma Alya Alyssa
-		Alyssia Amal Amalia Amanda Amara Amaya Amayah Amber Ameera Amelia Amelia-Grace Amelia-Rose Amelie Amina Aminah Amira Amirah
-		Amiyah Amna Amy Amyra Ana Anastasia Anaya Anayah Andi Andie Angel Aniela Anika Anna Annabel Annabella Annabelle Annalise
-		Annie Anouk Antonia Antonina Anya Aoibhinn Aoife April Ara Arabella Araya Ari Aria Aria-Rose Ariadne Ariah Ariana Arianna
-		Arie Ariella Ariya Ariyah Arla Arlo Arwa Arwen Arya Asa Ashleigh Aspen Astrid Athena Aubree Aubrey Audrey Aura Aurelia
-		Aurora Autumn Ava Ava-Grace Ava-Rose Avah Averie Avery Avie Aya Ayah Ayat Ayda Ayesha Ayla Aylah Ayra Ayva Ayzal Azra
-		Bailey Bea Beatrice Beatrix Beatriz Beau Bella Bella-Rose Belle Beth Bethany Betty Bianca Bianka Billie Blair Blaire Blake
-		Blakely Blayke Blossom Blu Blythe Bobbi Boe Bonnie Bonny Breagh Breagha Breanna Bree Briana Brianna Briar Bridget Brodie
-		Brogan Brooke Brooklyn Caitlin Caitlyn Caledonia Cali Calla Calli Callie Callie-Rose Camilla Camille Camryn Caoimhe Cara
-		Carina Carla Carlotta Carly Carmen Carrie Carys Casey Cassandra Cassia Cassidy Cassie Catherine Catriona Cecilia Celeste
-		Cerys Charis Charley Charli Charlie Charlotte Chelsea Chiara Chloe Christina Ciara Claire Clara Claudia Clementine Clemmie
-		Cleo Clodagh Coco Colette Connie Constance Cora Corrin Courtney Dahlia Daisie Daisy Dakota Dana Dani Daniela Danielle
-		Daphne Darby Darcey Darci Darcie Darcie-Leigh Darcy Daria Darla Delia Delilah Demi Deryn Devon Diana Dixie Dominika Dora
-		Dorothy Drew Dua Dylan Eabha Ebony Eden Edie Edith Effie Eileen Eilidh Eilish Eiliyah Eimear Eira Eireann Eleanor Eleen
-		Elena Eleni Eliana Elif Elina Elisa Elise Elisha Eliza Elizabeth Ella Ella-Mae Ella-Rose Elle Ellen Elli Elliana Ellie
-		Ellie-Mae Ellie-Rose Elliot Ellis Elodie Eloise Elora Elowen Elsie Elspeth Ember Emelia Emeline Emer Emerald Emie Emilia
-		Emilie Emilija Emily Emily-Rose Emma Emme Emmeline Emmie Emmy Enid Erica Erika Erin Eris Eryn Esmae Esme Esme-Grace Esmee
-		Estelle Esther Etta Eva Evana Evangeline Eve Evelyn Everleigh Everley Everly Evie Faith Fallon Farah Farrah Faryn Fatima
-		Fatimah Faye Fearne Felicity Fern Ferne Fia Fiadh Fiona Fleur Flora Florence Frances Francesca Franki Frankie Freja Freya
-		Freyja Gabriela Gabriella Gabrielle Gaia Genevieve Georgia Georgie Georgina Gia Gianna Gigi Giorgia Giovanna Giulia Gloria
-		Goldie Grace Gracie Gracie-Mae Greta Gwendolyn Hadley Hafsa Hailey Hailie Haleema Haley Halima Halimah Halle Hallie Hana
-		Hania Haniya Hanna Hannah Harleigh Harley Harli Harlie Harloh Harlow Harmony Harper Harper-Leigh Harper-Rose Harriet Hattie
-		Havana Hayden Hayleigh Hayley Hazel Heather Heidi Helen Helena Henrietta Hiba Hollie Holly Honey Honor Hoorain Hope Ida Iga
-		Ilinca Iman Imogen Inaaya Inara Inaya Indie India Indiana Indie Indigo Indy Ines Ingrid Innes Iona Iqra Irha Iris Isabel
-		Isabella Isabelle Ishbel Isla Islay Isobel Isobella Isra Ivie Ivory Ivy Ivy-Rose Ivyrose Izabella Izzy Jaime Jamie Jane
-		Jannat Jasmine Jemima Jenna Jennifer Jenny Jess Jessica Jessie Joanie Joanna Jodie Joni Jorgia Jorgie Jorja Josephine Josie
-		Joy Joyce Julia Juliet Juliette Juniper Juno Jura Kacey Kaci Kacie Kadie Kady Kaia Kailah Kaitlyn Kaja Kali Kalli Kallie
-		Kara Karis Kasey Kate Katherine Kathryn Katie Katy Kaya Kayla Kayleigh Keeva Keira Kelsey Kelsie Kendal Kendall Kenna
-		Kennedy Kenzie Khadija Khloe Kiana Kiara Kiera Kinley Kira Klara Kornelia Kyla Kylah Kylie Kyra Kyrah Lacey Laci Lacie
-		Laiba Laila Laiya Lana Lara Laura Lauren Laya Layan Layla Laylah Lea Leah Leen Leena Leia Leila Lena Lennox Leona Leonora
-		Lexi Lexie Leyla Lia Liana Libby Lila Lilah Lili Lilia Lilian Lilianna Lilidh Lilith Lillian Lillie Lillie-Mae Lilly
-		Lilly-Anne Lilly-Mae Lily Lily-Mae Lily-May Lily-Rose Lina Liv Livia Liyana Lois Lola Lorelei Lorenza Loretta Lori Lotti
-		Lottie Louisa Louise Lucia Luciana Lucie Lucy Lucy-Mae Luisa Lula Luna Luna-Mae Luna-Rose Lydia Lyla Lylah Lyra Mabel Macey 
-		Maci Macie Mackenzie Macy Maddie Maddison Madeleine Madeline Madison Mae Maeva Maeve Maggie Maia Maira Mairead Mairi Maisie
-		Maisy Maizie Maja Mali Malia Mallie Mara Marcelina Marcella Marcie Margaret Margaux Margo Margot Maria Mariam Marika Marina
-		Marla Marley Marlie Marlowe Marnie Martha Mary Maryam Matilda Matylda Maura May Maya Mayah Mckenzie Meabh Meadow Megan
-		Meila Melanie Melissa Melody Meredith Merida Mhairi Mia Miah Michelle Mila Mila-Rose Milan Milana Milania Milena Miley
-		Millie Millie-Mae Minha Minnie Minsa Mira Miraal Mirha Miriam Mirren Mirryn Miya Mollie Molly Monica Monroe Morag Morgan
-		Morven Murren Murron Mya Myah Myla Mylah Mylie Myra Nadia Nancy Naomi Nara Natalia Natalie Naya Neave Neela Neive Nel Nell
-		Nella Nellie Nelly Neva Nevaeh Neve Nia Niah Niamh Nieve Nikola Nina Nirvana Noa Noah Noelle Nola Noor Nora Norah Nour Nova
-		Novah Nuala Nyah Nyla Nylah Oakleigh Ocean Octavia Odette Olive Olivia Olivia-Mae Olivia-Rose Oliwia Oona Oonagh Ophelia
-		Oriana Orla Orlagh Orlah Orlaith Ottilie Paige Paisley Parker Payton Pearl Penelope Pennie Penny Perrie Peyton Philippa
-		Phoebe Phoenix Piper Pippa Pixie Pola Polly Poppy Praise Presley Primrose Princess Priscilla Pyper Quinn Rachel Rae Raegan
-		Raina Raine Rameen Ramona Raven Rawan Raya Rayna Rayne Rebecca Rebekah Reese Reeva Remi Remy Renee Renesmee Reya Rhea Rhia
-		Rhianna Rhiannon Rhona Ria Riley Rital River Riya Robin Robyn Roisin Roma Romey Romi Romie Romilly Romy Ronnie Rosa Rosalie
-		Rosanna Rose Rosie Rosie-Mae Roux Rowan Rowyn Roza Rozalia Ruby Rue Runa Ruth Rylee Ryleigh Rylie Saanvi Sadie Safa Safaa
-		Safia Sage Sally Samantha Sana Saoirse Sapphire Sara Sarah Sasha Savanna Savannah Saylor Scarlet Scarlett Scout Selene
-		Seren Serena Shahd Shanzay Shelby Sia Sidra Siena Sienna Sierra Skye Skyla Skylar Skyler Sloane Sofia Sofie Sophia Sophie
-		Sorcha Stella Stephanie Stevi Stevie Storm Sula Summer Summer-Rose Sunday Sunny Susannah Susie Sydney Syeda Sylvie Tabitha
-		Tahlia Talia Tallulah Tamara Tara Taylor Teddi Teresa Tess Tessa Thalia Thea Theia Theodora Tia Tiana Tianna Tiara Tillie
-		Tilly Umaiza Una Vaila Valentina Valeria Vanessa Venus Vera Verity Veronica Victoria Vida Vienna Violet Vivien Wiktoria
-		Willow Winifred Winnie Winter Wren Wynter Xanthe Yara Yasmin Yasmine Yuna Zahra Zaina Zainab Zara Zaynab Zeynep Zirwa Zoe
-		Zoey Zofia Zoha Zola Zoya Zuri Zuzanna
+		# Modern Names (Scotland; NRS Top-100 2020–2024 union + Scottish staples)
+		Olivia Isla Freya Lily Millie Sophia Amelia Emily Ella Charlotte Bonnie Evie Ivy Rosie Sophie Grace Mia Orla
+		Thea Aria Lucy Maisie Harper Willow Esme Maya Sienna Hannah Emma Ada Poppy Ruby Chloe Zoe Holly Erin Ellie
+		Iona Lilly Ayla Luna Hazel Imogen Nina Rowan Eliza Romy Nora Maeva Lottie Phoebe Mabel Delilah Maddison Violet
+		Arabella Myla Skye Ava Eilidh Elsie Gracie Georgia Amber Matilda Elodie Elena Amelie Annie Ariana Aurora
+		Autumn Aurelia Beatrice Bella Betsy Blaire Blair Callie Cara Carly Carter Catherine Clara Claudia Connie Daisy
+		Darcie Eden Edie Elise Elizabeth Ella-Rose Elspeth Eliza-Jane Eliana Elliot Elliott Ellis Ellis-Rae Ellison
+		Eloise Elsa Esmae Esmee Esther Eva Eve Everly Faye Fearne Fern Fiona Flora Florence Frankie Georgie Hallie
+		Harley Harper-Rose Heidi Hope Indie India Iris Isabel Isabella Isla-Rose Isobel Jade Jasmine Jessica Joan
+		Jodie Julia Juliet Juniper Kaia Keira Kara Katherine Katie Kayla Kayleigh Khloe Lacey Lana Lara Lauren Layla
+		Leah Leila Lexi Liliana Lillie Lola Lottie-Rose Louisa Lucia Luna-Rose Maci Macey Maddie Madeleine Madeline
+		Mae Maggie Maisy Maria Marnie Martha Mary Maya-Rose Melody Mila Millie-Rose Mirren Molly Morven Mya Nadia
+		Naomi Nell Nellie Neve Niamh Nova Oakley Olive Olivia-Rose Orlagh Paige Pearl Penelope Phoebe-Rose Piper Polly
+		Quinn Rebekah Reese Remi Rhea Robyn Rosie-Mae Roxanne Ruby-Rose Ruth Sadie Saoirse Sara Sarah Scarlett Seren
+		Serena Sienna-Rose Sienna-Mae Skye-Rose Sofia Sophia-Rose Sophie-Rose Stella Summer Talia Tallulah Tegan
+		Thea-Rose Una Vanessa Vera Victoria Violet-Rose Willow-Rose Wren Zara Zoey Ailsa Ailie Aileen Ailis Aimee
+		Ainsley Aisling Aislinn Alana Alba Alannah Alba-Rose Alba-May Alexandra Alexis Alicia Annabel Annabelle Anwen
+		Arianna Aria-Rose Arwen Ashleigh Ashley Ava-Rose Ava-Grace Averie Avery Beth Bethany Brodie Brooke Caitlin
+		Caoimhe Cara-Rose Caragh Carys Cassie Catriona Cerys Charley Charlie Charlene Chelsea Chloe-Rose Christina
+		Ciara Cora Coral Corrie Courtney Darla Darcy Eilish Eimile Eimear Eira Eleanor Elin Elina Elisa Elissa
+		Elodie-Rose Eloisa Elora
 	}
 	
 	dynasty_of_location_prefix = "dynnp_de"
