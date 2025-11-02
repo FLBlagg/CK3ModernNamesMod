@@ -397,15 +397,70 @@ name_list_levantine = {
 	}
 
 	male_names = {
-		Abdul-Azeem Abdul-Hamid Abdul-Lateef Abdul-Razzaq Abdul-Wahad Abdullah Adhid Adil Akab Ala_i Ali Amir Ashraf Aziz Bashar Boutros Da_ud Faisal
-		Fayiz Ghazi Hakam Hamdan Hussayn Ibrahim Isa Is_mail Ismat Jahan Jamil Kamran Khalid Khudayar Majid Mas_ud
-		Muaddam Muhammad Muhsin Mukhtar Murad Musa Muzaffar Nuri Radhi Rasul Sa_ud Seyfullah Sharaf
-		Sirhan Taimur Tawfiq Umaya Wahid Yahya Ya_qub Yasar Youkhanna Zahir
+		# Levantine (modern): ASCII; hyphen-free; A–Z balanced (~493)
+		Ahmad Ahmed Adel Adnan Adam Alaa Ala Akram Alaeddin Ali Amer Amjad Ammar Amr Amro Anas Anwar Aref Arif Badr
+		Bader Baha Bahaa Bahjat Baker Bakr Baraa Barakat Basel Basil Bashar Bashir Bassam Bassem Bayan Bilal Burhan
+		Bishr Chadi Chady Chakib Chaker Chakir Chams Chamoun Chamel Chamil Charbel Charif Cherif Chouaib Choukri
+		Chucri Choukr Chawki Chehade Chehab Daoud Dawood Diaa Dhia Dirar Diab Diyaa Dimitri Dani Daniel Dany David
+		Daher Djamal Djalal Daniyal Daly Dory Dorian Ehab Eid Eissa Elia Elie Elian Elias Emad Emran Emin Emir Essam
+		Eyad Ezz Ezzat Ezzeddin Eshaq Ehabeddin Elyas Fadi Fadel Fadhel Fadl Fahd Fahad Fahim Faisal Faiz Fares Faris
+		Farouk Faruq Fathi Fatin Fawaz Fawwaz Feras Firas Gabi Gaby Gabriel Gamal Gamil Gerges George Georges Ghaleb
+		Ghali Ghanem Ghassan Ghasan Ghayth Ghaith Ghazwan Gomaa Gouda Ghosn Hadi Hakam Hakim Halim Hamdan Hamdi Hamed
+		Hamid Hammam Hamza Hani Harith Haroun Hasan Hassan Haitham Hazem Hatem Hisham Ibrahim Idris Ihab Ihsan Imad
+		Imran Ilyas Ilias Iskandar Ismail Ismael Issa Issam Istifan Iyas Iyad Izzat Izzeddin Ihabeddin Jabir Jaber
+		Jabr Jad Jafar Jalal Jamil Jamal Jamaan Jawad Jawdat Jihad Jiryes John Johnny Joseph Joud Juma Jumaah Kais
+		Kays Kamal Kamel Kamil Karam Karim Kareem Kasim Kassem Kassim Khalaf Khaled Khalid Khairi Khairy Khodor Khoder
+		Labib Labeeb Laith Latif Lawi Lazhar Lian Lias Lutfi Luay Luai Louay Louai Luqman Luqyan Lami Laheeb Lamei
+		Louei Maher Mahir Mahdi Mahmoud Mahmud Majed Majid Majeed Makram Malek Malik Mansour Mansur Marwan Maen Maan
+		Mazen Mazin Moath Nabil Nabeel Nader Nadim Nadeem Naeem Naim Naji Najib Najm Nasir Nasser Nasr Nassim Nayef
+		Naif Nazih Nidal Nizar Omar Omer Odeh Oday Odai Osama Othman Omran Oweis Owais Ouday Oudai Oqba Okasha Obaida
+		Obaid Obeid Omaran Omarion Paul Pascal Peter Petros Pierre Philip Philippe Pavel Paolo Pablo Patrick Patric
+		Panagiotis Perikles Pietro Petro Pepi Pier Pietros Qais Qays Qadir Qader Qasim Qassem Qusay Qusayy Qutaiba
+		Qutaibah Qudama Qudsi Qamar Qudrat Qaswara Qanit Qannas Qahir Qarim Rabih Rabie Rabee Raad Rafic Rafe Rafi
+		Rafik Rafiq Raed Ragheb Rakan Rami Ramy Ramzi Ramzy Rashed Rashid Ridwan Saad Saeed Said Sabah Sabri Saber
+		Sabir Safi Safwan Salah Saleh Salem Salim Salman Samer Sameer Sami Samir Sari Taha Taiseer Taisir Taim Taym
+		Tayeb Tamer Tamim Tammam Talal Taleb Talib Tariq Tarek Tarik Tawfiq Toufic Toufik Thabit Umar Umer Uthman
+		Usama Ussama Ubayd Ubaid Uday Udey Umair Umaer Umeir Uwais Uways Uzair Uqba Uqbah Ubaida Umran Vache Vahram
+		Varouj Varoujan Vartan Vasken Vatche Vicken Viken Vigen Viktor Victor Vince Vincent Vlad Valerio Vasil
+		Vartanoush Varon Wael Wajdi Wajih Walid Waleed Wali Waliy Waseem Wasim Wassim Wasil Wasfi Wazir Wafi Wafic
+		Waddah Wadah Wadi Wazih Xavier Xander Xavian Xeno Xenon Xenios Xavi Xaver Xerxes Xenith Xenov Xenod Xenonios
+		Xian Xenor Xeraf Xerafon Xenophon Xenakis Yacoub Yaqoub Yaqoob Yahya Yamen Yaman Yasser Yasir Yassin Yaseen
+		Yazeed Yazid Yazan Yousef Youssef Younes Yunis Yusuf Yehya Zaid Zayd Zain Zaine Zaki Zakaria Zakariya Ziad
+		Ziyad Zohair Zoheir Zohir Zuhair Zuhayr Zein Zeinul Zakariah Zakiuddin Zakir
 	}
 	female_names = {
-		Aisha Aziza Duha Farida Golbahar Gulnar Gulnaz Gulpari Hafsa Hasti Huma Ibtisam Jalila Kamala Karima Khandan Khaterah Khatira Kinah Lala Madiha Mahdokht
-		Mahsa Mahwash Marwa Mastana Mehri Mina Minoo Munawwar Muzhdah Nahal Najela Nasiba Nastaran Nazaneen Nazy Neelab Negar Niki Nikoo Noushin Rabiya
-		Rajiya Sadiya Salma Sitara Thana Zahra Zuhayra
+		# Levantine (modern): ASCII; hyphen-free; A–Z balanced (~494)
+		Aisha Aishah Aaliyah Alaa Alia Aliya Alya Alina Amal Amani Amany Amira Amina Amna Anoud Anoudh Arwa Asma Asmaa
+		Badria Bahia Basma Basima Bayan Batoul Batool Buthaina Buthayna Budoor Bdoor Balsam Bushra Bisan Basmah Barah
+		Baraka Baria Buthina Chadia Chahd Chaima Chaimaa Chamsa Chaza Chayma Cherine Celine Carine Carla Carmen
+		Chantal Christine Christina Christelle Claudia Clarissa Cynthia Dalia Dalal Dana Dania Dina Dima Douaa Doaa
+		Doha Duha Durra Durrah Dunia Donia Doreen Dahlia Dareen Dalila Dareena Eman Eiman Elham Elaf Ehsan Ebtisam
+		Ebtihal Ebtihaj Enas Enass Elissa Elisa Elian Eliane Eliana Elisabet Esraa Eshal Ejlal Fadia Fadwa Fajr Falak
+		Farah Fariha Farida Fariyah Faten Fathiya Fatima Fatimah Fawzia Fawziya Fairuz Fayza Firdaws Firdous Futoon
+		Ghada Ghadeer Ghadir Ghalia Ghalya Ghaliya Ghina Ghofran Ghufran Ghusun Ghadra Ghadrah Ghazala Ghazalah Ghazwa
+		Gharam Ghalila Ghadwa Ghazaleh Hala Hanna Hana Haneen Hanin Hanan Hajar Hajer Haifa Haifaa Hessa Huda Houda
+		Hadeel Hadia Hind Hoor Hooria Hiba Ibtisam Ibtihal Ibtihaj Ijlal Ikram Ilham Iman Imane Imani Inas Ines Inji
+		Intisar Iqra Isra Israa Izdihar Izza Izzah Jana Jannah Jamila Jamilah Jasmine Jasmin Jawahir Jawhara Jawaher
+		Jehan Jihan Jomana Jumana Joumana Jouri Joud Jood Judy Jumanae Karima Kawthar Kawtar Kalthoum Kaltham Khadija
+		Khadijah Khawla Kholoud Khouloud Khulud Kenza Kenzi Kamila Kamelia Kawla Kawlaa Katherin Kristine Lama Lamia
+		Lamya Latifa Lateefa Layan Layal Laila Layla Leila Lina Linda Lujain Lojain Lulwa Lulwah Loulwa Liana Lidia
+		Maha Mahra Mashael Mashaiel Maisa Maysa Maysaa Maram Mariam Maryam May Maya Maysun Maysoon Meera Mira Mona
+		Muna Munira Nada Nadine Nadia Naima Naeema Najla Najwa Nawal Nermin Nesreen Nisreen Nisrin Nihal Nahla Nashwa
+		Nour Noor Noora Nur Ola Olfat Olfa Omnia Omaima Omayma Omaira Ohoud Ohood Olla Oruba Orouba Omairah Omama
+		Omaida Omniah Omaani Omaaniy Omneya Perla Petra Paula Pauline Pascale Pascaline Patricia Pamela Priscilla
+		Philomena Pierrette Paolina Patrizia Pilar Penelope Pearl Phoebe Prisca Polina Qamar Qamra Qamaria Qadriya
+		Qadira Qanita Qanitah Qisma Qismat Qudsia Qudsiyya Qutayla Qantara Qawlah Qayla Qailah Qamarina Qudra Qamarieh
+		Rana Rania Rasha Rawan Razan Rahaf Rahma Reem Rima Ruba Ruaa Roa Roua Roula Rula Ritaj Rital Rim Raneem Saba
+		Sabah Sabrine Sabrin Safa Safiya Sahar Salma Salwa Sama Samah Samia Samira Sanaa Sana Sara Sarah Sawsan Suad
+		Tala Talin Tamara Tasneem Tasnim Tasnime Tahani Tahira Taima Thana Thanaa Thuraya Thoria Toulin Tulin Talaah
+		Talaia Tamima Tamanna Ula Umaima Umayma Umnia Umniah Umaira Umayra Ulfat Uhood Uruj Uzma Unsa Uns Unsiya Ummi
+		Ureem Urwa Umema Umaynah Vera Veronique Veronica Vanessa Valentina Valeria Violetta Violet Vian Vina Virginia
+		Vivian Vittoria Victoria Valerie Vida Vivi Viona Viviane Wafa Walaa Widad Wijdan Wajd Wisal Wissal Weam Wiam
+		Ward Warda Wardah Wurood Wurooda Wasila Wassila Wasima Wassima Wisam Xena Xenia Xaviera Xylia Xylina Xiomara
+		Xiana Xeniah Xanthe Xanthi Xanthia Xyla Xylie Xara Xaria Xenette Xeniaa Xenaya Xylaa Yara Yasmin Yasmine
+		Yasmeen Yusra Yumna Yomna Yamama Yamamah Yaqeen Yarae Yasira Yumnaa Yovanna Yasna Yasra Yusraa Yumnaia Yovanne
+		Zeinab Zaynab Zein Zeina Zain Zaina Zina Zahra Zahira Zahraa Zohra Zohrah Zeinah Zuleikha Zulaikha Zarqa
+		Zaynah Zehra Zeinia
 	}
 	dynasty_of_location_prefix = "dynnp_mn"
 	
@@ -486,20 +541,71 @@ name_list_egyptian = {
 	}
 
 	male_names = {
-		Aaron Abanoub Abderahman Abd-al-Aziz Abdul-Haq Abdul-Madjid Abdul-Salaam Abdullah
-		Abianos Abisalom Ablarion Abraam Abu-Bakr Adnan Agathon Agathonikos Agathos
-		Ahmad Akbar Alam Ali Amr Androus Anthinos Arsenios Ashraf Asim
-		Athanasios Badr Bashir Biktor Binyamin Bishoi Boutros Danyal Dawlat Da_oud
-		Ezra Farhan Firuz Gabri_el Georgios Habil Hakam Hammud Hanri Haroun Hisham
-		Hussayn Ibrahim Ilyas Is_mail Jawdat Jerjer Khalil Krystafer
-		Latif Lot Malik Matta Mehtar Mikail Mikhael Milad Mina Muammar Muhammad
-		Mukhtar Murad Murshid Musa Nabil Nasir Nassib Pamin Qadir Ra_uf Rafiq Ridwan Sabah Salim Sha_ban
-		Sharif Suhail Tadros Tayyib Touma Usama Walid Yahya Yared Yassir Youkhanna Youssef Zaia Zakariyah
+		# Egypt (modern): ASCII; hyphen-free; A–Z balanced (~494)
+		Ahmed Ahmad Abdullah Abdelrahman Abdelrahim Abdelaziz Abdelqader Abdelkader Adel Adham Adnan Amr Amro Ammar
+		Ayman Ayham Ashraf Atef Azzam Badr Bahaa Bassem Bassam Bashir Bashar Bishoy Bishoi Botros Boutros Botrosy
+		Boulos Boulus Bilal Badran Badawi Bahgat Barakat Basel Camil Camille Carim Carter Carlo Carlos Charbel Cherif
+		Choukri Christopher Christian Cyril Cosmas Constantine Cornelius Claudio Clement Crispin Christos Dawood Daoud
+		Diaa Dhia Dirar Diab Dorian Danyal Dany Daniel David Daher Djamal Djalal Dinaar Dakroury Dawoud Dory Darwish
+		Ehab Essam Eid Eissa Elia Elie Elias Emad Emran Emin Emir Eyad Ezz Ezzat Ezzeddin Ehabeddin Elyas Eshaq
+		Eidallah Fadi Fadel Fadhel Fadl Fahd Fahad Fahim Faisal Fares Faris Farouk Faruq Fathi Fathy Fathallah Fawzi
+		Fawzy Fawaz Firas Gaber Gamal Gamil Galal Gawad Gerges Gergis Girgis George Georges Ghaleb Ghanem Gharib
+		Ghazaly Gomaa Ghandy Ghali Ghalioun Ghallab Hadi Hady Hafez Hafiz Halim Hamdan Hamdi Hamed Hamid Hammam Hamza
+		Hani Hany Harith Haroun Hasan Hassan Haitham Hazem Ibrahim Idris Ihab Ihsan Imad Imran Ilyas Iskandar Ismail
+		Ismael Issa Issam Izzat Izzeddin Islam Ihabeddin Ibrahimy Izz Iyad Jabir Jaber Jabr Jad Jafar Jalal Jamil
+		Jamal Jamaan Jawad Jawdat Jihad John Johnny Joseph Jorg Jory Joud Juma Kamal Kamel Kamil Karam Karim Kareem
+		Kassem Kassim Kasem Khalaf Khaled Khalid Khairy Khairi Khoder Khayri Khalifa Khalil Kabalan Labib Labeeb Laith
+		Latif Lawi Lazhar Lutfi Luay Luai Louay Louai Luqman Luqyan Lami Laheeb Lamei Lotfi Lotfy Labban Maher Mahir
+		Mahdi Mahmoud Mahmud Majed Majid Maged Magdy Magdi Mamdouh Makram Malek Malik Mansour Mansur Marwan Maen Maan
+		Nabil Nabeel Nader Nadim Nadeem Naeem Naim Naji Najib Najm Nasir Nasser Nasr Nassim Nashaat Nashat Nayef Naif
+		Nazih Omar Omer Odeh Oday Odai Osama Othman Omran Omaran Omarion Owais Oweis Ouday Oudai Oqba Okasha Obaida
+		Obaid Obeid Paul Peter Pavlos Petros Pierre Philip Philipp Philippe Pope Ptolemy Panagiotis Paolo Pablo
+		Patrick Patric Pepi Pier Pietro Pietros Qais Qays Qadir Qader Qasim Qassem Qusay Qusayy Qutaiba Qutaibah
+		Qudama Qudsi Qamar Qudrat Qaswara Qanit Qannas Qahir Qarim Raafat Raef Raouf Rabie Rabih Raad Rafic Rafe Rafi
+		Rafik Rafiq Raed Ragab Ragheb Ramadan Rami Ramy Ramzi Ramzy Saad Saeed Said Sabry Sabri Saber Sabir Safi
+		Safwan Salah Saleh Salem Salim Salman Samer Sameer Sami Samir Sari Taha Taiseer Taisir Taim Taym Tayeb Tamer
+		Tamim Tammam Talal Taleb Talib Tariq Tarek Tarik Tawfiq Thabit Tharwat Tawfik Umar Umer Uthman Usama Ussama
+		Ubayd Ubaid Uday Udey Umair Umaer Umeir Uwais Uways Uzair Uqba Uqbah Ubaida Umran Victor Viktor Vicken Viken
+		Vigen Vince Vincent Valer Valerio Valentine Valerian Valon Vartan Varouj Varoujan Vasil Vasile Vlad Valerioh
+		Wael Wajdi Wajih Walid Waleed Wali Waliy Waseem Wasim Wassim Wasil Wasfi Wazir Wafi Wafic Waddah Wadah Wadi
+		Wazih Xavier Xander Xavian Xeno Xenon Xenios Xavi Xaver Xerxes Xenith Xenov Xenod Xenonios Xian Xenor Xeraf
+		Xerafon Xenophon Xenakis Yacoub Yaqoub Yaqoob Yahya Yamen Yaman Yasser Yasir Yassin Yaseen Yazeed Yazid Yazan
+		Yousef Youssef Younes Yunis Yusuf Yehya Zaid Zayd Zain Zaine Zakaria Zakariya Ziad Ziyad Zohair Zoheir Zohir
+		Zuhair Zuhayr Zein Zeinul Zakariah Zaki Zakir Zakiuddin
 	}
 	female_names = {
-		Acenith Alia Amunet Andali Asanet Asenath Asenet Azenet Badiat Cena Fatima Halima
-		Jamila Khadija Majida Mariam Nabila Nura Radiya Rana Sacmis Safiya
-		Samira Suhaila Tawaret Taweret Titi Thuriya Zara Zahra
+		# Egypt (modern): ASCII; hyphen-free; A–Z balanced (~494)
+		Aisha Aishah Aaliyah Alaa Alia Aliaa Aliya Alya Alina Amal Amani Amany Amira Amina Amna Arwa Asma Asmaa Aya
+		Badria Bahia Basma Basima Bayan Batoul Batool Buthaina Buthayna Budoor Bdoor Balsam Bushra Bisan Basmah Barah
+		Baraka Baria Buthina Christine Christina Christelle Carine Celine Carla Carmen Caroline Clarissa Claudia
+		Chantal Cherine Cynthia Cyrine Celina Carina Caterina Cecilia Cristina Dalia Dalal Dina Doaa Duaa Duha Doha
+		Dorra Doria Dinae Dahlia Dareen Dalila Donia Dunia Doreen Daliah Dema Diaa Eman Eiman Elham Elaf Ebtisam
+		Ebtissam Ebtihal Ebtihaj Enas Enass Elisa Elian Eliane Eliana Elisabet Esraa Eshal Ejlal Engy Farah Fariha
+		Farida Fariyah Faten Fathia Fathiya Fatma Fatima Fatimah Faiza Fayza Ferial Feryal Fadwa Fawzia Fawziya
+		Firdaws Futoon Ghada Ghadeer Ghadir Ghalia Ghalya Ghaliya Gihan Gehan Ghina Ghofran Ghufran Ghusun Ghadaa
+		Ghazala Ghazwa Gharam Galila Gamila Gina Hala Hanna Hana Haneen Hanin Hanan Hagar Hajar Haifa Haifaa Heba
+		Hebba Hend Hind Hessa Hoda Huda Houda Hadeel Ibtisam Ibtihal Ibtihaj Ijlal Ikram Ilham Iman Imane Imani Inas
+		Ines Inji Intisar Iqra Israa Isra Izdihar Izza Izzah Jana Jannah Jamila Jamilah Jasmine Jasmin Jehan Jihan
+		Jomana Jumana Joumana Jouri Joud Jood Judy Jumanae Julia Juliana Juli Karima Kawthar Kawtar Kalthoum Kaltham
+		Khadija Khadijah Khawla Kholoud Khouloud Khulud Kenza Kenzi Kamila Kamelia Katia Kristina Katherin Kawla Lama
+		Lamia Lamya Latifa Lateefa Layan Layal Laila Layla Leila Lina Linda Lamis Lobna Lubna Lujain Lojain Lulwa
+		Loulwa Maha Mahira Mai Maya May Maryam Mariam Maram Marina Mervat Mervet Menna Mennatallah Meera Mira Mona
+		Muna Munira Marwa Nada Nadine Nadia Nahed Naheda Naima Naeema Naglaa Nahla Nermin Nesma Nesreen Nisreen Nisrin
+		Nihal Nashwa Nour Noor Noha Ola Olfat Olfa Omnia Omneya Omaima Omayma Omaira Ohoud Ohood Olla Orouba Omairah
+		Omama Omaida Omniah Omneiah Omaani Omneia Passant Pakinam Perihan Paula Pauline Pascale Pascaline Patricia
+		Pamela Priscilla Philomena Pierrette Paolina Patrizia Pilar Penelope Pearl Phoebe Polina Qamar Qamra Qamaria
+		Qadriya Qadira Qanita Qanitah Qisma Qismat Qudsia Qudsiyya Qutayla Qantara Qawlah Qayla Qailah Qamarina Qudra
+		Qamarieh Rana Rania Rasha Rawan Razan Rahaf Rahma Reem Riham Reham Rima Ruba Ruaa Roua Roula Rula Ritaj Rim
+		Rowan Saba Sabah Sabrine Sabrin Safa Safiya Sahar Salma Salwa Sama Samah Samar Samia Samira Sanaa Sana Sara
+		Sarah Sawsan Tahani Tahira Tala Talin Tamara Tasneem Tasnim Tasnime Taima Thana Thanaa Thuraya Thoria Toulin
+		Tulin Talaah Talaia Tamima Tamanna Ula Ulfa Ulfat Umaima Umayma Umnia Umniah Umaira Umayra Uhood Uruj Uzma
+		Unsa Uns Unsiya Ummi Ureem Urwa Umaynah Vera Veronique Veronica Vanessa Valentina Valeria Violetta Violet Vian
+		Vina Virginia Vivian Vittoria Victoria Valerie Vida Vivi Viona Viviane Wafaa Walaa Widad Wijdan Wajd Wisal
+		Wissal Weam Wiam Ward Warda Wardah Wurood Wurooda Wasila Wassila Wasima Wassima Wisam Xena Xenia Xaviera Xylia
+		Xylina Xiomara Xiana Xeniah Xanthe Xanthi Xanthia Xyla Xylie Xara Xaria Xenette Xeniaa Xenaya Xylaa Yara
+		Yasmin Yasmine Yasmeen Yosra Yousra Yusra Yumna Yomna Yamama Yamamah Yaqeen Yasira Yumnaa Yovanna Yasna Yasra
+		Yusraa Yumnaia Zeinab Zaynab Zein Zeina Zeinah Zain Zaina Zina Zahra Zahira Zahraa Zohra Zohrah Zuleikha
+		Zulaikha Zeinat Zakia Zakiya Zehra
 	}
 	dynasty_of_location_prefix = "dynnp_mn"
 	
@@ -689,20 +795,72 @@ name_list_maghrebi = {
 	}
 
 	male_names = {
-		Aaron Abanoub Abderahman Abd-al-Aziz Abdul-Haq Abdul-Madjid Abdul-Salaam Abdullah
-		Abianos Abisalom Ablarion Abraam Abu-Bakr Adnan Agathon Agathonikos Agathos
-		Ahmad Akbar Alam Ali Amr Androus Anthinos Arsenios Ashraf Asim
-		Athanasios Badr Bashir Biktor Binyamin Bishoi Boutros Danyal Dawlat Da_oud
-		Ezra Farhan Firuz Gabri_el Georgios Habil Hakam Hammud Hanri Haroun Hisham
-		Hussayn Ibrahim Ilyas Is_mail Jawdat Jerjer Khalil Krystafer
-		Latif Lot Malik Matta Mehtar Mikail Mikhael Milad Mina Muammar Muhammad
-		Mukhtar Murad Murshid Musa Nabil Nasir Nassib Pamin Qadir Ra_uf Rafiq Ridwan Sabah Salim Sha_ban
-		Sharif Suhail Tadros Tayyib Touma Usama Walid Yahya Yared Yassir Youkhanna Youssef Zaia Zakariyah
+		# Maghreb (modern): ASCII; hyphen-free; A–Z balanced (~494)
+		Ahmed Ahmad Abdellah Abdallah Abdelkader Abdelkadir Abdelaziz Abdelhak Abdelhadi Abdelhamid Abdelmoumen
+		Abderrahmane Abderrahman Abdessamad Abdennour Adel Adil Anouar Anwar Badr Badreddine Bahaa Baha Belaid
+		Belkacem Bilel Bilal Brahim Bouchaib Boujemaa Boujema Bouzid Bouziane Boubaker Bachir Bashir Bassem Bassam
+		Chadi Chadli Chafik Chafai Chakib Chakir Chaker Chakh Chams Chems Chemseddine Chihab Chokri Chouaib Choukri
+		Chouki Chawki Cherif Chedly Daoud Dawood Dhia Dhiaa Dhiaeddine DhiEddine Diaa Diar Dinar Dirar Driss Djamal
+		Djamel Djalil Djaffar Djelloul Djebril Djibril Djameldine Ehab Essam Eid Eissa Elyas Elyes Elhadi Elhadj
+		Elmehdi Elhassan Elmostafa Elouali Emad Emran Emin Emir Eyad Ezz Ezzat Fadi Fadl Fadhel Fadil Fadel Fahd Fahad
+		Fahim Faisal Faiz Farid Farouk Faruq Fares Faris Fathi Fathy Fawzi Fouad Gaber Gamal Gamil Galal Ghali Ghaleb
+		Ghaith Ghaisem Ghazi Ghazali Ghazwan Gharib Ghanem Ghaithallah Ghailan Ghaly Ghoulam Gouda Gomaa Habib Hadi
+		Hady Hafedh Hafid Hafiz Halim Hamdi Hamed Hamid Hammou Hammam Hamza Hatem Hicham Hichem Hisham Houssem Houcine
+		Ibrahim Idris Idriss Iheb Ihab Ihsan Ikram Imad Imed Imran Ismail Ismael Issam Islem Ilyas Ilias Iyad Iyas
+		Izzedine Jabir Jaber Jabr Jad Jaafar Jalal Jalil Jamal Jamel Jamil Jaouad Jawad Jawdat Jihad Jilali
+		JamalEddine Jumaa Juma Juwairi Kacem Kacim Kais Kamal Kamel Kamil Karim Kareem Kassem Kassim Khaled Khalid
+		Khalil Khairy Khairi Kheireddine Khayreddine Khayri Kaddour Lahcen Lakhdar Lamine Larbi Laroussi Lazhar Lotfi
+		Lotfy Lounes Lyes Lyas Laith Lutfi Luay Luai Luqman Luqyan Lahbib Labiad Mahdi Mehdi Mansour Mansur Marouane
+		Marwan Merouane Merwan Messaoud Massoud Mokhtar Mounir Moncef Mourad Murad Mostafa Mustapha Mohamed Mohammed
+		Nabil Nabeel Nacer Nasser Nasr Nasreddine Noureddine Nourdine Noureddin Nawfal Nizar Nidal Nidhal Naji Najib
+		Nadir Nassim Nouh Nabih Omar Omer Othman Otmane Oussama Ousama Oualid Oualili Ouail Ouassim OmarEddine Omran
+		Oqba Okacha Okasha Obaida Obaid Obeid Oudai Paul Pierre Peter Petros Philip Philippe Pascal Pavel Paolo Pablo
+		Patrick Patrice Pietro Panagiotis Pepi Pier Pierrot Pietros Panayiotis Qais Qays Qadir Qader Qasim Qassem
+		Qusay Qutaiba Qudama Qudsi Qamar Qaswara Qanit Qannas Qarim Qayyim Qusayy Qutaibah Qudrat Rabah Rabeh Rachid
+		Rached Rafik Rafiq Raed Raef Raouf Rauf Rayan Riyad Riad Ridha Ridwan Reda Ramzi Ramzy Ramadan Saad Said Saeed
+		Saber Sabri Safi Safwan Salah Saleh Salem Salim Salman Sami Samir Smail Smaine Slimane Soufiane Sofiane Taha
+		Taher Tahar Taieb Tayeb Tarik Tarek Toufik Taoufik Tawfiq Tijani Touhami Touati Talal Taleb Talib Tammam Tamim
+		Taysir Umar Umer Uthman Usama Ussama Ubayd Ubaid Uday Uwais Uways Uqba Uqbah Umair Umaer Umeir Uzair Uqayl
+		Uqayli Uli Victor Viktor Vincent Vince Valery Valerio Valerian Valentin Valon Vartan Varouj Varoujan Vasil
+		Vasile Vlad Valerioh Vasco Vasko Vladimir Wael Walid Waleed Wahid Wajdi Wajih Wassim Wissam Wasim Waseem Wazir
+		Wafi Wafik Wafeeq Wasfi Wasil Waddah Wadah Wadi Xavier Xander Xavian Xeno Xenon Xenios Xavi Xaver Xerxes
+		Xenith Xenov Xenod Xenonios Xian Xenor Xeraf Xerafon Xenophon Xerxeson Yacine Yassine Yasin Yassin Yahya
+		Younes Yunis Youssef Yousef Yusuf Yazid Yazeed Yamen Yaman Yanis Yani Yamine Yacoub Yaqoub Zaid Zayd Zain
+		Zaine Zakaria Zakariya Zaki Zahir Ziad Ziyad Zine Zineddine Zidane Zouhair Zouheir Zohir Zubir Zoubir Zouaoui
 	}
 	female_names = {
-		Acenith Alia Amunet Andali Asanet Asenath Asenet Azenet Badiat Cena Fatima Halima
-		Jamila Khadija Majida Mariam Nabila Nura Radiya Rana Sacmis Safiya
-		Samira Suhaila Tawaret Taweret Titi Thuriya Zara Zahra
+		# Maghreb (modern): ASCII; hyphen-free; A–Z balanced (~494)
+		Aicha Aisha Aichae Aichaou Aida Aidaa Aidae Aidaou Aidaoui Ahlam Ahlame Amina Aminata Amal Amel Amira Amna
+		Anissa Anisa Bahia Bahja Basma Basima Bayan Batoul Batool Bouthaina Boutaina Buthaina Buthayna Bouchra Bushra
+		Bisan Basmah Baraka Baria Balqis Bilqis Chadia Chaima Chaimaa Chahd Chiraz Chamsa Chams Chaza Chayma Cherine
+		Celine Carine Carla Carmen Christine Christelle Claudia Cynthia Chahed Dalia Dalal Dina Doaa Duaa Duha Doha
+		Dorra Doria Dounia Donia Douniaa Dahlia Dareen Dalila Dihya Dihia Djamila Djemila Eman Eiman Elham Elaf
+		Ebtissam Ebtisam Ebtihal Ebtihaj Enas Enass Elisa Eliane Eliana Elisabet Esraa Eshal Ejlal Engy Emanuela Farah
+		Fariha Farida Feriha Fadwa Fadoua Fadouaa Faten Fathia Fathiya Fatma Fatima Fatimah Faiza Fayza Ferial Feryal
+		Firdaws Fairouz Ghada Ghadeer Ghadir Ghalia Ghalya Ghaliya Ghalila Ghina Ghofran Ghufran Ghusun Ghaita Ghania
+		Ghaliza Ghazala Ghazwa Gharam Galila Gamila Hala Hana Hanaa Hanane Hanen Haneen Hanin Hanan Hajar Hajer Haifa
+		Hafsa Halima Halimah Hend Hind Houda Huda Hadeel Ibtisam Ibtissam Ibtihal Ibtihaj Ijlal Ikram Ilham Iman Imane
+		Imani Inas Ines Intissar Intisar Iqra Israa Isra Izdihar Izzah Jana Jannah Jamila Jamilah Jasmine Jasmin
+		Jawahir Jawhara Jehan Jihan Joumana Jumana Jomana Jouri Joud Jood Judy Jumanae Jalila Karima Kawtar Kawthar
+		Kenza Kenzi Khadija Khadijah Khawla Kholoud Khouloud Khulud Kamila Kamelia Katia Katrin Kristina Kristine
+		Kawla Khadra Laila Layla Leila Lailae Lamia Lamiaa Lamya Latifa Lateefa Layan Layal Lina Linda Lamis Lobna
+		Lubna Lujain Lojain Lulwa Maha Mahira Mai Maya May Maryam Mariam Maram Marina Mervat Meryem Meriam Meriem
+		Meera Mira Mona Mouna Muna Munira Nada Nadia Nadine Nahed Naheda Naima Naeema Najla Najlae Najat Najwa Nawal
+		Nawel Nermine Nesma Nesrine Nisrine Nihal Nashwa Ola Olfat Olfa Omnia Omneya Oumaima Omayma Omaima Omaira
+		Ohood Olla Orouba Omairah Omama Omaida Omniah Omneiah Oumaimaa Omneia Perla Perihan Paula Pauline Pascale
+		Pascaline Patricia Pamela Priscilla Philomena Pierrette Paolina Patrizia Pilar Penelope Pearl Phoebe Polina
+		Prisca Qamar Qamra Qamaria Qadriya Qadira Qanita Qanitah Qisma Qismat Qudsia Qudsiyya Qutayla Qantara Qawlah
+		Qayla Qailah Qamarina Qudra Qudsiya Racha Raja Rajaa Rajae Rana Rania Rasha Rawan Razan Rahaf Rahma Reem Rim
+		Rima Ruba Roua Roula Ritaj Raghad Saba Sabah Sabrine Sabrin Safa Safia Safiya Sahar Saida Saidaa Salma Saloua
+		Salwa Sama Samah Samar Samia Samira Sanae Tala Talin Tamara Tasnime Tasnim Tasnimeh Tahani Tahira Taima Thana
+		Thanaa Thuraya Thoria Tiziri Tassadit Tifawt Tafsut Tamy Tamima Ula Ulfa Ulfat Umaima Umayma Umnia Umniah
+		Umaira Umayra Uhood Uruj Uzma Unsa Uns Unsiya Ummi Ureem Urwa Umaynah Vera Veronique Veronica Vanessa
+		Valentina Valeria Violetta Violet Vian Vina Virginia Vivian Vittoria Victoria Valerie Vida Vivi Viona Viviane
+		Wafa Wafaa Walaa Widad Wijdan Wajd Wisal Wissal Weam Wiam Ward Warda Wardah Wurood Wurooda Wasila Wassila
+		Wasima Wassima Xena Xenia Xaviera Xylia Xylina Xiomara Xiana Xeniah Xanthe Xanthi Xanthia Xyla Xylie Xara
+		Xaria Xenette Xeniaa Xenaya Xylaa Yara Yasmin Yasmine Yasmeen Yosra Yousra Yusra Yumna Yomna Yamama Yamamah
+		Yaqeen Yasira Yumnaa Yovanna Yasna Yasra Yusraa Yumnaia Zineb Zeinab Zaynab Zein Zeina Zeinah Zain Zaina Zina
+		Zahra Zahira Zahraa Zohra Zohrah Zuleikha Zulaikha Zeinat Zakia Zakiya
 	}
 	dynasty_of_location_prefix = "dynnp_mn"
 	
@@ -812,15 +970,71 @@ name_list_andalusian = {
 	}
 
 	male_names = {
-		Aban Abbad Abbas Abdallah Abd-al-Baqi Abd-al-Gafur Abd-al-Majid Abd-al-Nur Abd-al-Qadir Abd-al-Ra_uf Abd-al-Warith Abd-al-Aziz Abdul-Hakam Abdul-Hasan Abdul-Hazm Abdul-Rahman Abdul-Razzaq Abu-al-Qasim
-		Abu-Bakr Adfuns Adi Affan Aflah Ahmad A_idh Ajannas Ala Ali Amir Asas Asbat Ashhab Asim Aslam Atarid Atiyya Atrad Ayshun Ayyash Ayyub Aziz Bahram Bakr Balashk Balj Baqi Bashir Bilal Dimam Darras Dhu_al_N_n Dulaf Fadl Faraj Farqad Fath Fulayh Galib Galind Ganim Garsiya Gazi Habib Hakam Hamda Hamdin Hamid Hamza Haway Hayyan Hazm Hilal Hiyaz Hizam Hubab Hani_ Harith Hatim Haykal Hisham Ibrahim Idris Imran Isa Isma_il Iyad Jahhaf Jahwar Jalaf_Allah Jalhama Jalil Jami Jarir Jattab Jayr Jayrun Jidr Jubayr Juda Jumahir Juzayy 
-		Jyad Kathir Kaysan Kulayb Lubb Mahbub Majluf Malik Ma_n Mansur Marwan Maymun Mirdas Mu_awiyah Mubashir Mudrik Muffarij Muhallab Muhammad Mundir Musa Mus_ab Mutarrif Muyahid Nadar Nasir Nizar Nudhayr Qar_us Qasim Qatan Qays Raf Rashid Rasiq Razin Sa_d Sa_dan Safwan Sa_ib_Jatir Sajr Salmun Sanyo Saqi Sarur Shabtun Shajara Siddray Siraj Sufyan Suleyman Tahir Talha Tamim Tammam Tariq Taytal Tayyib Tawd Tifilwit Tuways Ubada Ubayd Ubayd_Allah Ubaydun Ulaym  
-		Umar Umayyah Urayb Utman Wadih Wahb Walid Wannaqo Wasim Wathima Wazir Ya_far Yahaff Yahya Ya_ish Yasin Yaskar Yasid Yujamir Yusr Yusuf Zaban Zafir Zakariyya Zarb Ziyad Zuhayr Zuhr Zurar 
+		# Andalusian (CK3-style): ASCII; hyphen-free; A–Z balanced (~494)
+		Ahmed Ahmad Abdullah Abdulrahman Abdulaziz Abdulmalik Abdulkarim Abdulqadir Adel Adnan Adam Alaa Ala Ali Amer
+		Amir Amjad Ammar Amr Badr Baha Bahaa Bashir Bassam Bakr Baker Barakat Bilal Bishr Bishoy Botros Boutros Boulos
+		Burhan Badran Baqi Barir Basel Carlos Cristobal Cesar Constantino Cosme Cayo Clemente Claudio Ciro Cornelio
+		Conrado Cristiano Camilo Casimiro Celestin Cipriano Crispin Celso Cayetano Daud Dawud Daher Dahir Dani Daniel
+		Danyal Dawood Diar Diab Dimitri Diego Domingo Donato Dorian Djamal Djamel Djalil Darwish Ehab Elias Elia
+		Elisha Elie Elian Elyas Emad Emran Emin Emir Enrique Estevan Esteban Eugenio Ezequiel Eyad Ezz Ezzat Fadil
+		Fadel Fadl Fadi Fahd Fahad Fahim Faisal Faiz Farid Fares Faris Faruq Farouk Fathi Fathy Fawaz Fuad Fawwaz
+		Gabriel Gamal Gamil Gamaliel Gaspar Gonsalo Gonzalo Geraldo Gerardo Gil Gines Ghaith Ghazwan Gharib Ghaleb
+		Ghali Ghaithallah Ghailan Gomaa Hadi Hakam Hakim Halim Hamdan Hamdi Hamed Hamid Hammam Hamza Hani Harith Harun
+		Hasan Hassan Hisham Hilal Husayn Hussein Ibrahim Idris Ihab Ihsan Imad Imran Isa Ismael Ismail Ishaq Ilias
+		Ilyas Ilyes Izzat Izzeddin Ibnarabi Iyad Iyas Isidro Jabir Jaber Jabr Jad Jafar Jalal Jamal Jamil Jamaan Jawad
+		Jawdat Jibril Jihad Jose Josep Jorge Joaquin Jonas Jordano Kais Kamal Kamel Kamil Karam Karim Kareem Kassem
+		Khalaf Khaled Khalid Khalil Khairi Khairy Khattab Khayyam Kaysan Kutaiba Khadir Labib Laith Latif Lawi Lazhar
+		Lutfi Luqman Luay Luai Luis Leon Leonardo Lorenzo Lope Lopez Luca Luciano Luqyan Lahi Maher Mahir Mahdi Mahmud
+		Mahmoud Majed Majid Mamun Malek Malik Mansur Mansour Marwan Mazen Mazin Moath Moaz Moad Mourad Nabil Nabeel
+		Nader Nadim Nadeem Naeem Naim Naji Najib Najm Nasir Nasser Nasr Nassim Nayef Nazih Nuaman Nouman Numan Omar
+		Omer Osama Othman Omarion Omran Oqba Okasha Obaid Obaida Obeid Oweis Owais Ouday Oudai Ovidio Octavio Orlando
+		Olegario Pedro Pablo Pascual Patricio Pancracio Paolo Paulo Patric Pietro Petro Pepi Pier Pierre Panagiotis
+		Pantaleon Pio Prospero Placido Policarpo Qais Qays Qadir Qader Qasim Qassem Qusay Qusayy Qutaiba Qutaibah
+		Qudama Qudsi Qamar Qanit Qarim Qayyim Qudrat Qaswara Qurashi Rabih Rabie Raad Rafic Rafi Rafik Rafiq Raed
+		Ragheb Rakan Rami Ramy Ramzi Ramzy Rashid Ridwan Riyad Rafael Rodrigo Saad Saeed Said Sabah Sabir Saber Safi
+		Safwan Salah Saleh Salem Salim Salman Samer Sami Samir Santiago Samuel Sulaiman Taha Taim Taym Tayeb Tamer
+		Tamim Tammam Talal Taleb Talib Tariq Tarik Tawfiq Teodoro Tomas Tomaso Thiago Thabit Taysir Umar Umer Uthman
+		Usama Ussama Ubayd Ubaid Uday Uwais Uways Uzair Uqba Uqbah Umair Umayr Usayd Uthaymin Uddin Uziel Victor
+		Vicente Valentin Valerio Valeriano Valon Vasco Vidal Virgilio Vincente Vincent Vittor Vito Vittorio Vartan
+		Velasco Ventura Valente ValerioM Wael Wajdi Wajih Walid Waleed Wali Waliy Waseem Wasim Wassim Wasil Wasfi
+		Wazir Wafi Wafic Waddah Wadah Wadi Wahid Xavier Xavi Xabier Ximen Ximeno Ximun Xose Xoan Xenon Xenios Xeno
+		Xerxes Xenophon Xeraf Xerafon Xandro Xandroz Xever Xalbador Yacob Yacoub Yaqoub Yahya Yair Yamin Yamen Yaman
+		Yasser Yasir Yassin Yaseen Yazeed Yazid Yazan Yousef Youssef Yunis Yusuf Zaid Zayd Zain Zaine Zakaria Zakariya
+		Zaki Zakir Ziad Ziyad Zohair Zoheir Zohir Zuhair Zuhayr Zubair Zubayr Zafar Zamora
 	}
 	female_names = {
-		Abda Ahu Aiza A_isha Afiya Aliyah al-Shura Amat_al_Aziz Amat_al_Izz Amat_al_Jaliq Amat_al_Rahman Amat_al_Wahhab Amina Amira Arwa Asma Asmuna Asmuniya Atika Awriya Ayluh Ayshuna Aziza Baraka Bazi_a Butayna Dana Daniyah Dhuna Dima Fahra Fahriya Fatima Faynan Gamila Ganiya Ghada Gislan Habiba Hadija Hakima Halawa Hamda Hamida Hassana Hawa_ Hayal Hayzuran Hind Huda Ibtisam Idlal Ihtizaz Ishush Isra Jalida Jawra Kanza Karima Kera Khadija Kinda Layla Lidhdha
-		Maha Mahabba Mahjuna Makkiya Malika Mariam Masabih Ma_shuq Maymuna Mayya Mu_amarra Muhja Munya Muzahima Muzna Nadia Naila Najat Najma Nazhun Nu_ayma Nur Nuwayra Nuzha Qasmuna Qusayma Rafiqa Rahat Raisa Randa Rasis Ra_y Rayhana Ruhayma Ruqayya Sa_ada Sa_duna Safiya Sakan Salma Samra Shakira Shawwab Su_ad Sukayna Suraya Tahira Tahr Tahtazz Tarifa Tarub Thashim Umayna Urraka Usayma Utayqa Wahida Wallada 
-		Yasmin Zahida Zahra
+		# Andalusian (CK3-style): ASCII; hyphen-free; A–Z balanced (~494)
+		Aisha Aishah Aaliyah Alaa Alaia Alia Aliya Alya Amal Amel Amira Amina Amna Anisa Anissa Arwa Asma Asmaa Assia
+		Badria Bahia Basma Basima Bayan Batoul Batool Buthaina Buthayna Bouchra Bushra Balsam Baraka Baria Bilqis
+		Balqis Blanca Beatriz Brigida Chadia Chaima Chaimaa Chahd Chiraz Chamsa Chams Chaza Chayma Cherine Celine
+		Carine Carla Carmen Catalina Caterina Cecilia Clara Claudia Dalia Dalal Dina Doaa Duaa Duha Doha Dorra Doria
+		Dounia Donia Dahlia Dareen Dalila Dhakira Dihya Dihia Djamila Djemila Eman Eiman Elham Elaf Ebtissam Ebtisam
+		Ebtihal Ebtihaj Enas Enass Elisa Eliane Eliana Elisabet Esraa Eshal Ejlal Encarnacion Elvira Farah Fariha
+		Farida Feriha Fadwa Fadoua Faten Fathia Fathiya Fatma Fatima Fatimah Faiza Fayza Ferial Feryal Firdaws Fairuz
+		Fajra Ghada Ghadeer Ghadir Ghalia Ghalya Ghaliya Ghalila Ghina Ghofran Ghufran Ghusun Gabriela Gracia
+		Guadalupe Genoveva Geraldina Gema Gisela Gina Hala Hanaa Hana Hanane Haneen Hanin Hanan Hajar Hajer Haifa
+		Hafsa Halima Halimah Hend Hind Houda Huda Hodei Hadeel Ibtisam Ibtissam Ibtihal Ibtihaj Ijlal Ikram Ilham Iman
+		Imane Imani Inas Ines Intissar Intisar Iqra Israa Isra Izdihar Izzah Jana Jannah Jamila Jamilah Jasmine Jasmin
+		Jawahir Jawhara Jehan Jihan Joumana Jumana Jomana Jouri Joud Jood Judy Jimena Juana Karima Kawthar Kawtar
+		Kenza Kenzi Khadija Khadijah Khawla Kholoud Khouloud Khulud Kamila Kamelia Katia Katrina Kristina Kristine
+		Khadra Kasandra Laila Layla Leila Lamia Lamiaa Lamya Latifa Lateefa Layan Layal Lina Linda Lamis Lobna Lubna
+		Lujain Lojain Lulwa Leonor Maha Mahira Mai Maya May Maryam Mariam Maram Marina Meriem Meriam Meera Mira Mona
+		Mouna Muna Munira Marwa Mercedes Nada Nadia Nadine Nahed Naheda Naima Naeema Najla Najwa Nawal Nawel Nermine
+		Nesma Nesrine Nisrine Nihal Nashwa Nour Noor Ola Olfat Olfa Omnia Omneya Oumaima Omayma Omaima Omaira Ohood
+		Olla Orouba Omairah Omama Omaida Omniah Omneiah Oumaimaa Olalla Perla Perihan Paula Pauline Pascale Pascaline
+		Patricia Pamela Priscilla Philomena Pierrette Paolina Patrizia Pilar Penelope Pearl Phoebe Petra Petronila
+		Qamar Qamra Qamaria Qadriya Qadira Qanita Qanitah Qisma Qismat Qudsia Qudsiyya Qutayla Qantara Qawlah Qayla
+		Qailah Quiteria Queralt Quirina Racha Raja Rajaa Rajae Rana Rania Rasha Rawan Razan Rahaf Rahma Reem Rim Rima
+		Ruba Roua Roula Ritaj Rosalia Saba Sabah Sabrine Sabrin Safa Safia Safiya Sahar Saida Salma Saloua Salwa Sama
+		Samah Samar Samia Samira Sanaa Sara Tala Talin Tamara Tasneem Tasnim Tahani Tahira Taima Thana Thanaa Thuraya
+		Thoria Teresa Teodora Trinidad Tula Tawhida Tamsin Thalia Ula Ulfa Ulfat Umaima Umayma Umnia Umniah Umaira
+		Umayra Uhood Uruj Uzma Unsa Uns Unsiya Ummi Ureem Urwa Ursula Vera Veronique Veronica Vanessa Valentina
+		Valeria Violetta Violet Virginia Vivian Vittoria Victoria Valerie Vida Vivi Viona Viviane Vincenza Virtudes
+		Wafa Wafaa Walaa Widad Wijdan Wajd Wisal Wissal Ward Warda Wardah Wallada Wasila Wassila Wasima Wassima Wisam
+		Wissam Wisteria Xena Xenia Xaviera Xiomara Xiana Ximena Xeniah Xanthe Xanthi Xanthia Xyla Xylie Xara Xaria
+		Xenette Xeniaa Xenaya Xylaa Xesca Yara Yasmin Yasmine Yasmeen Yosra Yousra Yusra Yumna Yomna Yamama Yamamah
+		Yaqeen Yasira Yovanna Yasna Yasra Yusraa Yumnaia Yesenia Zaynab Zeinab Zaynaba Zein Zeina Zeinah Zain Zaina
+		Zina Zahra Zahira Zahraa Zohra Zohrah Zuleikha Zulaikha Zeinat Zakia Zakiya
 	}
 	dynasty_of_location_prefix = "dynnp_mn"
 
@@ -990,15 +1204,71 @@ name_list_yemeni = {
 	}
 
 	male_Names = {
-		Abu-Bakr Aarif Abdul-Gafur Abdul-Jaleel Abdul-Qadir Abdul-Wahab Abdullah Aden Aghlab Akin Ali Alim Aram Azam Bahir
-		Fadil Fadl Faruk Ghalib Hafiz Halil Hasan Husam Hussayn Ibrahim Idris Is_mail Isa Jabir Jalil Jibril Khalil Malik Mahdi Mahmud
-		Mansur Mirza Mubarak Muhammad Mukhtar Murad Musa Najib Nasr Nizam Qawurd Ramadan Sadiq Sami Samir Shaiban
-		Shamir Shujah Sulayman Talib Ubayd Uways Yahya Ya_qub Youkhanna Yusuf Zeyd Zulfiqar
+		# Yemen (modern): ASCII; hyphen-free; A–Z balanced (~494)
+		Ahmed Ahmad Abdullah Abdulrahman Abdulaziz Abdulmalik Abdulkarim Abdulqadir Abdulhadi Abdulhakim Abdulhamid
+		Abdulwahab Abdulwali Abdulsalam Abdelrahman Adel Adnan Alaa Ala Badr Bashir Bassam Basel Basil Baqi Barakat
+		Bilal Bishr Bishoy Botros Boutros Boulos Burhan Badran Bahaa Baha Bayan Basharat Carim Carlos Christopher
+		Christian Cyril Cosmas Constantine Cornelius Camilo Clement Cristian Crispin Cesar Claudio Conrad Carmel
+		Casper Cyrille Cristobal Daud Dawud Dawood Diaa Dhia Dirar Diab Dinar Diyar Djamal Djamel Djalil Daher Dahir
+		Daniel Danyal Dominic Dorian Dawoud Ehab Essam Eid Eissa Elyas Elia Elie Elias Emad Emran Emin Emir Eyad Ezz
+		Ezzat Ezzeddin Ezzidin Ezat Eshaq Fadi Fadl Fadhel Fadil Fadel Fahd Fahad Fahim Faisal Faiz Farid Fares Faris
+		Faruq Farouk Fathi Fathy Fawaz Fuad Ghaleb Ghalib Gharam Gharib Ghanem Ghaith Ghazwan Ghulam Ghaly Gomaa Gamal
+		Gamil Galal Ghani Ghaithallah Ghailan Ghawth Ghasan Gaber Hadi Hady Hafiz Hafez Hakam Hakim Halim Hamdan Hamdi
+		Hamed Hamid Hammam Hamza Hani Harith Harun Hasan Hassan Hashim Ibrahim Idris Ihab Ihsan Imad Imran Ilyas Ilias
+		Ismail Ismael Ishaq Issam Islam Izzat Izzeddin Izz IbnSina IbnRushd Iyad Jabir Jaber Jabr Jad Jafar Jalal
+		Jamal Jamil Jamaan Jawad Jawdat Jibril Jihad Juma Jumaa Jude Jalil JamalEddin Jowhar Kais Kamal Kamel Kamil
+		Karam Karim Kareem Kassem Kassim Khalaf Khaled Khalid Khalil Khairy Khairi Khattab Khuzayma Khayyam Kutaiba
+		Labib Laith Latif Lawi Lazhar Lutfi Luqman Luay Luai Luqyan Lami Labeeb Lut Luqmaan Loy Luqmon Lafi Lahib Lahi
+		Maher Mahir Mahdi Mahmoud Mahmud Majed Majid Makki Mamun Malek Malik Mansur Mansour Marwan Mazin Mazen Moath
+		Moaz Moad Nabil Nabeel Nader Nadim Nadeem Naeem Naim Naji Najib Najm Nasir Nasser Nasr Nassim Nayef Nazih
+		Nuaman Nouman Numan Omar Omer Osama Othman Omran Obaid Obaida Obeid Oweis Owais Ouday Oudai Okasha Oqba Oqbah
+		Omarion Omaran Omair Omayr Paul Peter Petros Pierre Philip Philippe Pascal Pavel Paolo Pablo Patrick Patrice
+		Pietro Panagiotis Pepi Pier Pierrot Pietros Ptolemy Qais Qays Qadir Qader Qasim Qassem Qusay Qutaiba Qudama
+		Qudsi Qamar Qaswara Qanit Qannas Qarim Qayyim Qusayy Qutaibah Qudrat Rabih Rabie Raad Rafic Rafi Rafik Rafiq
+		Raed Ragheb Rakan Rami Ramy Ramzi Ramzy Rashid Ridwan Riyad Rauf Raouf Saad Saeed Said Sabri Saber Sadiq Safi
+		Safwan Salah Saleh Salem Salim Salman Samer Sami Samir Sultan Shaker Shukri Taha Taiseer Taisir Taim Taym
+		Tayeb Tamer Tamim Tammam Talal Taleb Talib Tariq Tarek Tarik Tawfiq Thabit Thamer Taysir Umar Umer Uthman
+		Usama Ussama Ubayd Ubaid Uday Uwais Uways Uzair Uqba Uqbah Umair Umayr Usayd Uthaymin Uzaid Uziel Victor
+		Viktor Vincent Vince Valery Valerio Valerian Valentin Valon Vartan Varouj Varoujan Vasil Vasile Vlad Valerioh
+		Vasco Vladimir Vittor Wael Wajdi Wajih Walid Waleed Wali Waliy Waseem Wasim Wassim Wasil Wasfi Wazir Wafi
+		Wafic Waddah Wadah Wadi Wahid Xavier Xander Xavian Xeno Xenon Xenios Xavi Xaver Xerxes Xenith Xenov Xenod
+		Xenonios Xian Xenor Xeraf Xerafon Xenophon Xerxeson Yahya Yasser Yasir Yasin Yassin Yaseen Yazeed Yazid Yazan
+		Yamen Yaman Yousef Youssef Younes Yunis Yusuf Yehya Yacoub Yaqoub Zaid Zayd Zain Zaine Zakaria Zakariya Zaki
+		Zakir Ziad Ziyad Zohair Zoheir Zohir Zuhair Zuhayr Zubair Zubayr Zafar Zamel
 	}
 	female_Names = {
-		Adila Amsha Asiya Faghira Habiba Hanifa Isra Jahaira Kamala Layla Maryam Munya Nafisa Nyawela Parand Parween Paymaneh Paywand Qamara Rafiqa Rasa Rashida Reshawna
-		Saaman Sabba Saghar Sahba Sajida Samira Semeah Setara Shahrbano Shahzadah Shameem Shararah Sheeftah Sheeva Shogofa Shokouh Shola Sholah Simin Souzan
-		Taliba Tanaz Taneen Yagana Yakta Yasmin Zaynab
+		# Yemen (modern): ASCII; hyphen-free; A–Z balanced (~494)
+		Aisha Aishah Aaliyah Alaa Alia Aliya Alya Amal Amel Amira Amina Amna Anisa Anissa Arwa Asma Asmaa Assia Aya
+		Badria Bahia Basma Basima Bayan Batoul Batool Buthaina Buthayna Bouchra Bushra Balsam Baraka Baria Balqis
+		Bilqis Basmah Basmaa Bisan Christine Christina Christelle Carine Celine Carla Carmen Caroline Clarissa Claudia
+		Chantal Cherine Cynthia Cyrine Celina Carina Cecilia Cristina Catalina Dalia Dalal Dina Doaa Duaa Duha Doha
+		Dorra Doria Dounia Donia Dahlia Dareen Dalila Dhakira Djamila Djemila Dania Dinae Eman Eiman Elham Elaf
+		Ebtissam Ebtisam Ebtihal Ebtihaj Enas Enass Elisa Eliane Eliana Elisabet Esraa Eshal Ejlal Engy Emanuela Farah
+		Fariha Farida Feriha Fadwa Fadoua Faten Fathia Fathiya Fatma Fatima Fatimah Faiza Fayza Ferial Feryal Firdaws
+		Fairuz Fadilah Ghada Ghadeer Ghadir Ghalia Ghalya Ghaliya Ghalila Ghina Ghofran Ghufran Ghusun Ghaita Ghania
+		Ghazala Ghazwa Gharam Galila Gamila Gina Hala Hanaa Hana Hanane Haneen Hanin Hanan Hajar Hajer Haifa Hafsa
+		Halima Halimah Hend Hind Houda Huda Hadeel Hasna Ibtisam Ibtissam Ibtihal Ibtihaj Ijlal Ikram Ilham Iman Imane
+		Imani Inas Ines Intissar Intisar Iqra Israa Isra Izdihar Izzah Jana Jannah Jamila Jamilah Jasmine Jasmin
+		Jawahir Jawhara Jehan Jihan Joumana Jumana Jomana Jouri Joud Jood Judy Jalila Jumanae Karima Kawthar Kawtar
+		Kenza Kenzi Khadija Khadijah Khawla Kholoud Khouloud Khulud Kamila Kamelia Katia Katrina Kristina Kristine
+		Khadra Kawla Laila Layla Leila Lamia Lamiaa Lamya Latifa Lateefa Layan Layal Lina Linda Lamis Lobna Lubna
+		Lujain Lojain Lulwa Loulwa Maha Mahira Mai Maya May Maryam Mariam Maram Marina Meriem Meriam Meera Mira Mona
+		Mouna Muna Munira Marwa Maysaa Nada Nadia Nadine Nahed Naheda Naima Naeema Najla Najwa Nawal Nawel Nermine
+		Nesma Nesrine Nisrine Nihal Nashwa Nour Noor Ola Olfat Olfa Omnia Omneya Oumaima Omayma Omaima Omaira Ohood
+		Olla Orouba Omairah Omama Omaida Omniah Omneiah Oumaimaa Omneia Perla Perihan Paula Pauline Pascale Pascaline
+		Patricia Pamela Priscilla Philomena Pierrette Paolina Patrizia Pilar Penelope Pearl Phoebe Polina Prisca Qamar
+		Qamra Qamaria Qadriya Qadira Qanita Qanitah Qisma Qismat Qudsia Qudsiyya Qutayla Qantara Qawlah Qayla Qailah
+		Qamarina Qudra Qudsiya Racha Raja Rajaa Rajae Rana Rania Rasha Rawan Razan Rahaf Rahma Reem Rim Rima Ruba Roua
+		Roula Ritaj Rowan Saba Sabah Sabrine Sabrin Safa Safia Safiya Sahar Saida Salma Saloua Salwa Sama Samah Samar
+		Samia Samira Sanaa Sara Tala Talin Tamara Tasneem Tasnim Tahani Tahira Taima Thana Thanaa Thuraya Thoria
+		Tawhida Tifaf Tayma Tamima Tamanna Toulin Tulin Ula Ulfa Ulfat Umaima Umayma Umnia Umniah Umaira Umayra Uhood
+		Uruj Uzma Unsa Uns Unsiya Ummi Ureem Urwa Umaynah Vera Veronique Veronica Vanessa Valentina Valeria Violetta
+		Violet Virginia Vivian Vittoria Victoria Valerie Vida Vivi Viona Viviane Vincenza Virtudes Wafa Wafaa Walaa
+		Widad Wijdan Wajd Wisal Wissal Weam Wiam Ward Warda Wardah Wurood Wurooda Wasila Wassila Wasima Wassima Xena
+		Xenia Xaviera Xylia Xylina Xiomara Xiana Xeniah Xanthe Xanthi Xanthia Xyla Xylie Xara Xaria Xenette Xeniaa
+		Xenaya Xylaa Yara Yasmin Yasmine Yasmeen Yosra Yousra Yusra Yumna Yomna Yamama Yamamah Yaqeen Yasira Yumnaa
+		Yovanna Yasna Yasra Yusraa Yumnaia Zainab Zeinab Zaynab Zein Zeina Zeinah Zain Zaina Zina Zahra Zahira Zahraa
+		Zohra Zohrah Zuleikha Zulaikha Zeinat Zakia Zakiya
 	}
 	dynasty_of_location_prefix = "dynnp_mn"
 	
