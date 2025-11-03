@@ -159,3 +159,243 @@
 	name = "dynn_Green"
 	culture = "english"
 }
+4000041 = {
+	name = "dynn_Hall"
+	culture = "english"
+}
+4000042 = {
+	name = "dynn_Rivera"
+	culture = "english"
+}
+4000043 = {
+	name = "dynn_Campbell"
+	culture = "english"
+}
+4000044 = {
+	name = "dynn_Mitchell"
+	culture = "english"
+}
+4000045 = {
+	name = "dynn_Carter"
+	culture = "english"
+}
+4000046 = {
+	name = "dynn_Roberts"
+	culture = "english"
+}
+4000047 = {
+	name = "dynn_Gomez"
+	culture = "english"
+}
+4000048 = {
+	name = "dynn_Phillips"
+	culture = "english"
+}
+4000049 = {
+	name = "dynn_Evans"
+	culture = "english"
+}
+4000050 = {
+	name = "dynn_Turner"
+	culture = "english"
+}
+4000051 = {
+	name = "dynn_Diaz"
+	culture = "english"
+}
+4000052 = {
+	name = "dynn_Parker"
+	culture = "english"
+}
+4000053 = {
+	name = "dynn_Cruz"
+	culture = "english"
+}
+4000054 = {
+	name = "dynn_Edwards"
+	culture = "english"
+}
+4000055 = {
+	name = "dynn_Collins"
+	culture = "english"
+}
+4000056 = {
+	name = "dynn_Reyes"
+	culture = "english"
+}
+4000057 = {
+	name = "dynn_Stewart"
+	culture = "english"
+}
+4000058 = {
+	name = "dynn_Morris"
+	culture = "english"
+}
+4000059 = {
+	name = "dynn_Morales"
+	culture = "english"
+}
+4000060 = {
+	name = "dynn_Murphy"
+	culture = "english"
+}
+4000061 = {
+	name = "dynn_Cook"
+	culture = "english"
+}
+4000062 = {
+	name = "dynn_Rogers"
+	culture = "english"
+}
+4000063 = {
+	name = "dynn_Gutierrez"
+	culture = "english"
+}
+4000064 = {
+	name = "dynn_Ortiz"
+	culture = "english"
+}
+4000065 = {
+	name = "dynn_Morgan"
+	culture = "english"
+}
+4000066 = {
+	name = "dynn_Cooper"
+	culture = "english"
+}
+4000067 = {
+	name = "dynn_Peterson"
+	culture = "english"
+}
+4000068 = {
+	name = "dynn_Bailey"
+	culture = "english"
+}
+4000069 = {
+	name = "dynn_Reed"
+	culture = "english"
+}
+4000070 = {
+	name = "dynn_Kelly"
+	culture = "english"
+}
+4000071 = {
+	name = "dynn_Howard"
+	culture = "english"
+}
+4000072 = {
+	name = "dynn_Ramos"
+	culture = "english"
+}
+4000073 = {
+	name = "dynn_Kim"
+	culture = "english"
+}
+4000074 = {
+	name = "dynn_Cox"
+	culture = "english"
+}
+4000075 = {
+	name = "dynn_Ward"
+	culture = "english"
+}
+4000076 = {
+	name = "dynn_Richardson"
+	culture = "english"
+}
+4000077 = {
+	name = "dynn_Watson"
+	culture = "english"
+}
+4000078 = {
+	name = "dynn_Brooks"
+	culture = "english"
+}
+4000079 = {
+	name = "dynn_Chavez"
+	culture = "english"
+}
+4000080 = {
+	name = "dynn_Wood"
+	culture = "english"
+}
+4000081 = {
+	name = "dynn_James"
+	culture = "english"
+}
+4000082 = {
+	name = "dynn_Bennett"
+	culture = "english"
+}
+4000083 = {
+	name = "dynn_Gray"
+	culture = "english"
+}
+4000084 = {
+	name = "dynn_Mendoza"
+	culture = "english"
+}
+4000085 = {
+	name = "dynn_Ruiz"
+	culture = "english"
+}
+4000086 = {
+	name = "dynn_Hughes"
+	culture = "english"
+}
+4000087 = {
+	name = "dynn_Price"
+	culture = "english"
+}
+4000088 = {
+	name = "dynn_Alvarez"
+	culture = "english"
+}
+4000089 = {
+	name = "dynn_Castillo"
+	culture = "english"
+}
+4000090 = {
+	name = "dynn_Sanders"
+	culture = "english"
+}
+4000091 = {
+	name = "dynn_Patel"
+	culture = "english"
+}
+4000092 = {
+	name = "dynn_Myers"
+	culture = "english"
+}
+4000093 = {
+	name = "dynn_Long"
+	culture = "english"
+}
+4000094 = {
+	name = "dynn_Ross"
+	culture = "english"
+}
+4000095 = {
+	name = "dynn_Foster"
+	culture = "english"
+}
+4000096 = {
+	name = "dynn_Jimenez"
+	culture = "english"
+}
+4000097 = {
+	name = "dynn_Powell"
+	culture = "english"
+}
+4000098 = {
+	name = "dynn_Jenkins"
+	culture = "english"
+}
+4000099 = {
+	name = "dynn_Perry"
+	culture = "english"
+}
+4000100 = {
+	name = "dynn_Russell"
+	culture = "english"
+}
